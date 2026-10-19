@@ -1,0 +1,4 @@
+step,simulation_end_us,sensory_spikes,motor_spikes,weight_changes,key,frame_changed
+0,50000,144,6,237,a,false
+1,100000,135,6,474,none,true
+2,150000,148,7,582,none,false

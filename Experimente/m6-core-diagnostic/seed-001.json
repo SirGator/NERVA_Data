@@ -1,0 +1,1614 @@
+{
+  "cells": [
+    {
+      "action_us": 41010001,
+      "actual_arrivals": [
+        [
+          41011501,
+          0.5670859813690186
+        ],
+        [
+          41021501,
+          0.5670859813690186
+        ],
+        [
+          41031501,
+          0.5670859813690186
+        ]
+      ],
+      "control_reproduces_network": true,
+      "intrinsic_current": -6.697942733764648,
+      "key": "a",
+      "mapping": "normal",
+      "membrane_tau_us": 20000.0,
+      "neuron": 32,
+      "unchanged_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5670859813690186,
+            "potential_after": 0.4341481328010559,
+            "potential_before": -0.13293784856796265,
+            "potential_plus_input": 0.4341481328010559,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5670859813690186,
+            "potential_after": 0.7777014970779419,
+            "potential_before": 0.21061548590660095,
+            "potential_plus_input": 0.7777014970779419,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5670859813690186,
+            "potential_after": 0.986077070236206,
+            "potential_before": 0.4189911186695099,
+            "potential_plus_input": 0.986077070236206,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 0,
+        "spike_times_us": []
+      },
+      "zero_intrinsic_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5670859813690186,
+            "potential_after": 0.44383373856544495,
+            "potential_before": -0.12325224280357361,
+            "potential_plus_input": 0.44383373856544495,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5670859813690186,
+            "potential_after": 0.8362847566604614,
+            "potential_before": 0.26919877529144287,
+            "potential_plus_input": 0.8362847566604614,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": true,
+            "input_amplitude": 0.5670859813690186,
+            "potential_after": 0.0,
+            "potential_before": 0.5072323679924011,
+            "potential_plus_input": 1.0743184089660645,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 1,
+        "spike_times_us": [
+          41031501
+        ]
+      }
+    },
+    {
+      "action_us": 41010001,
+      "actual_arrivals": [
+        [
+          41011501,
+          0.5572364330291748
+        ],
+        [
+          41021501,
+          0.5572364330291748
+        ],
+        [
+          41031501,
+          0.5572364330291748
+        ]
+      ],
+      "control_reproduces_network": true,
+      "intrinsic_current": -5.552647113800049,
+      "key": "a",
+      "mapping": "normal",
+      "membrane_tau_us": 20000.0,
+      "neuron": 33,
+      "unchanged_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5572364330291748,
+            "potential_after": 0.44718676805496216,
+            "potential_before": -0.11004967242479324,
+            "potential_plus_input": 0.44718676805496216,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5572364330291748,
+            "potential_after": 0.7847729921340942,
+            "potential_before": 0.22753655910491943,
+            "potential_plus_input": 0.7847729921340942,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5572364330291748,
+            "potential_after": 0.9895293712615967,
+            "potential_before": 0.4322929382324219,
+            "potential_plus_input": 0.9895293712615967,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 0,
+        "spike_times_us": []
+      },
+      "zero_intrinsic_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5572364330291748,
+            "potential_after": 0.4552161991596222,
+            "potential_before": -0.10202022641897202,
+            "potential_plus_input": 0.4552161991596222,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5572364330291748,
+            "potential_after": 0.8333389759063721,
+            "potential_before": 0.27610257267951965,
+            "potential_plus_input": 0.8333389759063721,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": true,
+            "input_amplitude": 0.5572364330291748,
+            "potential_after": 0.0,
+            "potential_before": 0.505445659160614,
+            "potential_plus_input": 1.0626821517944336,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 1,
+        "spike_times_us": [
+          41031501
+        ]
+      }
+    },
+    {
+      "action_us": 41010001,
+      "actual_arrivals": [
+        [
+          41011501,
+          0.5565064549446106
+        ],
+        [
+          41021501,
+          0.5565064549446106
+        ],
+        [
+          41031501,
+          0.5565064549446106
+        ]
+      ],
+      "control_reproduces_network": true,
+      "intrinsic_current": -6.908805847167969,
+      "key": "a",
+      "mapping": "normal",
+      "membrane_tau_us": 20000.0,
+      "neuron": 21,
+      "unchanged_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5565064549446106,
+            "potential_after": 0.4384801983833313,
+            "potential_before": -0.11802627146244049,
+            "potential_plus_input": 0.4384801983833313,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5565064549446106,
+            "potential_after": 0.7680901288986206,
+            "potential_before": 0.21158364415168762,
+            "potential_plus_input": 0.7680901288986206,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5565064549446106,
+            "potential_after": 0.9680086374282837,
+            "potential_before": 0.4115021526813507,
+            "potential_plus_input": 0.9680086374282837,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 0,
+        "spike_times_us": []
+      },
+      "zero_intrinsic_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5565064549446106,
+            "potential_after": 0.44847071170806885,
+            "potential_before": -0.10803573578596115,
+            "potential_plus_input": 0.44847071170806885,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5565064549446106,
+            "potential_after": 0.8285176753997803,
+            "potential_before": 0.27201125025749207,
+            "potential_plus_input": 0.8285176753997803,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": true,
+            "input_amplitude": 0.5565064549446106,
+            "potential_after": 0.0,
+            "potential_before": 0.5025213956832886,
+            "potential_plus_input": 1.059027910232544,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 1,
+        "spike_times_us": [
+          41031501
+        ]
+      }
+    },
+    {
+      "action_us": 41010001,
+      "actual_arrivals": [
+        [
+          41011501,
+          0.5873023867607117
+        ],
+        [
+          41021501,
+          0.5873023867607117
+        ],
+        [
+          41031501,
+          0.5873023867607117
+        ]
+      ],
+      "control_reproduces_network": true,
+      "intrinsic_current": -9.341196060180664,
+      "key": "d",
+      "mapping": "normal",
+      "membrane_tau_us": 20000.0,
+      "neuron": 31,
+      "unchanged_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5873023867607117,
+            "potential_after": 0.40286973118782043,
+            "potential_before": -0.18443265557289124,
+            "potential_plus_input": 0.40286973118782043,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5873023867607117,
+            "potential_after": 0.7581457495689392,
+            "potential_before": 0.17084337770938873,
+            "potential_plus_input": 0.7581457495689392,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5873023867607117,
+            "potential_after": 0.9736315608024597,
+            "potential_before": 0.38632917404174805,
+            "potential_plus_input": 0.9736315608024597,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 0,
+        "spike_times_us": []
+      },
+      "zero_intrinsic_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5873023867607117,
+            "potential_after": 0.41637763381004333,
+            "potential_before": -0.17092475295066833,
+            "potential_plus_input": 0.41637763381004333,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5873023867607117,
+            "potential_after": 0.8398481607437134,
+            "potential_before": 0.2525458037853241,
+            "potential_plus_input": 0.8398481607437134,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": true,
+            "input_amplitude": 0.5873023867607117,
+            "potential_after": 0.0,
+            "potential_before": 0.5093936920166016,
+            "potential_plus_input": 1.096696138381958,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 1,
+        "spike_times_us": [
+          41031501
+        ]
+      }
+    },
+    {
+      "action_us": 41010001,
+      "actual_arrivals": [
+        [
+          41011501,
+          0.5666749477386475
+        ],
+        [
+          41021501,
+          0.5666749477386475
+        ],
+        [
+          41031501,
+          0.5666749477386475
+        ]
+      ],
+      "control_reproduces_network": true,
+      "intrinsic_current": -7.311282634735107,
+      "key": "d",
+      "mapping": "normal",
+      "membrane_tau_us": 20000.0,
+      "neuron": 16,
+      "unchanged_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5666749477386475,
+            "potential_after": 0.43245625495910645,
+            "potential_before": -0.13421867787837982,
+            "potential_plus_input": 0.43245625495910645,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5666749477386475,
+            "potential_after": 0.7714375853538513,
+            "potential_before": 0.20476265251636505,
+            "potential_plus_input": 0.7714375853538513,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5666749477386475,
+            "potential_after": 0.97704017162323,
+            "potential_before": 0.4103652238845825,
+            "potential_plus_input": 0.97704017162323,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 0,
+        "spike_times_us": []
+      },
+      "zero_intrinsic_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5666749477386475,
+            "potential_after": 0.4430288076400757,
+            "potential_before": -0.12364613264799118,
+            "potential_plus_input": 0.4430288076400757,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5666749477386475,
+            "potential_after": 0.8353855013847351,
+            "potential_before": 0.26871055364608765,
+            "potential_plus_input": 0.8353855013847351,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": true,
+            "input_amplitude": 0.5666749477386475,
+            "potential_after": 0.0,
+            "potential_before": 0.5066869258880615,
+            "potential_plus_input": 1.073361873626709,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 1,
+        "spike_times_us": [
+          41031501
+        ]
+      }
+    },
+    {
+      "action_us": 41010001,
+      "actual_arrivals": [
+        [
+          41011501,
+          0.5648473501205444
+        ],
+        [
+          41021501,
+          0.5648473501205444
+        ],
+        [
+          41031501,
+          0.5648473501205444
+        ]
+      ],
+      "control_reproduces_network": true,
+      "intrinsic_current": -6.638923645019531,
+      "key": "d",
+      "mapping": "normal",
+      "membrane_tau_us": 20000.0,
+      "neuron": 14,
+      "unchanged_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5648473501205444,
+            "potential_after": 0.4440461993217468,
+            "potential_before": -0.1208011656999588,
+            "potential_plus_input": 0.4440461993217468,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5648473501205444,
+            "potential_after": 0.7819307446479797,
+            "potential_before": 0.2170833945274353,
+            "potential_plus_input": 0.7819307446479797,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5648473501205444,
+            "potential_after": 0.9868680834770203,
+            "potential_before": 0.42202073335647583,
+            "potential_plus_input": 0.9868680834770203,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 0,
+        "spike_times_us": []
+      },
+      "zero_intrinsic_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5648473501205444,
+            "potential_after": 0.4536464512348175,
+            "potential_before": -0.11120090633630753,
+            "potential_plus_input": 0.4536464512348175,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5648473501205444,
+            "potential_after": 0.8399978280067444,
+            "potential_before": 0.27515047788619995,
+            "potential_plus_input": 0.8399978280067444,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": true,
+            "input_amplitude": 0.5648473501205444,
+            "potential_after": 0.0,
+            "potential_before": 0.5094844698905945,
+            "potential_plus_input": 1.0743317604064941,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 1,
+        "spike_times_us": [
+          41031501
+        ]
+      }
+    },
+    {
+      "action_us": 41010001,
+      "actual_arrivals": [
+        [
+          41011501,
+          0.5670859813690186
+        ],
+        [
+          41021501,
+          0.5670859813690186
+        ],
+        [
+          41031501,
+          0.5670859813690186
+        ]
+      ],
+      "control_reproduces_network": true,
+      "intrinsic_current": -6.697942733764648,
+      "key": "a",
+      "mapping": "reversed",
+      "membrane_tau_us": 20000.0,
+      "neuron": 32,
+      "unchanged_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5670859813690186,
+            "potential_after": 0.4341481328010559,
+            "potential_before": -0.13293784856796265,
+            "potential_plus_input": 0.4341481328010559,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5670859813690186,
+            "potential_after": 0.7777014970779419,
+            "potential_before": 0.21061548590660095,
+            "potential_plus_input": 0.7777014970779419,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5670859813690186,
+            "potential_after": 0.986077070236206,
+            "potential_before": 0.4189911186695099,
+            "potential_plus_input": 0.986077070236206,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 0,
+        "spike_times_us": []
+      },
+      "zero_intrinsic_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5670859813690186,
+            "potential_after": 0.44383373856544495,
+            "potential_before": -0.12325224280357361,
+            "potential_plus_input": 0.44383373856544495,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5670859813690186,
+            "potential_after": 0.8362847566604614,
+            "potential_before": 0.26919877529144287,
+            "potential_plus_input": 0.8362847566604614,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": true,
+            "input_amplitude": 0.5670859813690186,
+            "potential_after": 0.0,
+            "potential_before": 0.5072323679924011,
+            "potential_plus_input": 1.0743184089660645,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 1,
+        "spike_times_us": [
+          41031501
+        ]
+      }
+    },
+    {
+      "action_us": 41010001,
+      "actual_arrivals": [
+        [
+          41011501,
+          0.5572364330291748
+        ],
+        [
+          41021501,
+          0.5572364330291748
+        ],
+        [
+          41031501,
+          0.5572364330291748
+        ]
+      ],
+      "control_reproduces_network": true,
+      "intrinsic_current": -5.552647113800049,
+      "key": "a",
+      "mapping": "reversed",
+      "membrane_tau_us": 20000.0,
+      "neuron": 33,
+      "unchanged_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5572364330291748,
+            "potential_after": 0.44718676805496216,
+            "potential_before": -0.11004967242479324,
+            "potential_plus_input": 0.44718676805496216,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5572364330291748,
+            "potential_after": 0.7847729921340942,
+            "potential_before": 0.22753655910491943,
+            "potential_plus_input": 0.7847729921340942,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5572364330291748,
+            "potential_after": 0.9895293712615967,
+            "potential_before": 0.4322929382324219,
+            "potential_plus_input": 0.9895293712615967,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 0,
+        "spike_times_us": []
+      },
+      "zero_intrinsic_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5572364330291748,
+            "potential_after": 0.4552161991596222,
+            "potential_before": -0.10202022641897202,
+            "potential_plus_input": 0.4552161991596222,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5572364330291748,
+            "potential_after": 0.8333389759063721,
+            "potential_before": 0.27610257267951965,
+            "potential_plus_input": 0.8333389759063721,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": true,
+            "input_amplitude": 0.5572364330291748,
+            "potential_after": 0.0,
+            "potential_before": 0.505445659160614,
+            "potential_plus_input": 1.0626821517944336,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 1,
+        "spike_times_us": [
+          41031501
+        ]
+      }
+    },
+    {
+      "action_us": 41010001,
+      "actual_arrivals": [
+        [
+          41011501,
+          0.5565064549446106
+        ],
+        [
+          41021501,
+          0.5565064549446106
+        ],
+        [
+          41031501,
+          0.5565064549446106
+        ]
+      ],
+      "control_reproduces_network": true,
+      "intrinsic_current": -7.192859172821045,
+      "key": "a",
+      "mapping": "reversed",
+      "membrane_tau_us": 20000.0,
+      "neuron": 21,
+      "unchanged_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5565064549446106,
+            "potential_after": 0.41365766525268555,
+            "potential_before": -0.14284878969192505,
+            "potential_plus_input": 0.41365766525268555,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5565064549446106,
+            "potential_after": 0.7507991194725037,
+            "potential_before": 0.19429266452789307,
+            "potential_plus_input": 0.7507991194725037,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5565064549446106,
+            "potential_after": 0.9552857279777527,
+            "potential_before": 0.3987792730331421,
+            "potential_plus_input": 0.9552857279777527,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 0,
+        "spike_times_us": []
+      },
+      "zero_intrinsic_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5565064549446106,
+            "potential_after": 0.4240589439868927,
+            "potential_before": -0.1324475109577179,
+            "potential_plus_input": 0.4240589439868927,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5565064549446106,
+            "potential_after": 0.8137111663818359,
+            "potential_before": 0.25720474123954773,
+            "potential_plus_input": 0.8137111663818359,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": true,
+            "input_amplitude": 0.5565064549446106,
+            "potential_after": 0.0,
+            "potential_before": 0.49354076385498047,
+            "potential_plus_input": 1.0500471591949463,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 1,
+        "spike_times_us": [
+          41031501
+        ]
+      }
+    },
+    {
+      "action_us": 41010001,
+      "actual_arrivals": [
+        [
+          41011501,
+          0.5873023867607117
+        ],
+        [
+          41021501,
+          0.5873023867607117
+        ],
+        [
+          41031501,
+          0.5873023867607117
+        ]
+      ],
+      "control_reproduces_network": true,
+      "intrinsic_current": -8.94811725616455,
+      "key": "d",
+      "mapping": "reversed",
+      "membrane_tau_us": 20000.0,
+      "neuron": 31,
+      "unchanged_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5873023867607117,
+            "potential_after": 0.4083412289619446,
+            "potential_before": -0.17896117269992828,
+            "potential_plus_input": 0.4083412289619446,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5873023867607117,
+            "potential_after": 0.7645576596260071,
+            "potential_before": 0.1772552877664566,
+            "potential_plus_input": 0.7645576596260071,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5873023867607117,
+            "potential_after": 0.9806138277053833,
+            "potential_before": 0.39331144094467163,
+            "potential_plus_input": 0.9806138277053833,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 0,
+        "spike_times_us": []
+      },
+      "zero_intrinsic_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5873023867607117,
+            "potential_after": 0.42128071188926697,
+            "potential_before": -0.1660216748714447,
+            "potential_plus_input": 0.42128071188926697,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5873023867607117,
+            "potential_after": 0.8428220748901367,
+            "potential_before": 0.25551965832710266,
+            "potential_plus_input": 0.8428220748901367,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": true,
+            "input_amplitude": 0.5873023867607117,
+            "potential_after": 0.0,
+            "potential_before": 0.5111974477767944,
+            "potential_plus_input": 1.0984997749328613,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 1,
+        "spike_times_us": [
+          41031501
+        ]
+      }
+    },
+    {
+      "action_us": 41010001,
+      "actual_arrivals": [
+        [
+          41011501,
+          0.5666749477386475
+        ],
+        [
+          41021501,
+          0.5666749477386475
+        ],
+        [
+          41031501,
+          0.5666749477386475
+        ]
+      ],
+      "control_reproduces_network": true,
+      "intrinsic_current": -7.2368268966674805,
+      "key": "d",
+      "mapping": "reversed",
+      "membrane_tau_us": 20000.0,
+      "neuron": 16,
+      "unchanged_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5666749477386475,
+            "potential_after": 0.4219427704811096,
+            "potential_before": -0.14473216235637665,
+            "potential_plus_input": 0.4219427704811096,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5666749477386475,
+            "potential_after": 0.7656468152999878,
+            "potential_before": 0.19897183775901794,
+            "potential_plus_input": 0.7656468152999878,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5666749477386475,
+            "potential_after": 0.9741138219833374,
+            "potential_before": 0.40743887424468994,
+            "potential_plus_input": 0.9741138219833374,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 0,
+        "spike_times_us": []
+      },
+      "zero_intrinsic_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5666749477386475,
+            "potential_after": 0.4324076771736145,
+            "potential_before": -0.13426728546619415,
+            "potential_plus_input": 0.4324076771736145,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5666749477386475,
+            "potential_after": 0.8289434909820557,
+            "potential_before": 0.2622685134410858,
+            "potential_plus_input": 0.8289434909820557,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": true,
+            "input_amplitude": 0.5666749477386475,
+            "potential_after": 0.0,
+            "potential_before": 0.5027796626091003,
+            "potential_plus_input": 1.0694546699523926,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 1,
+        "spike_times_us": [
+          41031501
+        ]
+      }
+    },
+    {
+      "action_us": 41010001,
+      "actual_arrivals": [
+        [
+          41011501,
+          0.5648473501205444
+        ],
+        [
+          41021501,
+          0.5648473501205444
+        ],
+        [
+          41031501,
+          0.5648473501205444
+        ]
+      ],
+      "control_reproduces_network": true,
+      "intrinsic_current": -6.63157844543457,
+      "key": "d",
+      "mapping": "reversed",
+      "membrane_tau_us": 20000.0,
+      "neuron": 14,
+      "unchanged_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5648473501205444,
+            "potential_after": 0.4322201609611511,
+            "potential_before": -0.1326272040605545,
+            "potential_plus_input": 0.4322201609611511,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5648473501205444,
+            "potential_after": 0.7748156785964966,
+            "potential_before": 0.20996835827827454,
+            "potential_plus_input": 0.7748156785964966,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5648473501205444,
+            "potential_after": 0.9826103448867798,
+            "potential_before": 0.41776302456855774,
+            "potential_plus_input": 0.9826103448867798,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 0,
+        "spike_times_us": []
+      },
+      "zero_intrinsic_cell": {
+        "inputs": [
+          {
+            "emitted": false,
+            "input_amplitude": 0.5648473501205444,
+            "potential_after": 0.4418097734451294,
+            "potential_before": -0.12303756922483444,
+            "potential_plus_input": 0.4418097734451294,
+            "threshold": 1.0,
+            "time_us": 41011501
+          },
+          {
+            "emitted": false,
+            "input_amplitude": 0.5648473501205444,
+            "potential_after": 0.8328185081481934,
+            "potential_before": 0.2679711878299713,
+            "potential_plus_input": 0.8328185081481934,
+            "threshold": 1.0,
+            "time_us": 41021501
+          },
+          {
+            "emitted": true,
+            "input_amplitude": 0.5648473501205444,
+            "potential_after": 0.0,
+            "potential_before": 0.5051299929618835,
+            "potential_plus_input": 1.0699772834777832,
+            "threshold": 1.0,
+            "time_us": 41031501
+          }
+        ],
+        "spike_count": 1,
+        "spike_times_us": [
+          41031501
+        ]
+      }
+    }
+  ],
+  "interpretation": "Exploratory single-neuron counterfactual: actual inputs, only constant intrinsic current set to zero on a clone. No whole-network retraining, no regenerated recurrent feedback, no prediction success claim.",
+  "parent_parameters_preserved": true,
+  "protocol": "NERVA-M6-intrinsic-audit-v1",
+  "requested_config": {
+    "base": {
+      "arms": [
+        "before",
+        "aged_frozen",
+        "paired",
+        "scrambled"
+      ],
+      "calibration_trials": 128,
+      "case_id": "diag_D",
+      "params": {
+        "action_effect_delay_ms": 50,
+        "development": false,
+        "encoding": "deterministic",
+        "homeostasis": true,
+        "initial_drive": 0,
+        "motor_feedback": true,
+        "normalization": "equal_input_current",
+        "processing": 32,
+        "pruning_min_us": 5000000,
+        "resolution": 0,
+        "sensor": "effect_2ch",
+        "stdp": true
+      },
+      "protocol": "NERVA-M4-v1",
+      "seed": 1,
+      "test_trials": 128,
+      "train_trials": 256
+    },
+    "protocol": "NERVA-M6-v1",
+    "variant": "D"
+  },
+  "seed": 1,
+  "training_checkpoints": [
+    {
+      "key": "a",
+      "mapping": "normal_mapping",
+      "trained_core_state": {
+        "core_intrinsic_current": [
+          0.0,
+          -10.0,
+          -10.0,
+          -10.0,
+          0.0,
+          0.0,
+          -10.0,
+          -10.0,
+          0.0,
+          0.0,
+          -10.0,
+          0.0,
+          -6.638923645019531,
+          0.0,
+          -7.311282634735107,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -6.908805847167969,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -10.0,
+          0.0,
+          0.0,
+          0.0,
+          -9.341196060180664,
+          -6.697942733764648,
+          -5.552647113800049
+        ],
+        "core_potential_max": 0.8129447102546692,
+        "core_potential_mean": 0.07488240018756187,
+        "core_potential_min": -0.4299421012401581,
+        "core_potentials": [
+          -0.00009006256004795432,
+          -0.19988274574279785,
+          0.7039125561714172,
+          -0.09526142477989197,
+          0.0011748630786314607,
+          0.007242792751640081,
+          -0.08126816898584366,
+          -0.023862063884735107,
+          0.0,
+          -0.4019075036048889,
+          0.19314850866794586,
+          0.44661176204681396,
+          0.06088323891162872,
+          0.0,
+          0.11145927011966705,
+          0.4528020918369293,
+          0.0,
+          0.0,
+          -0.005678707268089056,
+          0.326595664024353,
+          -0.4299421012401581,
+          0.0008774652378633618,
+          -0.3577485680580139,
+          0.3418586552143097,
+          0.0,
+          0.8129447102546692,
+          0.0,
+          0.45570626854896545,
+          0.0,
+          -0.13550439476966858,
+          0.3012084662914276,
+          -0.0890437662601471
+        ],
+        "core_structural_drive": [
+          3.0,
+          1.2523102760314941,
+          1.0207672119140625,
+          0.7962620854377747,
+          3.0,
+          3.0,
+          0.0,
+          1.1303411722183228,
+          3.0,
+          3.0,
+          1.4881246089935303,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          1.0879247188568115,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0
+        ]
+      },
+      "trained_sensor_state": {
+        "sensor_intrinsic_currents": [
+          0.0,
+          0.0
+        ],
+        "sensor_intrinsic_max": 0.0,
+        "sensor_intrinsic_mean": 0.0,
+        "sensor_intrinsic_min": 0.0
+      }
+    },
+    {
+      "key": "d",
+      "mapping": "normal_mapping",
+      "trained_core_state": {
+        "core_intrinsic_current": [
+          0.0,
+          -10.0,
+          -10.0,
+          -10.0,
+          0.0,
+          0.0,
+          -10.0,
+          -10.0,
+          0.0,
+          0.0,
+          -10.0,
+          0.0,
+          -6.638923645019531,
+          0.0,
+          -7.311282634735107,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -6.908805847167969,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -10.0,
+          0.0,
+          0.0,
+          0.0,
+          -9.341196060180664,
+          -6.697942733764648,
+          -5.552647113800049
+        ],
+        "core_potential_max": 0.8129447102546692,
+        "core_potential_mean": 0.07488240018756187,
+        "core_potential_min": -0.4299421012401581,
+        "core_potentials": [
+          -0.00009006256004795432,
+          -0.19988274574279785,
+          0.7039125561714172,
+          -0.09526142477989197,
+          0.0011748630786314607,
+          0.007242792751640081,
+          -0.08126816898584366,
+          -0.023862063884735107,
+          0.0,
+          -0.4019075036048889,
+          0.19314850866794586,
+          0.44661176204681396,
+          0.06088323891162872,
+          0.0,
+          0.11145927011966705,
+          0.4528020918369293,
+          0.0,
+          0.0,
+          -0.005678707268089056,
+          0.326595664024353,
+          -0.4299421012401581,
+          0.0008774652378633618,
+          -0.3577485680580139,
+          0.3418586552143097,
+          0.0,
+          0.8129447102546692,
+          0.0,
+          0.45570626854896545,
+          0.0,
+          -0.13550439476966858,
+          0.3012084662914276,
+          -0.0890437662601471
+        ],
+        "core_structural_drive": [
+          3.0,
+          1.2523102760314941,
+          1.0207672119140625,
+          0.7962620854377747,
+          3.0,
+          3.0,
+          0.0,
+          1.1303411722183228,
+          3.0,
+          3.0,
+          1.4881246089935303,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          1.0879247188568115,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0
+        ]
+      },
+      "trained_sensor_state": {
+        "sensor_intrinsic_currents": [
+          0.0,
+          0.0
+        ],
+        "sensor_intrinsic_max": 0.0,
+        "sensor_intrinsic_mean": 0.0,
+        "sensor_intrinsic_min": 0.0
+      }
+    },
+    {
+      "key": "a",
+      "mapping": "reversed_mapping",
+      "trained_core_state": {
+        "core_intrinsic_current": [
+          0.0,
+          -10.0,
+          -10.0,
+          -10.0,
+          0.0,
+          0.0,
+          -10.0,
+          -10.0,
+          0.0,
+          0.0,
+          -10.0,
+          0.0,
+          -6.63157844543457,
+          0.0,
+          -7.2368268966674805,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -7.192859172821045,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -10.0,
+          0.0,
+          0.0,
+          0.0,
+          -8.94811725616455,
+          -6.697942733764648,
+          -5.552647113800049
+        ],
+        "core_potential_max": 0.9619736075401306,
+        "core_potential_mean": 0.10679513131981366,
+        "core_potential_min": -0.38943180441856384,
+        "core_potentials": [
+          -0.2683827877044678,
+          0.0,
+          0.3136599659919739,
+          0.03298799693584442,
+          0.4691227376461029,
+          0.4619790315628052,
+          0.3011521100997925,
+          -0.1998547464609146,
+          0.0,
+          -0.0001524390245322138,
+          0.29085609316825867,
+          0.0021585288923233747,
+          -0.1325610727071762,
+          0.0,
+          -0.14433497190475464,
+          0.44222283363342285,
+          0.0,
+          0.0,
+          -0.38943180441856384,
+          0.9619736075401306,
+          -0.0009805298177525401,
+          0.3437088131904602,
+          -0.0001948583812918514,
+          0.06034361943602562,
+          0.0,
+          0.45544999837875366,
+          0.0,
+          0.3844633102416992,
+          0.0,
+          -0.1789059340953827,
+          0.3012084662914276,
+          -0.0890437662601471
+        ],
+        "core_structural_drive": [
+          3.0,
+          1.4312889575958252,
+          0.9820765852928162,
+          0.786419689655304,
+          3.0,
+          3.0,
+          0.0,
+          0.9564183354377747,
+          3.0,
+          3.0,
+          1.3832485675811768,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          1.0332611799240112,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0
+        ]
+      },
+      "trained_sensor_state": {
+        "sensor_intrinsic_currents": [
+          0.0,
+          0.0
+        ],
+        "sensor_intrinsic_max": 0.0,
+        "sensor_intrinsic_mean": 0.0,
+        "sensor_intrinsic_min": 0.0
+      }
+    },
+    {
+      "key": "d",
+      "mapping": "reversed_mapping",
+      "trained_core_state": {
+        "core_intrinsic_current": [
+          0.0,
+          -10.0,
+          -10.0,
+          -10.0,
+          0.0,
+          0.0,
+          -10.0,
+          -10.0,
+          0.0,
+          0.0,
+          -10.0,
+          0.0,
+          -6.63157844543457,
+          0.0,
+          -7.2368268966674805,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -7.192859172821045,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -10.0,
+          0.0,
+          0.0,
+          0.0,
+          -8.94811725616455,
+          -6.697942733764648,
+          -5.552647113800049
+        ],
+        "core_potential_max": 0.9619736075401306,
+        "core_potential_mean": 0.10679513131981366,
+        "core_potential_min": -0.38943180441856384,
+        "core_potentials": [
+          -0.2683827877044678,
+          0.0,
+          0.3136599659919739,
+          0.03298799693584442,
+          0.4691227376461029,
+          0.4619790315628052,
+          0.3011521100997925,
+          -0.1998547464609146,
+          0.0,
+          -0.0001524390245322138,
+          0.29085609316825867,
+          0.0021585288923233747,
+          -0.1325610727071762,
+          0.0,
+          -0.14433497190475464,
+          0.44222283363342285,
+          0.0,
+          0.0,
+          -0.38943180441856384,
+          0.9619736075401306,
+          -0.0009805298177525401,
+          0.3437088131904602,
+          -0.0001948583812918514,
+          0.06034361943602562,
+          0.0,
+          0.45544999837875366,
+          0.0,
+          0.3844633102416992,
+          0.0,
+          -0.1789059340953827,
+          0.3012084662914276,
+          -0.0890437662601471
+        ],
+        "core_structural_drive": [
+          3.0,
+          1.4312889575958252,
+          0.9820765852928162,
+          0.786419689655304,
+          3.0,
+          3.0,
+          0.0,
+          0.9564183354377747,
+          3.0,
+          3.0,
+          1.3832485675811768,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          1.0332611799240112,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0
+        ]
+      },
+      "trained_sensor_state": {
+        "sensor_intrinsic_currents": [
+          0.0,
+          0.0
+        ],
+        "sensor_intrinsic_max": 0.0,
+        "sensor_intrinsic_mean": 0.0,
+        "sensor_intrinsic_min": 0.0
+      }
+    }
+  ]
+}

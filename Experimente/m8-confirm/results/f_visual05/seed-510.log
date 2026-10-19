@@ -1,0 +1,3 @@
+M8_COMPLETED f_visual05 seed 510
+    Finished `release` profile [optimized] target(s) in 0.01s
+     Running `Experimente/target/release/nerva-m8 --config Experimente/runs/m8-confirm/configs/f_visual05/seed-510.json --output Experimente/runs/m8-confirm/results/f_visual05/seed-510.json`

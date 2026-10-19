@@ -1,0 +1,2 @@
+    Finished `release` profile [optimized] target(s) in 0.01s
+     Running `Modell/target/release/nerva-m5 --config Experimente/runs/m5-confirm/configs/b_core_sensor/seed-208.json --output Experimente/runs/m5-confirm/results/b_core_sensor/seed-208.json`

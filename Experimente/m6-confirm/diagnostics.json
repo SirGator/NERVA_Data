@@ -1,0 +1,1132 @@
+{
+  "audits": [
+    {
+      "branch_rows": 24,
+      "case": "diag_A",
+      "phase_rows": 32384,
+      "seed": 300,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_A",
+      "phase_rows": 32384,
+      "seed": 301,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_A",
+      "phase_rows": 32384,
+      "seed": 302,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_A",
+      "phase_rows": 32384,
+      "seed": 303,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_A",
+      "phase_rows": 32384,
+      "seed": 304,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_A",
+      "phase_rows": 32384,
+      "seed": 305,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_A",
+      "phase_rows": 32384,
+      "seed": 306,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_A",
+      "phase_rows": 32384,
+      "seed": 307,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_A",
+      "phase_rows": 32384,
+      "seed": 308,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_A",
+      "phase_rows": 32384,
+      "seed": 309,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_B",
+      "phase_rows": 32384,
+      "seed": 300,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_B",
+      "phase_rows": 32384,
+      "seed": 301,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_B",
+      "phase_rows": 32384,
+      "seed": 302,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_B",
+      "phase_rows": 32384,
+      "seed": 303,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_B",
+      "phase_rows": 32384,
+      "seed": 304,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_B",
+      "phase_rows": 32384,
+      "seed": 305,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_B",
+      "phase_rows": 32384,
+      "seed": 306,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_B",
+      "phase_rows": 32384,
+      "seed": 307,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_B",
+      "phase_rows": 32384,
+      "seed": 308,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_B",
+      "phase_rows": 32384,
+      "seed": 309,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_C",
+      "phase_rows": 32384,
+      "seed": 300,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_C",
+      "phase_rows": 32384,
+      "seed": 301,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_C",
+      "phase_rows": 32384,
+      "seed": 302,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_C",
+      "phase_rows": 32384,
+      "seed": 303,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_C",
+      "phase_rows": 32384,
+      "seed": 304,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_C",
+      "phase_rows": 32384,
+      "seed": 305,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_C",
+      "phase_rows": 32384,
+      "seed": 306,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_C",
+      "phase_rows": 32384,
+      "seed": 307,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_C",
+      "phase_rows": 32384,
+      "seed": 308,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_C",
+      "phase_rows": 32384,
+      "seed": 309,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_D",
+      "phase_rows": 32384,
+      "seed": 300,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_D",
+      "phase_rows": 32384,
+      "seed": 301,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_D",
+      "phase_rows": 32384,
+      "seed": 302,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_D",
+      "phase_rows": 32384,
+      "seed": 303,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_D",
+      "phase_rows": 32384,
+      "seed": 304,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_D",
+      "phase_rows": 32384,
+      "seed": 305,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_D",
+      "phase_rows": 32384,
+      "seed": 306,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_D",
+      "phase_rows": 32384,
+      "seed": 307,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_D",
+      "phase_rows": 32384,
+      "seed": 308,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "diag_D",
+      "phase_rows": 32384,
+      "seed": 309,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_A",
+      "phase_rows": 32384,
+      "seed": 300,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_A",
+      "phase_rows": 32384,
+      "seed": 301,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_A",
+      "phase_rows": 32384,
+      "seed": 302,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_A",
+      "phase_rows": 32384,
+      "seed": 303,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_A",
+      "phase_rows": 32384,
+      "seed": 304,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_A",
+      "phase_rows": 32384,
+      "seed": 305,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_A",
+      "phase_rows": 32384,
+      "seed": 306,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_A",
+      "phase_rows": 32384,
+      "seed": 307,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_A",
+      "phase_rows": 32384,
+      "seed": 308,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_A",
+      "phase_rows": 32384,
+      "seed": 309,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_B",
+      "phase_rows": 32384,
+      "seed": 300,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_B",
+      "phase_rows": 32384,
+      "seed": 301,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_B",
+      "phase_rows": 32384,
+      "seed": 302,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_B",
+      "phase_rows": 32384,
+      "seed": 303,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_B",
+      "phase_rows": 32384,
+      "seed": 304,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_B",
+      "phase_rows": 32384,
+      "seed": 305,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_B",
+      "phase_rows": 32384,
+      "seed": 306,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_B",
+      "phase_rows": 32384,
+      "seed": 307,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_B",
+      "phase_rows": 32384,
+      "seed": 308,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_B",
+      "phase_rows": 32384,
+      "seed": 309,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_C",
+      "phase_rows": 32384,
+      "seed": 300,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_C",
+      "phase_rows": 32384,
+      "seed": 301,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_C",
+      "phase_rows": 32384,
+      "seed": 302,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_C",
+      "phase_rows": 32384,
+      "seed": 303,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_C",
+      "phase_rows": 32384,
+      "seed": 304,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_C",
+      "phase_rows": 32384,
+      "seed": 305,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_C",
+      "phase_rows": 32384,
+      "seed": 306,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_C",
+      "phase_rows": 32384,
+      "seed": 307,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_C",
+      "phase_rows": 32384,
+      "seed": 308,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_C",
+      "phase_rows": 32384,
+      "seed": 309,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_D",
+      "phase_rows": 32384,
+      "seed": 300,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_D",
+      "phase_rows": 32384,
+      "seed": 301,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_D",
+      "phase_rows": 32384,
+      "seed": 302,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_D",
+      "phase_rows": 32384,
+      "seed": 303,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_D",
+      "phase_rows": 32384,
+      "seed": 304,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_D",
+      "phase_rows": 32384,
+      "seed": 305,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_D",
+      "phase_rows": 32384,
+      "seed": 306,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_D",
+      "phase_rows": 32384,
+      "seed": 307,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_D",
+      "phase_rows": 32384,
+      "seed": 308,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    },
+    {
+      "branch_rows": 24,
+      "case": "pixels_D",
+      "phase_rows": 32384,
+      "seed": 309,
+      "sensor_rows": 32384,
+      "trial_rows": 4624
+    }
+  ],
+  "factorial_contrasts": [
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "B minus A",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "C minus A",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D minus A",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D minus B",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D minus C",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D-B-C+A interaction",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "B minus A",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "C minus A",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D minus A",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D minus B",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D minus C",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D-B-C+A interaction",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "B minus A",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "retained_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "C minus A",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "retained_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D minus A",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "retained_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D minus B",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "retained_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D minus C",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "retained_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D-B-C+A interaction",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "retained_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "B minus A",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "interference_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "C minus A",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "interference_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D minus A",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "interference_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D minus B",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "interference_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D minus C",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "interference_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D-B-C+A interaction",
+      "family": "diag",
+      "mean_difference": 0.0,
+      "stage": "interference_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "B minus A",
+      "family": "pixels",
+      "mean_difference": 0.0,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "C minus A",
+      "family": "pixels",
+      "mean_difference": 0.0,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D minus A",
+      "family": "pixels",
+      "mean_difference": 0.0,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D minus B",
+      "family": "pixels",
+      "mean_difference": 0.0,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D minus C",
+      "family": "pixels",
+      "mean_difference": 0.0,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "contrast": "D-B-C+A interaction",
+      "family": "pixels",
+      "mean_difference": 0.0,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci95": [
+        -0.005859375,
+        0.0
+      ],
+      "contrast": "B minus A",
+      "family": "pixels",
+      "mean_difference": -0.001953125,
+      "stage": "probe"
+    },
+    {
+      "ci95": [
+        -0.013671875,
+        -0.00078125
+      ],
+      "contrast": "C minus A",
+      "family": "pixels",
+      "mean_difference": -0.00625,
+      "stage": "probe"
+    },
+    {
+      "ci95": [
+        -0.01484375,
+        -0.000390625
+      ],
+      "contrast": "D minus A",
+      "family": "pixels",
+      "mean_difference": -0.00703125,
+      "stage": "probe"
+    },
+    {
+      "ci95": [
+        -0.010546875,
+        0.0
+      ],
+      "contrast": "D minus B",
+      "family": "pixels",
+      "mean_difference": -0.005078125,
+      "stage": "probe"
+    },
+    {
+      "ci95": [
+        -0.00546875,
+        0.00234375
+      ],
+      "contrast": "D minus C",
+      "family": "pixels",
+      "mean_difference": -0.00078125,
+      "stage": "probe"
+    },
+    {
+      "ci95": [
+        -0.0046875,
+        0.0078125
+      ],
+      "contrast": "D-B-C+A interaction",
+      "family": "pixels",
+      "mean_difference": 0.001171875,
+      "stage": "probe"
+    },
+    {
+      "ci95": [
+        -0.01171875,
+        0.0
+      ],
+      "contrast": "B minus A",
+      "family": "pixels",
+      "mean_difference": -0.00390625,
+      "stage": "retained_probe"
+    },
+    {
+      "ci95": [
+        -0.018359375,
+        0.001953125
+      ],
+      "contrast": "C minus A",
+      "family": "pixels",
+      "mean_difference": -0.006640625,
+      "stage": "retained_probe"
+    },
+    {
+      "ci95": [
+        -0.022265625,
+        0.0
+      ],
+      "contrast": "D minus A",
+      "family": "pixels",
+      "mean_difference": -0.009765625,
+      "stage": "retained_probe"
+    },
+    {
+      "ci95": [
+        -0.0125,
+        0.0
+      ],
+      "contrast": "D minus B",
+      "family": "pixels",
+      "mean_difference": -0.005859375,
+      "stage": "retained_probe"
+    },
+    {
+      "ci95": [
+        -0.01015625,
+        0.0015625
+      ],
+      "contrast": "D minus C",
+      "family": "pixels",
+      "mean_difference": -0.003125,
+      "stage": "retained_probe"
+    },
+    {
+      "ci95": [
+        -0.00859375,
+        0.009375
+      ],
+      "contrast": "D-B-C+A interaction",
+      "family": "pixels",
+      "mean_difference": 0.00078125,
+      "stage": "retained_probe"
+    },
+    {
+      "ci95": [
+        -0.008203125,
+        0.0
+      ],
+      "contrast": "B minus A",
+      "family": "pixels",
+      "mean_difference": -0.002734375,
+      "stage": "interference_probe"
+    },
+    {
+      "ci95": [
+        -0.041015625,
+        -0.005859375
+      ],
+      "contrast": "C minus A",
+      "family": "pixels",
+      "mean_difference": -0.022265625,
+      "stage": "interference_probe"
+    },
+    {
+      "ci95": [
+        -0.039453125,
+        -0.005859375
+      ],
+      "contrast": "D minus A",
+      "family": "pixels",
+      "mean_difference": -0.021484375,
+      "stage": "interference_probe"
+    },
+    {
+      "ci95": [
+        -0.034375,
+        -0.00390625
+      ],
+      "contrast": "D minus B",
+      "family": "pixels",
+      "mean_difference": -0.01875,
+      "stage": "interference_probe"
+    },
+    {
+      "ci95": [
+        -0.001171875,
+        0.003515625
+      ],
+      "contrast": "D minus C",
+      "family": "pixels",
+      "mean_difference": 0.00078125,
+      "stage": "interference_probe"
+    },
+    {
+      "ci95": [
+        -0.001171875,
+        0.01171875
+      ],
+      "contrast": "D-B-C+A interaction",
+      "family": "pixels",
+      "mean_difference": 0.003515625,
+      "stage": "interference_probe"
+    }
+  ],
+  "frozen_sensor_toggle_controls_equal": true,
+  "generated_input_matched": true,
+  "validated_branch_rows": 1920,
+  "validated_phase_rows": 2590720,
+  "validated_records": 80,
+  "validated_trial_rows": 369920
+}

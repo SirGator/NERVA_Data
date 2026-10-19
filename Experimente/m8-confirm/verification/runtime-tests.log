@@ -1,0 +1,13 @@
+   Compiling nerva-vm v0.1.0 (/home/simon/projekte/DSVLM/Modell)
+   Compiling nerva-experiments v0.1.0 (/home/simon/projekte/DSVLM/Experimente)
+    Finished `release` profile [optimized] target(s) in 4.88s
+     Running tests/m8.rs (Experimente/target/release/deps/m8-daeb23a78fb46b4d)
+
+running 2 tests
+test m8_rejects_unknown_fields_levels_and_combined_parameter_instructions ... ok
+M8_COMPLETED software_test seed 9
+M8_COMPLETED software_test seed 9
+test m8_parallel_outputs_and_full_checkpoint_rest_and_no_copy_contract_are_reproducible ... ok
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 1.51s
+

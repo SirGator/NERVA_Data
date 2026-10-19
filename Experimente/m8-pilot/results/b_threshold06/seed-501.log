@@ -1,0 +1,3 @@
+M8_COMPLETED b_threshold06 seed 501
+    Finished `release` profile [optimized] target(s) in 0.01s
+     Running `Experimente/target/release/nerva-m8 --config Experimente/runs/m8-pilot/configs/b_threshold06/seed-501.json --output Experimente/runs/m8-pilot/results/b_threshold06/seed-501.json`

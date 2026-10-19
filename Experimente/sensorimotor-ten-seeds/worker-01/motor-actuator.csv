@@ -1,0 +1,9 @@
+seed,competition,stimulus,expected_key,decoded_key,a_spikes,d_spikes,pixel_motion,passed
+1,false,silent,none,none,0,0,0,true
+1,false,a,a,a,1,0,-1,true
+1,false,d,d,d,0,1,1,true
+1,false,both,none,none,1,1,0,true
+1,true,silent,none,none,0,0,0,true
+1,true,a,a,a,1,0,-1,true
+1,true,d,d,d,0,1,1,true
+1,true,both,none,none,1,1,0,true

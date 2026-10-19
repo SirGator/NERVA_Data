@@ -1,0 +1,7 @@
+    Finished `release` profile [optimized] target(s) in 2.69s
+     Running `Experimente/target/release/nerva-m3 --seed 7 --jobs 1 --output /tmp/nerva-m4-infrastructure-m3-seed7`
+M3: seed 7, baseline, normal
+M3: seed 7, baseline, reversed
+M3: seed 7, reduced_motor_drive, normal
+M3: seed 7, reduced_motor_drive, reversed
+M3_COMPLETED: criteria met: false. Output: /tmp/nerva-m4-infrastructure-m3-seed7

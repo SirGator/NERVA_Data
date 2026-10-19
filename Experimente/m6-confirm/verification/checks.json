@@ -1,0 +1,19 @@
+{
+  "passed_tests": {
+    "model-tests-final": 25,
+    "nerva-tests": 323,
+    "experiments-tests": 29,
+    "adapter-tests": 20,
+    "qemu-model-tests": 1,
+    "qemu-experiments-tests": 3,
+    "python-tests": 3,
+    "python-m5-tests": 2,
+    "python-m4-tests": 7
+  },
+  "total": 413,
+  "clippy_all_packages": true,
+  "format_all_packages": true,
+  "shell_syntax": true,
+  "python_compile": true,
+  "all_data_audits": true
+}

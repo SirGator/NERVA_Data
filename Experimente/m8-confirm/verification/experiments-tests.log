@@ -1,0 +1,161 @@
+   Compiling nerva-experiments v0.1.0 (/home/simon/projekte/DSVLM/Experimente)
+    Finished `release` profile [optimized] target(s) in 3.09s
+     Running unittests src/lib.rs (Experimente/target/release/deps/nerva_experiments-7fd63331fa3630e9)
+
+running 5 tests
+test agency::tests::pixel_motion_is_measured_from_the_actual_next_image ... ok
+test sensorimotor::metrics::tests::balanced_accuracy_exposes_majority_bias_and_unseen_classes_are_errors ... ok
+test retention::tests::readout_uses_calibration_only_and_counts_new_test_classes_as_errors ... ok
+test agency::tests::agency_criteria_allow_equal_weight_learning_and_require_an_advantage_over_no_learning ... ok
+test sensorimotor::metrics::tests::temporal_bins_preserve_neuron_identity_and_counts_for_both_visual_encodings ... ok
+
+test result: ok. 5 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.40s
+
+     Running unittests src/main.rs (Experimente/target/release/deps/nerva_experiments-5dfd16b2ad1caf18)
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running unittests src/m3_main.rs (Experimente/target/release/deps/nerva_m3-5acb56fdb50a2b39)
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running unittests src/m7_main.rs (Experimente/target/release/deps/nerva_m7-ec6e612e155c68bb)
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running unittests src/m8_main.rs (Experimente/target/release/deps/nerva_m8-53ff3889c08caab8)
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running unittests src/sensorimotor_main.rs (Experimente/target/release/deps/nerva_sensorimotor-d7150c210edfb90e)
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running unittests src/serial_main.rs (Experimente/target/release/deps/nerva_serial-33522a628b633bde)
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/agency.rs (Experimente/target/release/deps/agency-81c04f72f268a93e)
+
+running 5 tests
+test invalid_experiment_configurations_are_rejected ... ok
+test schedules_hold_out_goal_positions_balance_directions_and_only_reverse_the_rules ... ok
+test frozen_model_resumes_existing_plasticity_without_rebuilding_its_network ... ok
+test parallel_seeds_match_serial_measurements_exactly ... ok
+test closed_loop_results_replay_exactly_and_neural_actions_follow_motor_activity ... ok
+
+test result: ok. 5 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 7.77s
+
+     Running tests/assay.rs (Experimente/target/release/deps/assay-d5ee7d62c0bee9ec)
+
+running 2 tests
+test incomplete_or_mislabeled_action_sequences_are_rejected ... ok
+test saved_recording_replays_with_a_matched_topology_control ... ok
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 4.51s
+
+     Running tests/learning.rs (Experimente/target/release/deps/learning-0a4c53b1bf17d6e1)
+
+running 3 tests
+test out_of_range_inputs_do_not_change_weights ... ok
+test guest_supplied_associations_are_learned_and_inference_is_frozen ... ok
+test weights_survive_restart_and_invalid_files_do_not_mutate_the_model ... ok
+
+test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
+
+     Running tests/m3.rs (Experimente/target/release/deps/m3-420b7f0b41a34811)
+
+running 3 tests
+test destroyed_pairing_preserves_the_exact_action_stream_and_both_marginals ... ok
+test motor_scan_scales_only_core_motor_edges_and_substeps_keep_pending_action_events ... ok
+test m3_cli_replays_and_keeps_future_images_out_of_action_time_features ... ok
+
+test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 11.53s
+
+     Running tests/m7.rs (Experimente/target/release/deps/m7-b56e4be7f5f741de)
+
+running 1 test
+M7_COMPLETED seed 7
+M7_COMPLETED seed 7
+test synaptic_audit_reproduces_m6_and_parallel_counterfactuals_are_byte_equal ... ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 2.28s
+
+     Running tests/m8.rs (Experimente/target/release/deps/m8-daeb23a78fb46b4d)
+
+running 2 tests
+test m8_rejects_unknown_fields_levels_and_combined_parameter_instructions ... ok
+M8_COMPLETED software_test seed 9
+M8_COMPLETED software_test seed 9
+test m8_parallel_outputs_and_full_checkpoint_rest_and_no_copy_contract_are_reproducible ... ok
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 1.52s
+
+     Running tests/protocol.rs (Experimente/target/release/deps/protocol-27ce71c2b3fe148f)
+
+running 2 tests
+test invalid_frames_and_disconnects_are_rejected_without_learning ... ok
+test fragmented_serial_training_and_prediction_complete_in_order ... ok
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/qemu.rs (Experimente/target/release/deps/qemu-c9104967f661f2e7)
+
+running 1 test
+test real_guest_learns_and_verifies_via_x86_ports ... ignored, requires qemu-system-x86_64 and GNU binutils; run explicitly
+
+test result: ok. 0 passed; 0 failed; 1 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/recurrent_replay.rs (Experimente/target/release/deps/recurrent_replay-c488e087a0f3a54c)
+
+running 1 test
+test frozen_core_preserves_weights_and_topology_and_replay_is_exact ... ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 1.24s
+
+     Running tests/retention.rs (Experimente/target/release/deps/retention-9cae6eab1f15cbf6)
+
+running 5 tests
+test general_recordings_roundtrip_without_weakening_the_original_study_protocol ... ok
+test action_controls_preserve_pixels_and_change_only_executed_copies ... ok
+test startup_growth_and_early_pruning_can_be_disabled_independently ... ok
+test trained_instance_freezes_without_reset_and_keeps_all_learned_parameters ... ok
+test retention_report_is_reproducible_and_uses_real_trained_checkpoints ... ok
+
+test result: ok. 5 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 22.68s
+
+     Running tests/sensorimotor.rs (Experimente/target/release/deps/sensorimotor-806e69e031ea1ec9)
+
+running 3 tests
+test competition_adds_only_symmetric_inhibitory_paths_and_leaves_the_base_scaffold_intact ... ok
+test isolated_motor_inputs_map_to_the_right_keys_and_inhibition_reaches_the_other_motor ... ok
+test effect_assay_replays_own_exploration_and_runs_as_a_separate_cli ... ok
+
+test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 43.51s
+
+     Running tests/visual_qemu.rs (Experimente/target/release/deps/visual_qemu-b2021d6fc1c054f9)
+
+running 2 tests
+test arbitrary_ad_recording_supports_a_reproducible_train_freeze_probe_command ... ignored, requires QEMU, binutils and local Unix sockets; run explicitly
+test recorded_ad_study_replays_identically_in_a_separate_process ... ignored, requires QEMU, binutils and local Unix sockets; run explicitly
+
+test result: ok. 0 passed; 0 failed; 2 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+   Doc-tests nerva_experiments
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+

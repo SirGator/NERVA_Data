@@ -1,0 +1,2 @@
+Interrupted before completion. Partial traces only.
+Complete ten-seed run: ../agency-ten-seeds-complete/agency.json

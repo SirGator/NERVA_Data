@@ -1,0 +1,108 @@
+{
+  "arms": [
+    "before",
+    "aged_frozen",
+    "paired",
+    "scrambled"
+  ],
+  "cases": [
+    {
+      "config": {
+        "action_effect_delay_ms": 8,
+        "development": false,
+        "encoding": "deterministic",
+        "homeostasis": true,
+        "initial_drive": 0,
+        "motor_feedback": true,
+        "normalization": "equal_input_current",
+        "processing": 32,
+        "pruning_min_us": 5000000,
+        "resolution": 0,
+        "sensor": "effect_2ch",
+        "stdp": true
+      },
+      "family": "sensor",
+      "hypothesis": "Two explicit visible left/right channels",
+      "id": "a01_minimal_2ch"
+    },
+    {
+      "config": {
+        "action_effect_delay_ms": 8,
+        "development": false,
+        "encoding": "deterministic",
+        "homeostasis": true,
+        "initial_drive": 0,
+        "motor_feedback": true,
+        "normalization": "equal_input_current",
+        "processing": 32,
+        "pruning_min_us": 5000000,
+        "resolution": 0,
+        "sensor": "position_7ch",
+        "stdp": true
+      },
+      "family": "sensor",
+      "hypothesis": "Visible position code",
+      "id": "a02_position_7ch"
+    },
+    {
+      "config": {
+        "action_effect_delay_ms": 20,
+        "development": false,
+        "encoding": "deterministic",
+        "homeostasis": true,
+        "initial_drive": 0,
+        "motor_feedback": true,
+        "normalization": "equal_input_current",
+        "processing": 32,
+        "pruning_min_us": 5000000,
+        "resolution": 0,
+        "sensor": "effect_2ch",
+        "stdp": true
+      },
+      "family": "initial_gate",
+      "hypothesis": "Two explicit visible left/right channels",
+      "id": "g01_minimal_2ch_delay20"
+    },
+    {
+      "config": {
+        "action_effect_delay_ms": 20,
+        "development": false,
+        "encoding": "deterministic",
+        "homeostasis": true,
+        "initial_drive": 0,
+        "motor_feedback": true,
+        "normalization": "equal_input_current",
+        "processing": 32,
+        "pruning_min_us": 5000000,
+        "resolution": 0,
+        "sensor": "position_7ch",
+        "stdp": true
+      },
+      "family": "initial_gate",
+      "hypothesis": "Visible position code",
+      "id": "g02_position_7ch_delay20"
+    }
+  ],
+  "checks": [
+    "No future sensory/action label leakage",
+    "Bit-identical initial networks",
+    "Paired equals frozen replay; scrambled preserves action stream and image marginals",
+    "Independent calibration and probe streams",
+    "Frozen probe",
+    "Balanced labels",
+    "Measured expected and actual input current",
+    "Controlled actions separate from decoder proposals"
+  ],
+  "protocol": "NERVA-M4-v1",
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "stage": "gate",
+  "trial_counts": {
+    "calibration_trials": 128,
+    "test_trials": 128,
+    "train_trials": 256
+  }
+}

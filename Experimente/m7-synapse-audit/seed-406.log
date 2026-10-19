@@ -1,0 +1,3 @@
+M7_COMPLETED seed 406
+    Finished `release` profile [optimized] target(s) in 0.01s
+     Running `Experimente/target/release/nerva-m7 --reference Experimente/runs/m6-core-control/results/core_D_off/seed-406.json --output Experimente/runs/m7-synapse-audit/results/seed-406`

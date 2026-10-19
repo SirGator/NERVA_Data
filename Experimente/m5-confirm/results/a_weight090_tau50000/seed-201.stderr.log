@@ -1,0 +1,3 @@
+    Blocking waiting for file lock on build directory
+    Finished `release` profile [optimized] target(s) in 0.01s
+     Running `Modell/target/release/nerva-m5 --config Experimente/runs/m5-confirm/configs/a_weight090_tau50000/seed-201.json --output Experimente/runs/m5-confirm/results/a_weight090_tau50000/seed-201.json`

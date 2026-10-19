@@ -1,0 +1,3 @@
+M8_COMPLETED e_fanout8 seed 518
+    Finished `release` profile [optimized] target(s) in 0.01s
+     Running `Experimente/target/release/nerva-m8 --config Experimente/runs/m8-confirm/configs/e_fanout8/seed-518.json --output Experimente/runs/m8-confirm/results/e_fanout8/seed-518.json`

@@ -1,0 +1,16 @@
+    Finished `release` profile [optimized] target(s) in 0.05s
+     Running tests/qemu.rs (Experimente/target/release/deps/qemu-efd28690a6151b97)
+
+running 1 test
+test real_guest_learns_and_verifies_via_x86_ports ... ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.14s
+
+     Running tests/visual_qemu.rs (Experimente/target/release/deps/visual_qemu-17a8160ab9d7cc22)
+
+running 2 tests
+test recorded_ad_study_replays_identically_in_a_separate_process ... ok
+test arbitrary_ad_recording_supports_a_reproducible_train_freeze_probe_command ... ok
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 21.69s
+

@@ -1,0 +1,613 @@
+{
+  "conditions": [
+    {
+      "action_copy_weight": 0.45,
+      "base": {
+        "arms": [
+          "before",
+          "aged_frozen",
+          "paired",
+          "scrambled"
+        ],
+        "calibration_trials": 128,
+        "case_id": "a_weight045_tau5000",
+        "params": {
+          "action_effect_delay_ms": 8,
+          "development": false,
+          "encoding": "deterministic",
+          "homeostasis": false,
+          "initial_drive": 0,
+          "motor_feedback": true,
+          "normalization": "equal_input_current",
+          "processing": 32,
+          "pruning_min_us": 5000000,
+          "resolution": 0,
+          "sensor": "effect_2ch",
+          "stdp": true
+        },
+        "protocol": "NERVA-M4-v1",
+        "seed": 0,
+        "test_trials": 128,
+        "train_trials": 256
+      },
+      "core_membrane_tau_us": 5000,
+      "experiment": "motor_threshold",
+      "homeostasis_scope": "none",
+      "protocol": "NERVA-M5-v1"
+    },
+    {
+      "action_copy_weight": 0.45,
+      "base": {
+        "arms": [
+          "before",
+          "aged_frozen",
+          "paired",
+          "scrambled"
+        ],
+        "calibration_trials": 128,
+        "case_id": "a_weight045_tau20000",
+        "params": {
+          "action_effect_delay_ms": 8,
+          "development": false,
+          "encoding": "deterministic",
+          "homeostasis": false,
+          "initial_drive": 0,
+          "motor_feedback": true,
+          "normalization": "equal_input_current",
+          "processing": 32,
+          "pruning_min_us": 5000000,
+          "resolution": 0,
+          "sensor": "effect_2ch",
+          "stdp": true
+        },
+        "protocol": "NERVA-M4-v1",
+        "seed": 0,
+        "test_trials": 128,
+        "train_trials": 256
+      },
+      "core_membrane_tau_us": 20000,
+      "experiment": "motor_threshold",
+      "homeostasis_scope": "none",
+      "protocol": "NERVA-M5-v1"
+    },
+    {
+      "action_copy_weight": 0.45,
+      "base": {
+        "arms": [
+          "before",
+          "aged_frozen",
+          "paired",
+          "scrambled"
+        ],
+        "calibration_trials": 128,
+        "case_id": "a_weight045_tau50000",
+        "params": {
+          "action_effect_delay_ms": 8,
+          "development": false,
+          "encoding": "deterministic",
+          "homeostasis": false,
+          "initial_drive": 0,
+          "motor_feedback": true,
+          "normalization": "equal_input_current",
+          "processing": 32,
+          "pruning_min_us": 5000000,
+          "resolution": 0,
+          "sensor": "effect_2ch",
+          "stdp": true
+        },
+        "protocol": "NERVA-M4-v1",
+        "seed": 0,
+        "test_trials": 128,
+        "train_trials": 256
+      },
+      "core_membrane_tau_us": 50000,
+      "experiment": "motor_threshold",
+      "homeostasis_scope": "none",
+      "protocol": "NERVA-M5-v1"
+    },
+    {
+      "action_copy_weight": 0.9,
+      "base": {
+        "arms": [
+          "before",
+          "aged_frozen",
+          "paired",
+          "scrambled"
+        ],
+        "calibration_trials": 128,
+        "case_id": "a_weight090_tau5000",
+        "params": {
+          "action_effect_delay_ms": 8,
+          "development": false,
+          "encoding": "deterministic",
+          "homeostasis": false,
+          "initial_drive": 0,
+          "motor_feedback": true,
+          "normalization": "equal_input_current",
+          "processing": 32,
+          "pruning_min_us": 5000000,
+          "resolution": 0,
+          "sensor": "effect_2ch",
+          "stdp": true
+        },
+        "protocol": "NERVA-M4-v1",
+        "seed": 0,
+        "test_trials": 128,
+        "train_trials": 256
+      },
+      "core_membrane_tau_us": 5000,
+      "experiment": "motor_threshold",
+      "homeostasis_scope": "none",
+      "protocol": "NERVA-M5-v1"
+    },
+    {
+      "action_copy_weight": 0.9,
+      "base": {
+        "arms": [
+          "before",
+          "aged_frozen",
+          "paired",
+          "scrambled"
+        ],
+        "calibration_trials": 128,
+        "case_id": "a_weight090_tau20000",
+        "params": {
+          "action_effect_delay_ms": 8,
+          "development": false,
+          "encoding": "deterministic",
+          "homeostasis": false,
+          "initial_drive": 0,
+          "motor_feedback": true,
+          "normalization": "equal_input_current",
+          "processing": 32,
+          "pruning_min_us": 5000000,
+          "resolution": 0,
+          "sensor": "effect_2ch",
+          "stdp": true
+        },
+        "protocol": "NERVA-M4-v1",
+        "seed": 0,
+        "test_trials": 128,
+        "train_trials": 256
+      },
+      "core_membrane_tau_us": 20000,
+      "experiment": "motor_threshold",
+      "homeostasis_scope": "none",
+      "protocol": "NERVA-M5-v1"
+    },
+    {
+      "action_copy_weight": 0.9,
+      "base": {
+        "arms": [
+          "before",
+          "aged_frozen",
+          "paired",
+          "scrambled"
+        ],
+        "calibration_trials": 128,
+        "case_id": "a_weight090_tau50000",
+        "params": {
+          "action_effect_delay_ms": 8,
+          "development": false,
+          "encoding": "deterministic",
+          "homeostasis": false,
+          "initial_drive": 0,
+          "motor_feedback": true,
+          "normalization": "equal_input_current",
+          "processing": 32,
+          "pruning_min_us": 5000000,
+          "resolution": 0,
+          "sensor": "effect_2ch",
+          "stdp": true
+        },
+        "protocol": "NERVA-M4-v1",
+        "seed": 0,
+        "test_trials": 128,
+        "train_trials": 256
+      },
+      "core_membrane_tau_us": 50000,
+      "experiment": "motor_threshold",
+      "homeostasis_scope": "none",
+      "protocol": "NERVA-M5-v1"
+    },
+    {
+      "action_copy_weight": 1.8,
+      "base": {
+        "arms": [
+          "before",
+          "aged_frozen",
+          "paired",
+          "scrambled"
+        ],
+        "calibration_trials": 128,
+        "case_id": "a_weight180_tau5000",
+        "params": {
+          "action_effect_delay_ms": 8,
+          "development": false,
+          "encoding": "deterministic",
+          "homeostasis": false,
+          "initial_drive": 0,
+          "motor_feedback": true,
+          "normalization": "equal_input_current",
+          "processing": 32,
+          "pruning_min_us": 5000000,
+          "resolution": 0,
+          "sensor": "effect_2ch",
+          "stdp": true
+        },
+        "protocol": "NERVA-M4-v1",
+        "seed": 0,
+        "test_trials": 128,
+        "train_trials": 256
+      },
+      "core_membrane_tau_us": 5000,
+      "experiment": "motor_threshold",
+      "homeostasis_scope": "none",
+      "protocol": "NERVA-M5-v1"
+    },
+    {
+      "action_copy_weight": 1.8,
+      "base": {
+        "arms": [
+          "before",
+          "aged_frozen",
+          "paired",
+          "scrambled"
+        ],
+        "calibration_trials": 128,
+        "case_id": "a_weight180_tau20000",
+        "params": {
+          "action_effect_delay_ms": 8,
+          "development": false,
+          "encoding": "deterministic",
+          "homeostasis": false,
+          "initial_drive": 0,
+          "motor_feedback": true,
+          "normalization": "equal_input_current",
+          "processing": 32,
+          "pruning_min_us": 5000000,
+          "resolution": 0,
+          "sensor": "effect_2ch",
+          "stdp": true
+        },
+        "protocol": "NERVA-M4-v1",
+        "seed": 0,
+        "test_trials": 128,
+        "train_trials": 256
+      },
+      "core_membrane_tau_us": 20000,
+      "experiment": "motor_threshold",
+      "homeostasis_scope": "none",
+      "protocol": "NERVA-M5-v1"
+    },
+    {
+      "action_copy_weight": 1.8,
+      "base": {
+        "arms": [
+          "before",
+          "aged_frozen",
+          "paired",
+          "scrambled"
+        ],
+        "calibration_trials": 128,
+        "case_id": "a_weight180_tau50000",
+        "params": {
+          "action_effect_delay_ms": 8,
+          "development": false,
+          "encoding": "deterministic",
+          "homeostasis": false,
+          "initial_drive": 0,
+          "motor_feedback": true,
+          "normalization": "equal_input_current",
+          "processing": 32,
+          "pruning_min_us": 5000000,
+          "resolution": 0,
+          "sensor": "effect_2ch",
+          "stdp": true
+        },
+        "protocol": "NERVA-M4-v1",
+        "seed": 0,
+        "test_trials": 128,
+        "train_trials": 256
+      },
+      "core_membrane_tau_us": 50000,
+      "experiment": "motor_threshold",
+      "homeostasis_scope": "none",
+      "protocol": "NERVA-M5-v1"
+    },
+    {
+      "action_copy_weight": 3.6,
+      "base": {
+        "arms": [
+          "before",
+          "aged_frozen",
+          "paired",
+          "scrambled"
+        ],
+        "calibration_trials": 128,
+        "case_id": "a_weight360_tau5000",
+        "params": {
+          "action_effect_delay_ms": 8,
+          "development": false,
+          "encoding": "deterministic",
+          "homeostasis": false,
+          "initial_drive": 0,
+          "motor_feedback": true,
+          "normalization": "equal_input_current",
+          "processing": 32,
+          "pruning_min_us": 5000000,
+          "resolution": 0,
+          "sensor": "effect_2ch",
+          "stdp": true
+        },
+        "protocol": "NERVA-M4-v1",
+        "seed": 0,
+        "test_trials": 128,
+        "train_trials": 256
+      },
+      "core_membrane_tau_us": 5000,
+      "experiment": "motor_threshold",
+      "homeostasis_scope": "none",
+      "protocol": "NERVA-M5-v1"
+    },
+    {
+      "action_copy_weight": 3.6,
+      "base": {
+        "arms": [
+          "before",
+          "aged_frozen",
+          "paired",
+          "scrambled"
+        ],
+        "calibration_trials": 128,
+        "case_id": "a_weight360_tau20000",
+        "params": {
+          "action_effect_delay_ms": 8,
+          "development": false,
+          "encoding": "deterministic",
+          "homeostasis": false,
+          "initial_drive": 0,
+          "motor_feedback": true,
+          "normalization": "equal_input_current",
+          "processing": 32,
+          "pruning_min_us": 5000000,
+          "resolution": 0,
+          "sensor": "effect_2ch",
+          "stdp": true
+        },
+        "protocol": "NERVA-M4-v1",
+        "seed": 0,
+        "test_trials": 128,
+        "train_trials": 256
+      },
+      "core_membrane_tau_us": 20000,
+      "experiment": "motor_threshold",
+      "homeostasis_scope": "none",
+      "protocol": "NERVA-M5-v1"
+    },
+    {
+      "action_copy_weight": 3.6,
+      "base": {
+        "arms": [
+          "before",
+          "aged_frozen",
+          "paired",
+          "scrambled"
+        ],
+        "calibration_trials": 128,
+        "case_id": "a_weight360_tau50000",
+        "params": {
+          "action_effect_delay_ms": 8,
+          "development": false,
+          "encoding": "deterministic",
+          "homeostasis": false,
+          "initial_drive": 0,
+          "motor_feedback": true,
+          "normalization": "equal_input_current",
+          "processing": 32,
+          "pruning_min_us": 5000000,
+          "resolution": 0,
+          "sensor": "effect_2ch",
+          "stdp": true
+        },
+        "protocol": "NERVA-M4-v1",
+        "seed": 0,
+        "test_trials": 128,
+        "train_trials": 256
+      },
+      "core_membrane_tau_us": 50000,
+      "experiment": "motor_threshold",
+      "homeostasis_scope": "none",
+      "protocol": "NERVA-M5-v1"
+    },
+    {
+      "action_copy_weight": 0.9,
+      "base": {
+        "arms": [
+          "before",
+          "aged_frozen",
+          "paired",
+          "scrambled"
+        ],
+        "calibration_trials": 128,
+        "case_id": "b_none",
+        "params": {
+          "action_effect_delay_ms": 8,
+          "development": false,
+          "encoding": "deterministic",
+          "homeostasis": false,
+          "initial_drive": 0,
+          "motor_feedback": true,
+          "normalization": "equal_input_current",
+          "processing": 128,
+          "pruning_min_us": 5000000,
+          "resolution": 16,
+          "sensor": "pixels",
+          "stdp": true
+        },
+        "protocol": "NERVA-M4-v1",
+        "seed": 0,
+        "test_trials": 128,
+        "train_trials": 256
+      },
+      "core_membrane_tau_us": 20000,
+      "experiment": "sensor_homeostasis",
+      "homeostasis_scope": "none",
+      "protocol": "NERVA-M5-v1"
+    },
+    {
+      "action_copy_weight": 0.9,
+      "base": {
+        "arms": [
+          "before",
+          "aged_frozen",
+          "paired",
+          "scrambled"
+        ],
+        "calibration_trials": 128,
+        "case_id": "b_core",
+        "params": {
+          "action_effect_delay_ms": 8,
+          "development": false,
+          "encoding": "deterministic",
+          "homeostasis": true,
+          "initial_drive": 0,
+          "motor_feedback": true,
+          "normalization": "equal_input_current",
+          "processing": 128,
+          "pruning_min_us": 5000000,
+          "resolution": 16,
+          "sensor": "pixels",
+          "stdp": true
+        },
+        "protocol": "NERVA-M4-v1",
+        "seed": 0,
+        "test_trials": 128,
+        "train_trials": 256
+      },
+      "core_membrane_tau_us": 20000,
+      "experiment": "sensor_homeostasis",
+      "homeostasis_scope": "core",
+      "protocol": "NERVA-M5-v1"
+    },
+    {
+      "action_copy_weight": 0.9,
+      "base": {
+        "arms": [
+          "before",
+          "aged_frozen",
+          "paired",
+          "scrambled"
+        ],
+        "calibration_trials": 128,
+        "case_id": "b_core_sensor",
+        "params": {
+          "action_effect_delay_ms": 8,
+          "development": false,
+          "encoding": "deterministic",
+          "homeostasis": true,
+          "initial_drive": 0,
+          "motor_feedback": true,
+          "normalization": "equal_input_current",
+          "processing": 128,
+          "pruning_min_us": 5000000,
+          "resolution": 16,
+          "sensor": "pixels",
+          "stdp": true
+        },
+        "protocol": "NERVA-M4-v1",
+        "seed": 0,
+        "test_trials": 128,
+        "train_trials": 256
+      },
+      "core_membrane_tau_us": 20000,
+      "experiment": "sensor_homeostasis",
+      "homeostasis_scope": "core_sensor",
+      "protocol": "NERVA-M5-v1"
+    },
+    {
+      "action_copy_weight": 0.9,
+      "base": {
+        "arms": [
+          "before",
+          "aged_frozen",
+          "paired",
+          "scrambled"
+        ],
+        "calibration_trials": 128,
+        "case_id": "b_all",
+        "params": {
+          "action_effect_delay_ms": 8,
+          "development": false,
+          "encoding": "deterministic",
+          "homeostasis": true,
+          "initial_drive": 0,
+          "motor_feedback": true,
+          "normalization": "equal_input_current",
+          "processing": 128,
+          "pruning_min_us": 5000000,
+          "resolution": 16,
+          "sensor": "pixels",
+          "stdp": true
+        },
+        "protocol": "NERVA-M4-v1",
+        "seed": 0,
+        "test_trials": 128,
+        "train_trials": 256
+      },
+      "core_membrane_tau_us": 20000,
+      "experiment": "sensor_homeostasis",
+      "homeostasis_scope": "all",
+      "protocol": "NERVA-M5-v1"
+    }
+  ],
+  "preregistration": {
+    "core_tau_us": [
+      5000,
+      20000,
+      50000
+    ],
+    "limits": "A measures signal prerequisites only. B first probe follows 20.48 s visual calibration; rest means neutral image. No result-dependent gain or parameter selection.",
+    "motor_copy_times_us": [
+      1,
+      10001,
+      20001
+    ],
+    "motor_horizon_us": 50000,
+    "motor_weights": [
+      0.45,
+      0.9,
+      1.8,
+      3.6
+    ],
+    "prediction_endpoint": "Paired beats before, aged_frozen and scrambled in both mappings and three probes; visual >=80%; ten new seeds",
+    "primary_causal_contrast": "core_sensor minus core: emitted visual spikes / generated input spikes",
+    "sensor_protocol": "unchanged M4 b01 16x16/128/8ms; all is the legacy reference",
+    "sensor_scopes": [
+      "none",
+      "core",
+      "core_sensor",
+      "all"
+    ],
+    "signal_endpoint": "Both A/D produce distinct count patterns and actual arrivals on plastic Core edges"
+  },
+  "protocol": "NERVA-M5-v1",
+  "seeds": [
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209
+  ],
+  "stage": "confirm",
+  "trial_counts": [
+    256,
+    128,
+    128
+  ]
+}

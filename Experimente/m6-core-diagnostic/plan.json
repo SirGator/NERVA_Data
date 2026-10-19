@@ -1,0 +1,13 @@
+{
+  "stage": "exploratory after fixed M6 pilot",
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "variant": "diag_D",
+  "hypothesis": "Negative intrinsic current suppresses three-copy integration after training",
+  "intervention": "Same cloned target cell and actual recorded arrivals; set only its constant intrinsic current to zero at action onset",
+  "controls": "Unchanged cell must reproduce full-network spike times; original parent parameters remain unchanged",
+  "scope": "One-cell electrical response; no full recurrent counterfactual or learning-success claim"
+}

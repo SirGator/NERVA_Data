@@ -1,0 +1,6651 @@
+{
+  "audits": [
+    {
+      "case": "a01_minimal_2ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a01_minimal_2ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a01_minimal_2ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a01_minimal_2ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a01_minimal_2ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a01_minimal_2ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a01_minimal_2ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a01_minimal_2ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a01_minimal_2ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a01_minimal_2ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 109,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a02_position_7ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1719,
+          "silent_windows": 17,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1685,
+          "silent_windows": 16,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 860,
+          "silent_windows": 209,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 855,
+          "silent_windows": 209,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a02_position_7ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1309,
+          "silent_windows": 202,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1328,
+          "silent_windows": 208,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1334,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1335,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a02_position_7ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1758,
+          "silent_windows": 164,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1753,
+          "silent_windows": 172,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 119,
+          "silent_windows": 706,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 119,
+          "silent_windows": 706,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a02_position_7ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1013,
+          "silent_windows": 2,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 989,
+          "silent_windows": 3,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1394,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1388,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a02_position_7ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 668,
+          "silent_windows": 260,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 655,
+          "silent_windows": 265,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1712,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1711,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a02_position_7ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1575,
+          "silent_windows": 94,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1581,
+          "silent_windows": 87,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1919,
+          "silent_windows": 21,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1998,
+          "silent_windows": 17,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a02_position_7ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 358,
+          "silent_windows": 485,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 385,
+          "silent_windows": 472,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 336,
+          "silent_windows": 434,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 332,
+          "silent_windows": 436,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a02_position_7ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 2317,
+          "silent_windows": 24,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 2332,
+          "silent_windows": 29,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1405,
+          "silent_windows": 54,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1407,
+          "silent_windows": 53,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a02_position_7ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1186,
+          "silent_windows": 191,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1277,
+          "silent_windows": 199,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 186,
+          "silent_windows": 582,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 186,
+          "silent_windows": 582,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a02_position_7ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 2240,
+          "silent_windows": 76,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 2234,
+          "silent_windows": 80,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1139,
+          "silent_windows": 5,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1142,
+          "silent_windows": 5,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 109,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a03_pixels_8",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 807,
+          "silent_windows": 450,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 786,
+          "silent_windows": 452,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a03_pixels_8",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 934,
+          "silent_windows": 356,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 943,
+          "silent_windows": 363,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1,
+          "silent_windows": 767,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a03_pixels_8",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 708,
+          "silent_windows": 390,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 800,
+          "silent_windows": 384,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a03_pixels_8",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 822,
+          "silent_windows": 303,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 833,
+          "silent_windows": 305,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1,
+          "silent_windows": 767,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a03_pixels_8",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1460,
+          "silent_windows": 190,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1338,
+          "silent_windows": 210,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 6,
+          "silent_windows": 762,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a03_pixels_8",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1295,
+          "silent_windows": 193,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1313,
+          "silent_windows": 185,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 294,
+          "silent_windows": 474,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 294,
+          "silent_windows": 474,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a03_pixels_8",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 842,
+          "silent_windows": 317,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 887,
+          "silent_windows": 320,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a03_pixels_8",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 935,
+          "silent_windows": 320,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 895,
+          "silent_windows": 327,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a03_pixels_8",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1073,
+          "silent_windows": 283,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1055,
+          "silent_windows": 274,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a03_pixels_8",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1314,
+          "silent_windows": 88,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1301,
+          "silent_windows": 89,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 109,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a04_pixels_16",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 782,
+          "silent_windows": 500,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 788,
+          "silent_windows": 506,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a04_pixels_16",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 912,
+          "silent_windows": 419,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 762,
+          "silent_windows": 415,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a04_pixels_16",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 714,
+          "silent_windows": 605,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 672,
+          "silent_windows": 605,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a04_pixels_16",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1329,
+          "silent_windows": 315,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1250,
+          "silent_windows": 321,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a04_pixels_16",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 899,
+          "silent_windows": 404,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 814,
+          "silent_windows": 412,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a04_pixels_16",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1311,
+          "silent_windows": 329,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1274,
+          "silent_windows": 336,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a04_pixels_16",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 663,
+          "silent_windows": 618,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 530,
+          "silent_windows": 631,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a04_pixels_16",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 805,
+          "silent_windows": 457,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 672,
+          "silent_windows": 459,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a04_pixels_16",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 915,
+          "silent_windows": 396,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 963,
+          "silent_windows": 412,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 82,
+          "silent_windows": 686,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 82,
+          "silent_windows": 686,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a04_pixels_16",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1008,
+          "silent_windows": 345,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 959,
+          "silent_windows": 345,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 109,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a05_pixels_64",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1030,
+          "silent_windows": 707,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1162,
+          "silent_windows": 703,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a05_pixels_64",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1109,
+          "silent_windows": 682,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 889,
+          "silent_windows": 700,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a05_pixels_64",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 962,
+          "silent_windows": 712,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 846,
+          "silent_windows": 720,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a05_pixels_64",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 839,
+          "silent_windows": 701,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1017,
+          "silent_windows": 696,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a05_pixels_64",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 894,
+          "silent_windows": 711,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 957,
+          "silent_windows": 706,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a05_pixels_64",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 980,
+          "silent_windows": 710,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1129,
+          "silent_windows": 710,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a05_pixels_64",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 885,
+          "silent_windows": 691,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1342,
+          "silent_windows": 682,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a05_pixels_64",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1029,
+          "silent_windows": 713,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1056,
+          "silent_windows": 708,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a05_pixels_64",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1053,
+          "silent_windows": 655,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1057,
+          "silent_windows": 657,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "a05_pixels_64",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1049,
+          "silent_windows": 647,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1119,
+          "silent_windows": 640,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 109,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b01_core_128",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4605,
+          "silent_windows": 38,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4683,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3000,
+          "silent_windows": 12,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 3016,
+          "silent_windows": 12,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b01_core_128",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5276,
+          "silent_windows": 40,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 5468,
+          "silent_windows": 23,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2297,
+          "silent_windows": 92,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2288,
+          "silent_windows": 92,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b01_core_128",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5267,
+          "silent_windows": 12,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 5220,
+          "silent_windows": 8,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2830,
+          "silent_windows": 2,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2803,
+          "silent_windows": 2,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b01_core_128",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4321,
+          "silent_windows": 55,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4201,
+          "silent_windows": 31,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1502,
+          "silent_windows": 144,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1502,
+          "silent_windows": 145,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b01_core_128",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5028,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4877,
+          "silent_windows": 2,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1850,
+          "silent_windows": 46,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1847,
+          "silent_windows": 46,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b01_core_128",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5072,
+          "silent_windows": 24,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 3775,
+          "silent_windows": 20,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1688,
+          "silent_windows": 2,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1688,
+          "silent_windows": 3,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b01_core_128",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4840,
+          "silent_windows": 34,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4636,
+          "silent_windows": 37,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1583,
+          "silent_windows": 196,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1578,
+          "silent_windows": 196,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b01_core_128",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4528,
+          "silent_windows": 46,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4529,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2801,
+          "silent_windows": 4,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2801,
+          "silent_windows": 4,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b01_core_128",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4294,
+          "silent_windows": 56,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4312,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3822,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 3834,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b01_core_128",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4963,
+          "silent_windows": 26,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4889,
+          "silent_windows": 16,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2190,
+          "silent_windows": 104,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2192,
+          "silent_windows": 104,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 109,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b02_core_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 8962,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 8436,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2279,
+          "silent_windows": 10,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2211,
+          "silent_windows": 13,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b02_core_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 8952,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 8961,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3852,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 4442,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b02_core_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 8952,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 8921,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1971,
+          "silent_windows": 67,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1923,
+          "silent_windows": 65,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b02_core_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 8407,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 8529,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3392,
+          "silent_windows": 1,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 3179,
+          "silent_windows": 55,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b02_core_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 8905,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 9198,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3155,
+          "silent_windows": 101,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2998,
+          "silent_windows": 98,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b02_core_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 9741,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 9703,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2365,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2857,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b02_core_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 8175,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 8230,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2326,
+          "silent_windows": 1,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2163,
+          "silent_windows": 23,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b02_core_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 8777,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 8687,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2490,
+          "silent_windows": 63,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2418,
+          "silent_windows": 49,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b02_core_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 8688,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 8545,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2284,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2202,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b02_core_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 9178,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 9102,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2298,
+          "silent_windows": 3,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2401,
+          "silent_windows": 20,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 109,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b03_full_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 8074,
+          "silent_windows": 392,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 8354,
+          "silent_windows": 376,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b03_full_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 6975,
+          "silent_windows": 370,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 6996,
+          "silent_windows": 370,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1,
+          "silent_windows": 767,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1,
+          "silent_windows": 767,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b03_full_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 6529,
+          "silent_windows": 403,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 6613,
+          "silent_windows": 396,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b03_full_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 6952,
+          "silent_windows": 422,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 6878,
+          "silent_windows": 432,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b03_full_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 7296,
+          "silent_windows": 382,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 6728,
+          "silent_windows": 396,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 36,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 36,
+          "silent_windows": 766,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b03_full_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 6683,
+          "silent_windows": 385,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 6489,
+          "silent_windows": 399,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 34,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 34,
+          "silent_windows": 766,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b03_full_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 6315,
+          "silent_windows": 436,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 6849,
+          "silent_windows": 450,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b03_full_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 6724,
+          "silent_windows": 392,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 7046,
+          "silent_windows": 389,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b03_full_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 7294,
+          "silent_windows": 376,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 7183,
+          "silent_windows": 372,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 34,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 34,
+          "silent_windows": 766,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "b03_full_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 8266,
+          "silent_windows": 205,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 8392,
+          "silent_windows": 207,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 38,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 38,
+          "silent_windows": 766,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 109,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c01_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 3731,
+          "silent_windows": 26,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 3507,
+          "silent_windows": 39,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1349,
+          "silent_windows": 276,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1346,
+          "silent_windows": 277,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c01_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 3831,
+          "silent_windows": 31,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 3792,
+          "silent_windows": 35,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1374,
+          "silent_windows": 274,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1370,
+          "silent_windows": 276,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c01_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4139,
+          "silent_windows": 21,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 3973,
+          "silent_windows": 12,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1593,
+          "silent_windows": 204,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1593,
+          "silent_windows": 203,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c01_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 3428,
+          "silent_windows": 36,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 3522,
+          "silent_windows": 23,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1055,
+          "silent_windows": 350,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1060,
+          "silent_windows": 348,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c01_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 3787,
+          "silent_windows": 47,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 3698,
+          "silent_windows": 37,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1372,
+          "silent_windows": 289,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1371,
+          "silent_windows": 287,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c01_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 3339,
+          "silent_windows": 65,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 3376,
+          "silent_windows": 45,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1157,
+          "silent_windows": 350,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1155,
+          "silent_windows": 351,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c01_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4336,
+          "silent_windows": 14,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4022,
+          "silent_windows": 23,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1489,
+          "silent_windows": 260,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1487,
+          "silent_windows": 262,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c01_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 3390,
+          "silent_windows": 52,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 3780,
+          "silent_windows": 28,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1351,
+          "silent_windows": 305,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1350,
+          "silent_windows": 305,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c01_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 3420,
+          "silent_windows": 42,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 3494,
+          "silent_windows": 33,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1329,
+          "silent_windows": 263,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1328,
+          "silent_windows": 262,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c01_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 3775,
+          "silent_windows": 36,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 3942,
+          "silent_windows": 37,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1355,
+          "silent_windows": 249,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1357,
+          "silent_windows": 248,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 109,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c02_on_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c02_on_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c02_on_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 6,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 4,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 4,
+          "silent_windows": 766,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c02_on_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 11,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c02_on_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 6,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 12,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 4,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 4,
+          "silent_windows": 766,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c02_on_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c02_on_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c02_on_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 5,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c02_on_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "c02_on_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 0,
+          "silent_windows": 768,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 5,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 109,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d01_delay_2",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1430,
+          "silent_windows": 401,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1468,
+          "silent_windows": 404,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 392,
+          "silent_windows": 579,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 371,
+          "silent_windows": 586,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d01_delay_2",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1466,
+          "silent_windows": 372,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1097,
+          "silent_windows": 411,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 862,
+          "silent_windows": 326,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 853,
+          "silent_windows": 329,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d01_delay_2",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1692,
+          "silent_windows": 223,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1701,
+          "silent_windows": 213,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 986,
+          "silent_windows": 281,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1005,
+          "silent_windows": 285,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d01_delay_2",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1110,
+          "silent_windows": 465,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1109,
+          "silent_windows": 463,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 279,
+          "silent_windows": 565,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 278,
+          "silent_windows": 567,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d01_delay_2",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1284,
+          "silent_windows": 389,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1227,
+          "silent_windows": 386,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 238,
+          "silent_windows": 574,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 245,
+          "silent_windows": 572,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d01_delay_2",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1218,
+          "silent_windows": 443,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 872,
+          "silent_windows": 448,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 291,
+          "silent_windows": 553,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 288,
+          "silent_windows": 556,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d01_delay_2",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1607,
+          "silent_windows": 317,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1281,
+          "silent_windows": 328,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 474,
+          "silent_windows": 480,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 474,
+          "silent_windows": 480,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d01_delay_2",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1221,
+          "silent_windows": 473,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1282,
+          "silent_windows": 466,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 656,
+          "silent_windows": 441,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 656,
+          "silent_windows": 441,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d01_delay_2",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1075,
+          "silent_windows": 482,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1123,
+          "silent_windows": 481,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 797,
+          "silent_windows": 502,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 756,
+          "silent_windows": 502,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d01_delay_2",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1501,
+          "silent_windows": 370,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1524,
+          "silent_windows": 359,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 679,
+          "silent_windows": 463,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 652,
+          "silent_windows": 486,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 109,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d02_delay_20",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 11516,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 11540,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 4688,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 4687,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d02_delay_20",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 12832,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 12626,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 5383,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 5367,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d02_delay_20",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 12342,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 12391,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 4275,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 4313,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d02_delay_20",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 11114,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 11031,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 4336,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 4337,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d02_delay_20",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 12560,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 12518,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 4840,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 4850,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d02_delay_20",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 11466,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 9938,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 4410,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 4410,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d02_delay_20",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 12331,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 12232,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 4771,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 4770,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d02_delay_20",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 12104,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 12158,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3782,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 3786,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d02_delay_20",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 11406,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 11387,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 5335,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 5325,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d02_delay_20",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 11854,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 11882,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2860,
+          "silent_windows": 24,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2870,
+          "silent_windows": 21,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 109,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d03_delay_50",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 29284,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 29387,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 11666,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 11663,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d03_delay_50",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 31845,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 31635,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 11119,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 11112,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d03_delay_50",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 30394,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 30452,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 11158,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 11132,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d03_delay_50",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 27697,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 27512,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 10272,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 10272,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d03_delay_50",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 31925,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 31746,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 10273,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 10309,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d03_delay_50",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 27210,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 27148,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 10251,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 10249,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d03_delay_50",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 30371,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 30280,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 12489,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 12483,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d03_delay_50",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 30318,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 30409,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 11051,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 11055,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d03_delay_50",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 28411,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 28434,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 13495,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 13509,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "d03_delay_50",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 29156,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 29241,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 10169,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 10135,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 23072,
+      "seed": 109,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e01_no_feedback",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4591,
+          "silent_windows": 38,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4667,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3000,
+          "silent_windows": 12,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 3016,
+          "silent_windows": 12,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e01_no_feedback",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5158,
+          "silent_windows": 44,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 5343,
+          "silent_windows": 17,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2103,
+          "silent_windows": 94,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2098,
+          "silent_windows": 94,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e01_no_feedback",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4577,
+          "silent_windows": 28,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4497,
+          "silent_windows": 26,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2251,
+          "silent_windows": 4,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2229,
+          "silent_windows": 4,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e01_no_feedback",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4288,
+          "silent_windows": 60,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4170,
+          "silent_windows": 32,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1503,
+          "silent_windows": 144,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1502,
+          "silent_windows": 145,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e01_no_feedback",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5028,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4877,
+          "silent_windows": 2,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1850,
+          "silent_windows": 46,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1847,
+          "silent_windows": 46,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e01_no_feedback",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5051,
+          "silent_windows": 24,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 3725,
+          "silent_windows": 23,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1688,
+          "silent_windows": 2,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1688,
+          "silent_windows": 3,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e01_no_feedback",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4544,
+          "silent_windows": 70,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4363,
+          "silent_windows": 64,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1583,
+          "silent_windows": 196,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1578,
+          "silent_windows": 196,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e01_no_feedback",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4518,
+          "silent_windows": 48,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4518,
+          "silent_windows": 54,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2801,
+          "silent_windows": 4,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2801,
+          "silent_windows": 4,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e01_no_feedback",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4292,
+          "silent_windows": 56,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4299,
+          "silent_windows": 51,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3822,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 3834,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e01_no_feedback",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4824,
+          "silent_windows": 29,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4747,
+          "silent_windows": 25,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1994,
+          "silent_windows": 152,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1996,
+          "silent_windows": 155,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 109,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e02_no_stdp",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4605,
+          "silent_windows": 38,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4683,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2414,
+          "silent_windows": 25,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2414,
+          "silent_windows": 25,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e02_no_stdp",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5276,
+          "silent_windows": 40,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 5468,
+          "silent_windows": 23,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3084,
+          "silent_windows": 27,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 3084,
+          "silent_windows": 27,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e02_no_stdp",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5267,
+          "silent_windows": 12,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 5220,
+          "silent_windows": 8,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3172,
+          "silent_windows": 2,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 3172,
+          "silent_windows": 2,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e02_no_stdp",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4321,
+          "silent_windows": 55,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4201,
+          "silent_windows": 31,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2169,
+          "silent_windows": 15,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2169,
+          "silent_windows": 15,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e02_no_stdp",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5028,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4877,
+          "silent_windows": 2,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2669,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2669,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e02_no_stdp",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5072,
+          "silent_windows": 24,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 3775,
+          "silent_windows": 20,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1868,
+          "silent_windows": 49,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1868,
+          "silent_windows": 49,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e02_no_stdp",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4840,
+          "silent_windows": 34,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4636,
+          "silent_windows": 37,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2243,
+          "silent_windows": 173,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2243,
+          "silent_windows": 173,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e02_no_stdp",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4528,
+          "silent_windows": 46,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4529,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2598,
+          "silent_windows": 161,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2598,
+          "silent_windows": 161,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e02_no_stdp",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4294,
+          "silent_windows": 56,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4312,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3214,
+          "silent_windows": 24,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 3219,
+          "silent_windows": 24,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e02_no_stdp",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4963,
+          "silent_windows": 26,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4889,
+          "silent_windows": 16,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2753,
+          "silent_windows": 76,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2753,
+          "silent_windows": 76,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 109,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e03_with_homeostasis_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4605,
+          "silent_windows": 38,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4683,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3910,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 3690,
+          "silent_windows": 51,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e03_with_homeostasis_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5276,
+          "silent_windows": 40,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 5468,
+          "silent_windows": 23,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 4489,
+          "silent_windows": 39,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 4471,
+          "silent_windows": 37,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e03_with_homeostasis_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5267,
+          "silent_windows": 12,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 5220,
+          "silent_windows": 8,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 4496,
+          "silent_windows": 7,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 4497,
+          "silent_windows": 7,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e03_with_homeostasis_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4321,
+          "silent_windows": 55,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4201,
+          "silent_windows": 31,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3618,
+          "silent_windows": 58,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 3618,
+          "silent_windows": 56,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e03_with_homeostasis_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5028,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4877,
+          "silent_windows": 2,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3955,
+          "silent_windows": 6,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 3953,
+          "silent_windows": 6,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e03_with_homeostasis_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5072,
+          "silent_windows": 24,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 3775,
+          "silent_windows": 20,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 4081,
+          "silent_windows": 28,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 4065,
+          "silent_windows": 26,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e03_with_homeostasis_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4840,
+          "silent_windows": 34,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4636,
+          "silent_windows": 37,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 4482,
+          "silent_windows": 34,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 4530,
+          "silent_windows": 39,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e03_with_homeostasis_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4528,
+          "silent_windows": 46,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4529,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 4178,
+          "silent_windows": 67,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 4156,
+          "silent_windows": 74,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e03_with_homeostasis_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4294,
+          "silent_windows": 56,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4312,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 4509,
+          "silent_windows": 37,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 4495,
+          "silent_windows": 38,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e03_with_homeostasis_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4963,
+          "silent_windows": 26,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4889,
+          "silent_windows": 16,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 4672,
+          "silent_windows": 35,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 4668,
+          "silent_windows": 35,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 109,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e04_with_development",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4605,
+          "silent_windows": 38,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4683,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2854,
+          "silent_windows": 34,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2906,
+          "silent_windows": 34,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e04_with_development",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5276,
+          "silent_windows": 40,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 5468,
+          "silent_windows": 23,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2944,
+          "silent_windows": 10,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2941,
+          "silent_windows": 12,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e04_with_development",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5267,
+          "silent_windows": 12,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 5220,
+          "silent_windows": 8,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2343,
+          "silent_windows": 45,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2445,
+          "silent_windows": 52,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e04_with_development",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4321,
+          "silent_windows": 55,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4201,
+          "silent_windows": 31,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1834,
+          "silent_windows": 145,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1757,
+          "silent_windows": 146,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e04_with_development",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5028,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4877,
+          "silent_windows": 2,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2053,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1738,
+          "silent_windows": 123,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e04_with_development",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5072,
+          "silent_windows": 24,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 3775,
+          "silent_windows": 20,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1713,
+          "silent_windows": 4,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1714,
+          "silent_windows": 4,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e04_with_development",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4840,
+          "silent_windows": 34,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4636,
+          "silent_windows": 37,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1592,
+          "silent_windows": 189,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1588,
+          "silent_windows": 189,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e04_with_development",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4528,
+          "silent_windows": 46,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4529,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2801,
+          "silent_windows": 4,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2801,
+          "silent_windows": 4,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e04_with_development",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4294,
+          "silent_windows": 56,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4312,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3863,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 3866,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e04_with_development",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4963,
+          "silent_windows": 26,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4889,
+          "silent_windows": 16,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2251,
+          "silent_windows": 94,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2233,
+          "silent_windows": 102,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 109,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e05_early_pruning",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4605,
+          "silent_windows": 38,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4683,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2853,
+          "silent_windows": 34,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2906,
+          "silent_windows": 34,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e05_early_pruning",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5276,
+          "silent_windows": 40,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 5468,
+          "silent_windows": 23,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2927,
+          "silent_windows": 10,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2958,
+          "silent_windows": 10,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e05_early_pruning",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5267,
+          "silent_windows": 12,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 5220,
+          "silent_windows": 8,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2343,
+          "silent_windows": 45,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2445,
+          "silent_windows": 52,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e05_early_pruning",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4321,
+          "silent_windows": 55,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4201,
+          "silent_windows": 31,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1834,
+          "silent_windows": 145,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1734,
+          "silent_windows": 150,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e05_early_pruning",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5028,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4877,
+          "silent_windows": 2,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1968,
+          "silent_windows": 74,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1625,
+          "silent_windows": 154,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e05_early_pruning",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5072,
+          "silent_windows": 24,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 3775,
+          "silent_windows": 20,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1643,
+          "silent_windows": 4,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1638,
+          "silent_windows": 4,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e05_early_pruning",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4840,
+          "silent_windows": 34,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4636,
+          "silent_windows": 37,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1592,
+          "silent_windows": 189,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1588,
+          "silent_windows": 189,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e05_early_pruning",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4528,
+          "silent_windows": 46,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4529,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2801,
+          "silent_windows": 4,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2801,
+          "silent_windows": 4,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e05_early_pruning",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4294,
+          "silent_windows": 56,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4312,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3757,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 3866,
+          "silent_windows": 0,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e05_early_pruning",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4963,
+          "silent_windows": 26,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4889,
+          "silent_windows": 16,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2223,
+          "silent_windows": 104,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2235,
+          "silent_windows": 102,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 109,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e06_start_drive",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4605,
+          "silent_windows": 38,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4683,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3121,
+          "silent_windows": 21,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 3047,
+          "silent_windows": 26,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e06_start_drive",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5276,
+          "silent_windows": 40,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 5468,
+          "silent_windows": 23,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 4145,
+          "silent_windows": 30,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 3795,
+          "silent_windows": 12,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e06_start_drive",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5267,
+          "silent_windows": 12,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 5220,
+          "silent_windows": 8,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 6439,
+          "silent_windows": 3,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 5963,
+          "silent_windows": 1,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e06_start_drive",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4321,
+          "silent_windows": 55,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4201,
+          "silent_windows": 31,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2889,
+          "silent_windows": 16,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2605,
+          "silent_windows": 13,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e06_start_drive",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5028,
+          "silent_windows": 0,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4877,
+          "silent_windows": 2,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 5483,
+          "silent_windows": 73,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 4577,
+          "silent_windows": 29,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e06_start_drive",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 5072,
+          "silent_windows": 24,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 3775,
+          "silent_windows": 20,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 1961,
+          "silent_windows": 94,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 1744,
+          "silent_windows": 57,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e06_start_drive",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4840,
+          "silent_windows": 34,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4636,
+          "silent_windows": 37,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3956,
+          "silent_windows": 170,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 4095,
+          "silent_windows": 162,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e06_start_drive",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4528,
+          "silent_windows": 46,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4529,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2869,
+          "silent_windows": 227,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 3518,
+          "silent_windows": 166,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e06_start_drive",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4294,
+          "silent_windows": 56,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4312,
+          "silent_windows": 50,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3924,
+          "silent_windows": 9,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 3504,
+          "silent_windows": 9,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "e06_start_drive",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 4963,
+          "silent_windows": 26,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 4889,
+          "silent_windows": 16,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 3036,
+          "silent_windows": 68,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 3274,
+          "silent_windows": 61,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 109,
+      "trial_rows": 4608
+    },
+    {
+      "case": "f01_reference_64_32_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 718,
+          "silent_windows": 388,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 846,
+          "silent_windows": 346,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 11,
+          "silent_windows": 759,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 11,
+          "silent_windows": 759,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 100,
+      "trial_rows": 4608
+    },
+    {
+      "case": "f01_reference_64_32_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 618,
+          "silent_windows": 411,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 623,
+          "silent_windows": 412,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 2,
+          "silent_windows": 766,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 101,
+      "trial_rows": 4608
+    },
+    {
+      "case": "f01_reference_64_32_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1111,
+          "silent_windows": 274,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 1062,
+          "silent_windows": 287,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 13,
+          "silent_windows": 756,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 13,
+          "silent_windows": 756,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 102,
+      "trial_rows": 4608
+    },
+    {
+      "case": "f01_reference_64_32_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 996,
+          "silent_windows": 302,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 966,
+          "silent_windows": 298,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 14,
+          "silent_windows": 754,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 13,
+          "silent_windows": 755,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 103,
+      "trial_rows": 4608
+    },
+    {
+      "case": "f01_reference_64_32_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 870,
+          "silent_windows": 323,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 981,
+          "silent_windows": 304,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 8,
+          "silent_windows": 760,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 7,
+          "silent_windows": 761,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 104,
+      "trial_rows": 4608
+    },
+    {
+      "case": "f01_reference_64_32_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 1067,
+          "silent_windows": 291,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 987,
+          "silent_windows": 319,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 13,
+          "silent_windows": 756,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 12,
+          "silent_windows": 757,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 105,
+      "trial_rows": 4608
+    },
+    {
+      "case": "f01_reference_64_32_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 575,
+          "silent_windows": 434,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 636,
+          "silent_windows": 444,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 4,
+          "silent_windows": 764,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 4,
+          "silent_windows": 764,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 106,
+      "trial_rows": 4608
+    },
+    {
+      "case": "f01_reference_64_32_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 634,
+          "silent_windows": 404,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 761,
+          "silent_windows": 400,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 7,
+          "silent_windows": 761,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 5,
+          "silent_windows": 763,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 107,
+      "trial_rows": 4608
+    },
+    {
+      "case": "f01_reference_64_32_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 862,
+          "silent_windows": 307,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 823,
+          "silent_windows": 324,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 11,
+          "silent_windows": 757,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 13,
+          "silent_windows": 755,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 108,
+      "trial_rows": 4608
+    },
+    {
+      "case": "f01_reference_64_32_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 638,
+          "silent_windows": 431,
+          "windows": 768
+        },
+        "before": {
+          "core_spikes": 646,
+          "silent_windows": 442,
+          "windows": 768
+        },
+        "paired": {
+          "core_spikes": 4,
+          "silent_windows": 764,
+          "windows": 768
+        },
+        "scrambled": {
+          "core_spikes": 5,
+          "silent_windows": 763,
+          "windows": 768
+        }
+      },
+      "phase_rows": 28704,
+      "seed": 109,
+      "trial_rows": 4608
+    }
+  ],
+  "cases": [
+    {
+      "case": "a01_minimal_2ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 0,
+          "silent_windows": 7680,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 0,
+          "silent_windows": 7680,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 7680,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 7680,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.7625,
+      "initial_weight_sum": 61.36036651879549,
+      "interference_probe_count": 0.5,
+      "interference_probe_time_bins": 0.5,
+      "measured_training_sensor_current": {
+        "aged_frozen": 9.999186127383837,
+        "paired": 7.817313099407102,
+        "scrambled": 7.817291574144178
+      },
+      "n_seeds": 10,
+      "paired_formed": 0,
+      "paired_pruned": 0,
+      "paired_weight_updates": 36008.6,
+      "probe_count": 0.5,
+      "probe_time_bins": 0.5,
+      "retained_probe_count": 0.5,
+      "retained_probe_time_bins": 0.5,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 59.3708706125617,
+      "visual_by_arm": {
+        "aged_frozen": 1.0,
+        "before": 1.0,
+        "paired": 0.5,
+        "scrambled": 0.5
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    },
+    {
+      "case": "a02_position_7ch",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 14143,
+          "silent_windows": 1515,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 14219,
+          "silent_windows": 1531,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 10404,
+          "silent_windows": 2011,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 10473,
+          "silent_windows": 2008,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.678125,
+      "initial_weight_sum": 74.45209267139435,
+      "interference_probe_count": 0.50390625,
+      "interference_probe_time_bins": 0.505078125,
+      "measured_training_sensor_current": {
+        "aged_frozen": 9.997627396899134,
+        "paired": 8.569705922793673,
+        "scrambled": 8.56994378242348
+      },
+      "n_seeds": 10,
+      "paired_formed": 0,
+      "paired_pruned": 0,
+      "paired_weight_updates": 39474.35,
+      "probe_count": 0.49765625,
+      "probe_time_bins": 0.5125,
+      "retained_probe_count": 0.504296875,
+      "retained_probe_time_bins": 0.5,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 73.78912443593144,
+      "visual_by_arm": {
+        "aged_frozen": 0.6125,
+        "before": 0.6359375,
+        "paired": 0.49921875,
+        "scrambled": 0.49921875
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    },
+    {
+      "case": "a03_pixels_8",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 10190,
+          "silent_windows": 2890,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 10151,
+          "silent_windows": 2909,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 305,
+          "silent_windows": 7375,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 297,
+          "silent_windows": 7383,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.253125,
+      "initial_weight_sum": 222.05588082671164,
+      "interference_probe_count": 0.5,
+      "interference_probe_time_bins": 0.5,
+      "measured_training_sensor_current": {
+        "aged_frozen": 9.991185775945723,
+        "paired": 3.5934716574718095,
+        "scrambled": 3.593514751303246
+      },
+      "n_seeds": 10,
+      "paired_formed": 0,
+      "paired_pruned": 0,
+      "paired_weight_updates": 411.9,
+      "probe_count": 0.5,
+      "probe_time_bins": 0.5,
+      "retained_probe_count": 0.5,
+      "retained_probe_time_bins": 0.5,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 222.06213455796242,
+      "visual_by_arm": {
+        "aged_frozen": 0.6359375,
+        "before": 0.615625,
+        "paired": 0.5,
+        "scrambled": 0.5
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    },
+    {
+      "case": "a04_pixels_16",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 9338,
+          "silent_windows": 4388,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 8684,
+          "silent_windows": 4442,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 82,
+          "silent_windows": 7598,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 82,
+          "silent_windows": 7598,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.05625,
+      "initial_weight_sum": 721.8007219746709,
+      "interference_probe_count": 0.5,
+      "interference_probe_time_bins": 0.5,
+      "measured_training_sensor_current": {
+        "aged_frozen": 9.98024422863864,
+        "paired": 2.3294068346103813,
+        "scrambled": 2.3256430591845856
+      },
+      "n_seeds": 10,
+      "paired_formed": 0,
+      "paired_pruned": 0,
+      "paired_weight_updates": 745.3,
+      "probe_count": 0.5,
+      "probe_time_bins": 0.5,
+      "retained_probe_count": 0.5,
+      "retained_probe_time_bins": 0.5,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 721.8206339024007,
+      "visual_by_arm": {
+        "aged_frozen": 0.58515625,
+        "before": 0.584375,
+        "paired": 0.5,
+        "scrambled": 0.5
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    },
+    {
+      "case": "a05_pixels_64",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 9830,
+          "silent_windows": 6929,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 10574,
+          "silent_windows": 6922,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 0,
+          "silent_windows": 7680,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 0,
+          "silent_windows": 7680,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.0,
+      "initial_weight_sum": 10705.647019225358,
+      "interference_probe_count": 0.5,
+      "interference_probe_time_bins": 0.5,
+      "measured_training_sensor_current": {
+        "aged_frozen": 9.913184435888525,
+        "paired": 0.6851142163736768,
+        "scrambled": 0.6987060326002847
+      },
+      "n_seeds": 10,
+      "paired_formed": 0,
+      "paired_pruned": 0,
+      "paired_weight_updates": 3176.95,
+      "probe_count": 0.5,
+      "probe_time_bins": 0.5,
+      "retained_probe_count": 0.5,
+      "retained_probe_time_bins": 0.5,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 10705.762481837719,
+      "visual_by_arm": {
+        "aged_frozen": 0.51875,
+        "before": 0.51875,
+        "paired": 0.5,
+        "scrambled": 0.5
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    },
+    {
+      "case": "b01_core_128",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 48194,
+          "silent_windows": 331,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 46590,
+          "silent_windows": 287,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 23563,
+          "silent_windows": 602,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 23549,
+          "silent_windows": 604,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.721875,
+      "initial_weight_sum": 809.753346465528,
+      "interference_probe_count": 0.505859375,
+      "interference_probe_time_bins": 0.494140625,
+      "measured_training_sensor_current": {
+        "aged_frozen": 9.994984161305638,
+        "paired": 5.393739175374606,
+        "scrambled": 5.393838169551373
+      },
+      "n_seeds": 10,
+      "paired_formed": 0,
+      "paired_pruned": 0,
+      "paired_weight_updates": 96395.55,
+      "probe_count": 0.495703125,
+      "probe_time_bins": 0.495703125,
+      "retained_probe_count": 0.50234375,
+      "retained_probe_time_bins": 0.486328125,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 808.69301157929,
+      "visual_by_arm": {
+        "aged_frozen": 0.87578125,
+        "before": 0.8609375,
+        "paired": 0.53125,
+        "scrambled": 0.53125
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    },
+    {
+      "case": "b02_core_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 88737,
+          "silent_windows": 0,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 88312,
+          "silent_windows": 0,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 26412,
+          "silent_windows": 246,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 26794,
+          "silent_windows": 323,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.8296875,
+      "initial_weight_sum": 926.8889154776931,
+      "interference_probe_count": 0.50625,
+      "interference_probe_time_bins": 0.489453125,
+      "measured_training_sensor_current": {
+        "aged_frozen": 9.996945767145746,
+        "paired": 5.429259320635165,
+        "scrambled": 5.429379456787471
+      },
+      "n_seeds": 10,
+      "paired_formed": 0,
+      "paired_pruned": 0,
+      "paired_weight_updates": 265244.35,
+      "probe_count": 0.517578125,
+      "probe_time_bins": 0.484375,
+      "retained_probe_count": 0.508984375,
+      "retained_probe_time_bins": 0.494140625,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 920.3726213932038,
+      "visual_by_arm": {
+        "aged_frozen": 0.9796875,
+        "before": 0.97890625,
+        "paired": 0.8859375,
+        "scrambled": 0.890625
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    },
+    {
+      "case": "b03_full_256",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 71108,
+          "silent_windows": 3763,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 71528,
+          "silent_windows": 3787,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 143,
+          "silent_windows": 7671,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 143,
+          "silent_windows": 7671,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.81640625,
+      "initial_weight_sum": 10906.474456633627,
+      "interference_probe_count": 0.5,
+      "interference_probe_time_bins": 0.5,
+      "measured_training_sensor_current": {
+        "aged_frozen": 9.989637300291463,
+        "paired": 3.238082064054737,
+        "scrambled": 3.238338219983632
+      },
+      "n_seeds": 10,
+      "paired_formed": 0,
+      "paired_pruned": 0,
+      "paired_weight_updates": 195740.85,
+      "probe_count": 0.5,
+      "probe_time_bins": 0.5,
+      "retained_probe_count": 0.50078125,
+      "retained_probe_time_bins": 0.50078125,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 10911.538986496627,
+      "visual_by_arm": {
+        "aged_frozen": 0.65859375,
+        "before": 0.63359375,
+        "paired": 0.50234375,
+        "scrambled": 0.50234375
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    },
+    {
+      "case": "c01_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 37176,
+          "silent_windows": 370,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 37106,
+          "silent_windows": 312,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 13424,
+          "silent_windows": 2820,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 13417,
+          "silent_windows": 2819,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.721875,
+      "initial_weight_sum": 809.753346465528,
+      "interference_probe_count": 0.494921875,
+      "interference_probe_time_bins": 0.507421875,
+      "measured_training_sensor_current": {
+        "aged_frozen": 9.035198055084948,
+        "paired": 4.878671802765098,
+        "scrambled": 4.8788379328084375
+      },
+      "n_seeds": 10,
+      "paired_formed": 0,
+      "paired_pruned": 0,
+      "paired_weight_updates": 73831.6,
+      "probe_count": 0.513671875,
+      "probe_time_bins": 0.506640625,
+      "retained_probe_count": 0.501953125,
+      "retained_probe_time_bins": 0.513671875,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 809.1538033641875,
+      "visual_by_arm": {
+        "aged_frozen": 0.8640625,
+        "before": 0.88359375,
+        "paired": 0.57109375,
+        "scrambled": 0.56953125
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    },
+    {
+      "case": "c02_on_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 16,
+          "silent_windows": 7672,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 45,
+          "silent_windows": 7664,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 22,
+          "silent_windows": 7662,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 22,
+          "silent_windows": 7662,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.76640625,
+      "initial_weight_sum": 1475.3451090916992,
+      "interference_probe_count": 0.500390625,
+      "interference_probe_time_bins": 0.5,
+      "measured_training_sensor_current": {
+        "aged_frozen": 8.603811118046565,
+        "paired": 5.723817275430747,
+        "scrambled": 5.7229149174796135
+      },
+      "n_seeds": 10,
+      "paired_formed": 0,
+      "paired_pruned": 0,
+      "paired_weight_updates": 104945.15,
+      "probe_count": 0.5,
+      "probe_time_bins": 0.5,
+      "retained_probe_count": 0.5,
+      "retained_probe_time_bins": 0.5,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 1474.375432357192,
+      "visual_by_arm": {
+        "aged_frozen": 0.85859375,
+        "before": 0.87890625,
+        "paired": 0.54921875,
+        "scrambled": 0.55
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    },
+    {
+      "case": "d01_delay_2",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 13604,
+          "silent_windows": 3935,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 12684,
+          "silent_windows": 3959,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 5654,
+          "silent_windows": 4764,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 5578,
+          "silent_windows": 4804,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.721875,
+      "initial_weight_sum": 809.753346465528,
+      "interference_probe_count": 0.5515625,
+      "interference_probe_time_bins": 0.513671875,
+      "measured_training_sensor_current": {
+        "aged_frozen": 9.994984161305638,
+        "paired": 5.3937131948953265,
+        "scrambled": 5.3933677341262865
+      },
+      "n_seeds": 10,
+      "paired_formed": 0,
+      "paired_pruned": 0,
+      "paired_weight_updates": 96419.2,
+      "probe_count": 0.543359375,
+      "probe_time_bins": 0.522265625,
+      "retained_probe_count": 0.54921875,
+      "retained_probe_time_bins": 0.526953125,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 808.6923770189285,
+      "visual_by_arm": {
+        "aged_frozen": 0.56015625,
+        "before": 0.5625,
+        "paired": 0.496875,
+        "scrambled": 0.49609375
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    },
+    {
+      "case": "d02_delay_20",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 119525,
+          "silent_windows": 0,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 117703,
+          "silent_windows": 0,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 44680,
+          "silent_windows": 24,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 44715,
+          "silent_windows": 21,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.721875,
+      "initial_weight_sum": 809.753346465528,
+      "interference_probe_count": 0.49765625,
+      "interference_probe_time_bins": 0.523828125,
+      "measured_training_sensor_current": {
+        "aged_frozen": 9.994984161305638,
+        "paired": 5.393968025256868,
+        "scrambled": 5.393674905371597
+      },
+      "n_seeds": 10,
+      "paired_formed": 0,
+      "paired_pruned": 0,
+      "paired_weight_updates": 96320.55,
+      "probe_count": 0.5,
+      "probe_time_bins": 0.512890625,
+      "retained_probe_count": 0.503515625,
+      "retained_probe_time_bins": 0.519140625,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 808.6923604410142,
+      "visual_by_arm": {
+        "aged_frozen": 0.996875,
+        "before": 0.99375,
+        "paired": 0.95625,
+        "scrambled": 0.95703125
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    },
+    {
+      "case": "d03_delay_50",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 296611,
+          "silent_windows": 0,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 296244,
+          "silent_windows": 0,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 111943,
+          "silent_windows": 0,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 111919,
+          "silent_windows": 0,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.721875,
+      "initial_weight_sum": 809.753346465528,
+      "interference_probe_count": 0.496484375,
+      "interference_probe_time_bins": 0.494140625,
+      "measured_training_sensor_current": {
+        "aged_frozen": 9.994984161305638,
+        "paired": 5.393544204524119,
+        "scrambled": 5.3935085989638765
+      },
+      "n_seeds": 10,
+      "paired_formed": 0,
+      "paired_pruned": 0,
+      "paired_weight_updates": 96362.65,
+      "probe_count": 0.501953125,
+      "probe_time_bins": 0.49609375,
+      "retained_probe_count": 0.5,
+      "retained_probe_time_bins": 0.495703125,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 808.6933613851667,
+      "visual_by_arm": {
+        "aged_frozen": 1.0,
+        "before": 1.0,
+        "paired": 1.0,
+        "scrambled": 1.0
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    },
+    {
+      "case": "e01_no_feedback",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 46871,
+          "silent_windows": 397,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 45206,
+          "silent_windows": 344,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 22595,
+          "silent_windows": 654,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 22589,
+          "silent_windows": 659,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.721875,
+      "initial_weight_sum": 802.253346644342,
+      "interference_probe_count": 0.501171875,
+      "interference_probe_time_bins": 0.494140625,
+      "measured_training_sensor_current": {
+        "aged_frozen": 9.994984161305638,
+        "paired": 5.393743327167044,
+        "scrambled": 5.393816921257439
+      },
+      "n_seeds": 10,
+      "paired_formed": 0,
+      "paired_pruned": 0,
+      "paired_weight_updates": 96236.55,
+      "probe_count": 0.48984375,
+      "probe_time_bins": 0.49609375,
+      "retained_probe_count": 0.494921875,
+      "retained_probe_time_bins": 0.486328125,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 801.1910578522832,
+      "visual_by_arm": {
+        "aged_frozen": 0.87421875,
+        "before": 0.85390625,
+        "paired": 0.53125,
+        "scrambled": 0.53046875
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    },
+    {
+      "case": "e02_no_stdp",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 48194,
+          "silent_windows": 331,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 46590,
+          "silent_windows": 287,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 26184,
+          "silent_windows": 552,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 26189,
+          "silent_windows": 552,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.721875,
+      "initial_weight_sum": 809.753346465528,
+      "interference_probe_count": 0.516015625,
+      "interference_probe_time_bins": 0.5046875,
+      "measured_training_sensor_current": {
+        "aged_frozen": 9.994984161305638,
+        "paired": 5.730246920556112,
+        "scrambled": 5.730315418411465
+      },
+      "n_seeds": 10,
+      "paired_formed": 0,
+      "paired_pruned": 0,
+      "paired_weight_updates": 0,
+      "probe_count": 0.522265625,
+      "probe_time_bins": 0.512890625,
+      "retained_probe_count": 0.50546875,
+      "retained_probe_time_bins": 0.494921875,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 809.753346465528,
+      "visual_by_arm": {
+        "aged_frozen": 0.87578125,
+        "before": 0.8609375,
+        "paired": 0.553125,
+        "scrambled": 0.553125
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    },
+    {
+      "case": "e03_with_homeostasis_off",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 48194,
+          "silent_windows": 331,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 46590,
+          "silent_windows": 287,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 42390,
+          "silent_windows": 361,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 42143,
+          "silent_windows": 369,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.721875,
+      "initial_weight_sum": 809.753346465528,
+      "interference_probe_count": 0.514453125,
+      "interference_probe_time_bins": 0.5078125,
+      "measured_training_sensor_current": {
+        "aged_frozen": 9.994984161305638,
+        "paired": 9.627288569882921,
+        "scrambled": 9.627121871918405
+      },
+      "n_seeds": 10,
+      "paired_formed": 0,
+      "paired_pruned": 0,
+      "paired_weight_updates": 318957.85,
+      "probe_count": 0.4984375,
+      "probe_time_bins": 0.49921875,
+      "retained_probe_count": 0.504296875,
+      "retained_probe_time_bins": 0.508203125,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 809.8544936969877,
+      "visual_by_arm": {
+        "aged_frozen": 0.87578125,
+        "before": 0.8609375,
+        "paired": 0.8546875,
+        "scrambled": 0.8578125
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    },
+    {
+      "case": "e04_with_development",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 48194,
+          "silent_windows": 331,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 46590,
+          "silent_windows": 287,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 24248,
+          "silent_windows": 575,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 23989,
+          "silent_windows": 666,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.721875,
+      "initial_weight_sum": 809.753346465528,
+      "interference_probe_count": 0.50234375,
+      "interference_probe_time_bins": 0.492578125,
+      "measured_training_sensor_current": {
+        "aged_frozen": 9.994984161305638,
+        "paired": 5.392958534909269,
+        "scrambled": 5.393134876831311
+      },
+      "n_seeds": 10,
+      "paired_formed": 28.1,
+      "paired_pruned": 396.7,
+      "paired_weight_updates": 104951.25,
+      "probe_count": 0.4890625,
+      "probe_time_bins": 0.49140625,
+      "retained_probe_count": 0.504296875,
+      "retained_probe_time_bins": 0.486328125,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 724.572453000024,
+      "visual_by_arm": {
+        "aged_frozen": 0.87578125,
+        "before": 0.8609375,
+        "paired": 0.53125,
+        "scrambled": 0.534375
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    },
+    {
+      "case": "e05_early_pruning",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 48194,
+          "silent_windows": 331,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 46590,
+          "silent_windows": 287,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 23941,
+          "silent_windows": 609,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 23796,
+          "silent_windows": 699,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.721875,
+      "initial_weight_sum": 809.753346465528,
+      "interference_probe_count": 0.49609375,
+      "interference_probe_time_bins": 0.4953125,
+      "measured_training_sensor_current": {
+        "aged_frozen": 9.994984161305638,
+        "paired": 5.393093767849848,
+        "scrambled": 5.393250038724204
+      },
+      "n_seeds": 10,
+      "paired_formed": 32.7,
+      "paired_pruned": 409.45,
+      "paired_weight_updates": 103498.7,
+      "probe_count": 0.47578125,
+      "probe_time_bins": 0.486328125,
+      "retained_probe_count": 0.50078125,
+      "retained_probe_time_bins": 0.485546875,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 722.6205174725503,
+      "visual_by_arm": {
+        "aged_frozen": 0.87578125,
+        "before": 0.8609375,
+        "paired": 0.5359375,
+        "scrambled": 0.53828125
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    },
+    {
+      "case": "e06_start_drive",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 48194,
+          "silent_windows": 331,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 46590,
+          "silent_windows": 287,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 37823,
+          "silent_windows": 711,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 36122,
+          "silent_windows": 536,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.721875,
+      "initial_weight_sum": 809.753346465528,
+      "interference_probe_count": 0.497265625,
+      "interference_probe_time_bins": 0.508203125,
+      "measured_training_sensor_current": {
+        "aged_frozen": 9.994984161305638,
+        "paired": 5.372785253097447,
+        "scrambled": 5.3722363049988076
+      },
+      "n_seeds": 10,
+      "paired_formed": 144.65,
+      "paired_pruned": 395.6,
+      "paired_weight_updates": 254107.15,
+      "probe_count": 0.51484375,
+      "probe_time_bins": 0.505859375,
+      "retained_probe_count": 0.50546875,
+      "retained_probe_time_bins": 0.4984375,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 753.0643594495953,
+      "visual_by_arm": {
+        "aged_frozen": 0.87578125,
+        "before": 0.8609375,
+        "paired": 0.5421875,
+        "scrambled": 0.5421875
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    },
+    {
+      "case": "f01_reference_64_32_poisson",
+      "forecasts": {
+        "aged_frozen": {
+          "core_spikes": 8089,
+          "silent_windows": 3565,
+          "windows": 7680
+        },
+        "before": {
+          "core_spikes": 8331,
+          "silent_windows": 3576,
+          "windows": 7680
+        },
+        "paired": {
+          "core_spikes": 87,
+          "silent_windows": 7597,
+          "windows": 7680
+        },
+        "scrambled": {
+          "core_spikes": 85,
+          "silent_windows": 7599,
+          "windows": 7680
+        }
+      },
+      "initial_core_fraction_without_expected_visual_current": 0.0,
+      "initial_weight_sum": 10705.647019225358,
+      "interference_probe_count": 0.5,
+      "interference_probe_time_bins": 0.5,
+      "measured_training_sensor_current": {
+        "aged_frozen": 10.00816740215214,
+        "paired": 1.9322655087637486,
+        "scrambled": 1.9274024151332014
+      },
+      "n_seeds": 10,
+      "paired_formed": 0,
+      "paired_pruned": 0,
+      "paired_weight_updates": 793,
+      "probe_count": 0.5,
+      "probe_time_bins": 0.5,
+      "retained_probe_count": 0.5,
+      "retained_probe_time_bins": 0.5,
+      "sensor_current_target": 10.0,
+      "trained_weight_sum": 10705.666115269065,
+      "visual_by_arm": {
+        "aged_frozen": 0.5171875,
+        "before": 0.5171875,
+        "paired": 0.5,
+        "scrambled": 0.5
+      },
+      "weights_at_upper_bound": 0,
+      "weights_at_zero": 0
+    }
+  ],
+  "note": "Paired seed bootstrap, descriptive intervals, no multiple-comparison correction. Count is primary; time bins are secondary. Stored membrane snapshots are not a common-time decoder.",
+  "stage": "confirm",
+  "validated_phase_rows": 5628160,
+  "validated_records": 200,
+  "validated_trial_rows": 921600
+}

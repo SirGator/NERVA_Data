@@ -1,0 +1,4 @@
+M8_COMPLETED a_weight2 seed 510
+    Blocking waiting for file lock on build directory
+    Finished `release` profile [optimized] target(s) in 0.02s
+     Running `Experimente/target/release/nerva-m8 --config Experimente/runs/m8-confirm/configs/a_weight2/seed-510.json --output Experimente/runs/m8-confirm/results/a_weight2/seed-510.json`

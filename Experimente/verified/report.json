@@ -1,0 +1,15 @@
+{
+  "encoding": "Brightness",
+  "frame_changes": 9,
+  "interrupted": false,
+  "key_frames": 11,
+  "learning_enabled": true,
+  "motor_spikes": 234,
+  "output": "/home/simon/projekte/DSVLM/Modell/runs/verified",
+  "requested_steps": 40,
+  "seed": 42,
+  "sensory_spikes": 5337,
+  "steps": 40,
+  "weight_changes": 17806,
+  "original_output": "/home/simon/projekte/DSVLM/nerva-qemu/runs/verified"
+}

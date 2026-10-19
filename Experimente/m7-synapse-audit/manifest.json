@@ -1,0 +1,99 @@
+{
+  "endpoints": [
+    "per-synapse positive/negative weight changes and nearest pre/post partners",
+    "same-trial action-to-effect and cross-trial pairs, separately for LTP and LTD",
+    "mapping-dependent weight differences and direct action/visual topology proxy versus scrambled/frozen",
+    "frozen weight retention; explicitly not consolidation",
+    "Core spike/event/potential changes after restoring initial Core/all-plastic weights or blocking Core recurrence",
+    "all counterfactuals start at exact executable replay state after 2s neutral rest"
+  ],
+  "fixed": {
+    "arms": [
+      "aged_frozen",
+      "paired",
+      "scrambled"
+    ],
+    "conditions": [
+      "sham",
+      "restore_core",
+      "restore_all_plastic",
+      "block_core",
+      "no_copy"
+    ],
+    "copies": 3,
+    "delay_us": 50000,
+    "development": false,
+    "homeostasis": false,
+    "interference_us": 1400000,
+    "mappings": [
+      "normal_mapping",
+      "reversed_mapping"
+    ],
+    "processing": 32,
+    "rest_us": 2000000,
+    "sensor": "effect_2ch",
+    "tau_us": 20000,
+    "train_trials": 256,
+    "weight": 0.9
+  },
+  "limits": [
+    "Reuses all ten existing seeds; no new confirmation or parameter selection",
+    "Initial connectivity is unchanged; topology proxy is not a learned functional module",
+    "One A/D probe per counterfactual/mapping/seed, not independent repeated trials",
+    "Frozen retention and counterfactual response alone do not establish effect learning"
+  ],
+  "protocol": "NERVA-M7-synapse-audit-v1",
+  "references": [
+    {
+      "path": "Experimente/runs/m6-core-control/results/core_D_off/seed-400.json",
+      "seed": 400,
+      "sha256": "f4d5ecda04652aa13dd7d1395c61518e39cee7f26399b91b62207d48919d9222"
+    },
+    {
+      "path": "Experimente/runs/m6-core-control/results/core_D_off/seed-401.json",
+      "seed": 401,
+      "sha256": "04d4ddf7b137f9534366172088a4877b32e87aa5b08981ea4b71b218f2b5e2e7"
+    },
+    {
+      "path": "Experimente/runs/m6-core-control/results/core_D_off/seed-402.json",
+      "seed": 402,
+      "sha256": "985c1f488b4862eae4ecee2ba6b89f6a61b7ef17fdecc15204ec5b6debf79bda"
+    },
+    {
+      "path": "Experimente/runs/m6-core-control/results/core_D_off/seed-403.json",
+      "seed": 403,
+      "sha256": "942c87fe5c929829895ff3e1d2f23791db428429bb19d96da8db46528da371b4"
+    },
+    {
+      "path": "Experimente/runs/m6-core-control/results/core_D_off/seed-404.json",
+      "seed": 404,
+      "sha256": "fa893759ebac65701f3d5d948ec94cdff213f6af5c7ce45f422ffa5bf20f6b3f"
+    },
+    {
+      "path": "Experimente/runs/m6-core-control/results/core_D_off/seed-405.json",
+      "seed": 405,
+      "sha256": "03049f89443d75747f1a731f0da1fcbaf6b9b081e75e5f30ef2f89fbeeae37d8"
+    },
+    {
+      "path": "Experimente/runs/m6-core-control/results/core_D_off/seed-406.json",
+      "seed": 406,
+      "sha256": "1a914ad626e81d0c35238a0b9454f6bbc91bc3fe8d1fa4efa55a3ee75472af88"
+    },
+    {
+      "path": "Experimente/runs/m6-core-control/results/core_D_off/seed-407.json",
+      "seed": 407,
+      "sha256": "a6a5de8fde8650a84c19521b035596ce49ac6a78bb79796cc330abed7971ca0d"
+    },
+    {
+      "path": "Experimente/runs/m6-core-control/results/core_D_off/seed-408.json",
+      "seed": 408,
+      "sha256": "ab890759553dbd951e94454f94e4327c6b97dbdc61519ae1168acb9311aa7478"
+    },
+    {
+      "path": "Experimente/runs/m6-core-control/results/core_D_off/seed-409.json",
+      "seed": 409,
+      "sha256": "b063ab8b723a76d7e5fc2957bf1fe39f6584bf0bf639e2f8a603644c5e8932ad"
+    }
+  ],
+  "stage": "exploratory mechanism audit, existing M6 seeds"
+}

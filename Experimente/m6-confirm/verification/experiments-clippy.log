@@ -1,0 +1,5 @@
+    Checking nerva v0.1.0 (/home/simon/projekte/DSVLM/NERVA)
+    Checking nerva-qemu v0.1.0 (/home/simon/projekte/DSVLM/nerva-qemu)
+    Checking nerva-vm v0.1.0 (/home/simon/projekte/DSVLM/Modell)
+    Checking nerva-experiments v0.1.0 (/home/simon/projekte/DSVLM/Experimente)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 1.86s

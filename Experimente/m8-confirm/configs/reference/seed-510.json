@@ -1,0 +1,12 @@
+{
+  "calibration_trials": 128,
+  "case_id": "reference",
+  "condition": {
+    "parameter": "reference",
+    "value": 1
+  },
+  "protocol": "NERVA-M8-v1",
+  "seed": 510,
+  "test_trials": 128,
+  "train_trials": 256
+}

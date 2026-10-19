@@ -1,0 +1,10 @@
+   Compiling nerva-vm v0.1.0 (/home/simon/projekte/DSVLM/Modell)
+    Finished `release` profile [optimized] target(s) in 4.23s
+     Running tests/experimental_parameters.rs (Modell/target/release/deps/experimental_parameters-30908334f7175881)
+
+running 2 tests
+test experimental_strength_delay_threshold_and_tau_have_only_the_requested_initial_effects ... ok
+test increased_density_preserves_every_original_cell_and_edge_and_adds_only_local_core_edges ... ok
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+

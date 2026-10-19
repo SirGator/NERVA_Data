@@ -1,0 +1,2 @@
+    Finished `release` profile [optimized] target(s) in 0.01s
+     Running `Modell/target/release/nerva-m6 --intrinsic-audit --config Experimente/runs/m6-pilot/configs/diag_D/seed-002.json --output Experimente/runs/m6-core-diagnostic/seed-002.json`

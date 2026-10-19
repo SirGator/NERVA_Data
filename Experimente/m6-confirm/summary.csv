@@ -1,0 +1,9 @@
+case,n_seeds,visual,sensor_transfer,training_sensor_current,checkpoint_probe,checkpoint_probe_evidence,probe,probe_evidence,retained_probe,retained_probe_evidence,interference_probe,interference_probe_evidence,early16,flip_rate,dual_correct_rate
+diag_A,10,1.0,0.9688749120406834,7.816464881741467,0.5,False,0.5,False,0.5,False,0.5,False,0.5,0.0,0.0
+diag_B,10,1.0,0.9688749120406834,7.810802900727367,0.5,False,0.5,False,0.5,False,0.5,False,0.5,0.0,0.0
+diag_C,10,1.0,1.0,8.007339612423152,0.5,False,0.5,False,0.5,False,0.5,False,0.5,0.0,0.0
+diag_D,10,1.0,1.0,8.002159962386486,0.5,False,0.5,False,0.5,False,0.5,False,0.5,0.0,0.0
+pixels_A,10,1.0,0.5726963430108901,5.435283165568023,0.5,False,0.5078125,False,0.50703125,False,0.521875,False,0.5125,0.090625,0.053125
+pixels_B,10,1.0,0.5726963430108901,5.435197318439009,0.5,False,0.505859375,False,0.503125,False,0.519140625,False,0.5125,0.07890625,0.0453125
+pixels_C,10,1.0,1.0,9.63971010361064,0.5,False,0.5015625,False,0.500390625,False,0.499609375,False,0.490625,0.078125,0.040625
+pixels_D,10,1.0,1.0,9.63960547289247,0.5,False,0.50078125,False,0.497265625,False,0.500390625,False,0.49375,0.0765625,0.0390625

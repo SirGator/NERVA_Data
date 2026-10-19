@@ -1,0 +1,14 @@
+case,seeds,visual,initial_sensor_current,checkpoint_probe,checkpoint_probe_screen,checkpoint_probe_confirmed,rest_checkpoint_probe,rest_checkpoint_probe_screen,rest_checkpoint_probe_confirmed,probe,probe_screen,probe_confirmed,retained_probe,retained_probe_screen,retained_probe_confirmed,interference_probe,interference_probe_screen,interference_probe_confirmed
+reference,10,1.0,10.000000050683472,0.5,False,False,0.5,False,False,0.5,False,False,0.5,False,False,0.5,False,False
+a_weight2,10,1.0,10.000000050683472,0.5,False,False,0.5,False,False,0.5,False,False,0.5,False,False,0.5,False,False
+a_weight4,10,1.0,10.000000050683472,0.5,False,False,0.5,False,False,0.505859375,False,False,0.507421875,False,False,0.505078125,False,False
+b_threshold08,10,1.0,10.000000050683472,0.5,False,False,0.5,False,False,0.5,False,False,0.5,False,False,0.5,False,False
+b_threshold06,10,1.0,10.000000050683472,0.5,False,False,0.525,False,False,0.516796875,False,False,0.51484375,False,False,0.51640625,False,False
+c_tau50,10,1.0,10.000000050683472,0.475,False,False,0.475,False,False,0.475,False,False,0.475,False,False,0.475,False,False
+c_tau100,10,1.0,10.000000050683472,0.5,False,False,0.5,False,False,0.5,False,False,0.5,False,False,0.5,False,False
+d_delay500,10,1.0,10.000000050683472,0.525,False,False,0.525,False,False,0.525,False,False,0.525,False,False,0.525,False,False
+d_delay5000,10,1.0,10.000000050683472,0.5,False,False,0.5,False,False,0.5,False,False,0.5,False,False,0.5,False,False
+e_fanout8,10,1.0,10.000000050683472,0.475,False,False,0.475,False,False,0.475,False,False,0.475,False,False,0.475,False,False
+e_fanout12,10,1.0,10.000000050683472,0.475,False,False,0.475,False,False,0.475,False,False,0.475,False,False,0.475,False,False
+f_visual05,10,1.0,5.000000025341736,0.475,False,False,0.475,False,False,0.475,False,False,0.475,False,False,0.475,False,False
+f_visual15,10,1.0,15.000000100938573,0.5,False,False,0.5,False,False,0.5,False,False,0.5,False,False,0.5,False,False

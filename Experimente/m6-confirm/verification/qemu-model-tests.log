@@ -1,0 +1,8 @@
+    Finished `release` profile [optimized] target(s) in 0.04s
+     Running tests/visual_qemu.rs (Modell/target/release/deps/visual_qemu-49672a4df8f66a22)
+
+running 1 test
+test real_vga_guest_responds_to_keys_and_neural_pixel_feedback ... ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 5.22s
+

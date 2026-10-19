@@ -1,0 +1,225 @@
+{
+  "kind": "Technical interface smoke only, eight trials per phase; not learning evidence",
+  "results": [
+    {
+      "case": "a01_minimal_2ch",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    },
+    {
+      "case": "a02_position_7ch",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    },
+    {
+      "case": "a03_pixels_8",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    },
+    {
+      "case": "a04_pixels_16",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    },
+    {
+      "case": "a05_pixels_64",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    },
+    {
+      "case": "b01_core_128",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    },
+    {
+      "case": "b02_core_256",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    },
+    {
+      "case": "b03_full_256",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    },
+    {
+      "case": "c01_poisson",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    },
+    {
+      "case": "c02_on_off",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    },
+    {
+      "case": "d01_delay_2",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    },
+    {
+      "case": "d02_delay_20",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    },
+    {
+      "case": "d03_delay_50",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    },
+    {
+      "case": "e01_no_feedback",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    },
+    {
+      "case": "e02_no_stdp",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    },
+    {
+      "case": "e03_with_homeostasis_off",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    },
+    {
+      "case": "e04_with_development",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    },
+    {
+      "case": "e05_early_pruning",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    },
+    {
+      "case": "e06_start_drive",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    },
+    {
+      "case": "f01_reference_64_32_poisson",
+      "checks": {
+        "balanced_labels": true,
+        "frozen_probe": true,
+        "matched_experience": true,
+        "no_leakage": true,
+        "same_initial_network": true
+      },
+      "passed": true
+    }
+  ]
+}

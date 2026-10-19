@@ -1,0 +1,100 @@
+{
+  "alignment_contrasts": [
+    {
+      "ci95": [
+        0.0028383143246173857,
+        0.009995249658823013
+      ],
+      "mean_difference": 0.0062244139611721035,
+      "metric": "direct_weight_alignment",
+      "reference": "aged_frozen"
+    },
+    {
+      "ci95": [
+        0.0028383143246173857,
+        0.009995249658823013
+      ],
+      "mean_difference": 0.0062244139611721035,
+      "metric": "direct_weight_alignment",
+      "reference": "scrambled"
+    }
+  ],
+  "audits": [
+    {
+      "counterfactuals": 60,
+      "event_rows": 736559,
+      "pair_rows": 187764,
+      "seed": 400,
+      "snapshot_rows": 7872
+    },
+    {
+      "counterfactuals": 60,
+      "event_rows": 688172,
+      "pair_rows": 181320,
+      "seed": 401,
+      "snapshot_rows": 7872
+    },
+    {
+      "counterfactuals": 60,
+      "event_rows": 719818,
+      "pair_rows": 180685,
+      "seed": 402,
+      "snapshot_rows": 7872
+    },
+    {
+      "counterfactuals": 60,
+      "event_rows": 745927,
+      "pair_rows": 196527,
+      "seed": 403,
+      "snapshot_rows": 7872
+    },
+    {
+      "counterfactuals": 60,
+      "event_rows": 795731,
+      "pair_rows": 215951,
+      "seed": 404,
+      "snapshot_rows": 7872
+    },
+    {
+      "counterfactuals": 60,
+      "event_rows": 682605,
+      "pair_rows": 157536,
+      "seed": 405,
+      "snapshot_rows": 7872
+    },
+    {
+      "counterfactuals": 60,
+      "event_rows": 699779,
+      "pair_rows": 171370,
+      "seed": 406,
+      "snapshot_rows": 7872
+    },
+    {
+      "counterfactuals": 60,
+      "event_rows": 673809,
+      "pair_rows": 166820,
+      "seed": 407,
+      "snapshot_rows": 7872
+    },
+    {
+      "counterfactuals": 60,
+      "event_rows": 717520,
+      "pair_rows": 182997,
+      "seed": 408,
+      "snapshot_rows": 7872
+    },
+    {
+      "counterfactuals": 60,
+      "event_rows": 728685,
+      "pair_rows": 193319,
+      "seed": 409,
+      "snapshot_rows": 7872
+    }
+  ],
+  "total": {
+    "counterfactuals": 600,
+    "event_rows": 7188605,
+    "pair_rows": 1834289,
+    "snapshot_rows": 78720
+  }
+}

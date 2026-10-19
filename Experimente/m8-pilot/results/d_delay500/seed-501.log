@@ -1,0 +1,3 @@
+M8_COMPLETED d_delay500 seed 501
+    Finished `release` profile [optimized] target(s) in 0.01s
+     Running `Experimente/target/release/nerva-m8 --config Experimente/runs/m8-pilot/configs/d_delay500/seed-501.json --output Experimente/runs/m8-pilot/results/d_delay500/seed-501.json`

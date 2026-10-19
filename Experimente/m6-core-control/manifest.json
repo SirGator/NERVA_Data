@@ -1,0 +1,85 @@
+{
+  "conditions": [
+    {
+      "base": {
+        "arms": [
+          "before",
+          "aged_frozen",
+          "paired",
+          "scrambled"
+        ],
+        "calibration_trials": 128,
+        "case_id": "core_D_on",
+        "params": {
+          "action_effect_delay_ms": 50,
+          "development": false,
+          "encoding": "deterministic",
+          "homeostasis": true,
+          "initial_drive": 0,
+          "motor_feedback": true,
+          "normalization": "equal_input_current",
+          "processing": 32,
+          "pruning_min_us": 5000000,
+          "resolution": 0,
+          "sensor": "effect_2ch",
+          "stdp": true
+        },
+        "protocol": "NERVA-M4-v1",
+        "seed": 0,
+        "test_trials": 128,
+        "train_trials": 256
+      },
+      "protocol": "NERVA-M6-v1",
+      "variant": "D"
+    },
+    {
+      "base": {
+        "arms": [
+          "before",
+          "aged_frozen",
+          "paired",
+          "scrambled"
+        ],
+        "calibration_trials": 128,
+        "case_id": "core_D_off",
+        "params": {
+          "action_effect_delay_ms": 50,
+          "development": false,
+          "encoding": "deterministic",
+          "homeostasis": false,
+          "initial_drive": 0,
+          "motor_feedback": true,
+          "normalization": "equal_input_current",
+          "processing": 32,
+          "pruning_min_us": 5000000,
+          "resolution": 0,
+          "sensor": "effect_2ch",
+          "stdp": true
+        },
+        "protocol": "NERVA-M4-v1",
+        "seed": 0,
+        "test_trials": 128,
+        "train_trials": 256
+      },
+      "protocol": "NERVA-M6-v1",
+      "variant": "D"
+    }
+  ],
+  "endpoint": "Same M6 chance/control/mapping criteria, plus actual cue Core spikes; no tuning using these seeds",
+  "fixed": "diag_D: effect_2ch/32, three copies, visual-homeostasis off, tau20ms, weight0.9, delay50ms; 256/128/128 trials",
+  "hypothesis": "Core intrinsic-current regulation suppresses burst integration after training",
+  "protocol": "NERVA-M6-core-control-v1",
+  "seeds": [
+    400,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    409
+  ],
+  "stage": "exploratory follow-up after M6"
+}

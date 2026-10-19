@@ -1,0 +1,143 @@
+{
+  "dokumentationsstand": "2026-10-19",
+  "dokumente": [
+    {
+      "datei": "AGENCY_EXPERIMENT.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Experimente/AGENCY_EXPERIMENT.md",
+      "quell_sha256": "9edc6084f50a03ca064cc2e04c0e12ddc466d17db54e863709a632e4b61528c6",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "M3_EXPERIMENT.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Experimente/M3_EXPERIMENT.md",
+      "quell_sha256": "c2247a5a853249b284124d14b12dbba94731108ba462d3b00ab8b80109f7ab5b",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "M4_EXPERIMENT.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Experimente/M4_EXPERIMENT.md",
+      "quell_sha256": "5b3442f418d8c1475713a0b00d728ef2959b8deb8b9f8ae0ea4e8d6fd32e2490",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "M5_EXPERIMENT.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Experimente/M5_EXPERIMENT.md",
+      "quell_sha256": "d32dd34dd33d9e3ed67832a526ce86f9a6b5310f7430697be093d89ac5439bcd",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "M6_EXPERIMENT.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Experimente/M6_EXPERIMENT.md",
+      "quell_sha256": "3f91013205be58a5bb5afba3d2713f142ba7ce88a2a3c70dedab34ee32c39c76",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "M7_EXPERIMENT.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Experimente/M7_EXPERIMENT.md",
+      "quell_sha256": "8a59ee07f48f55361ec9e96e6f4d4e07ff4f4e2adad2bc2dfd23505d095118c3",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "M8_EXPERIMENT.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Experimente/M8_EXPERIMENT.md",
+      "quell_sha256": "6b7defeb47e362857df995e3f0fdb98af0f658801d31888ca19cf8ff8c9e1ece",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "RECURRENT_EXPERIMENT.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Experimente/RECURRENT_EXPERIMENT.md",
+      "quell_sha256": "27e22b00f8bbe59fd2a84f33046b8b108ed1d36c45a449868fa8a391b594f581",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "RETENTION_EXPERIMENT.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Experimente/RETENTION_EXPERIMENT.md",
+      "quell_sha256": "d21fb59ba79765d028612fa7220b8f989b02ced0c25a51abb330bccd984ba0bd",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "SENSORIMOTOR_EXPERIMENT.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Experimente/SENSORIMOTOR_EXPERIMENT.md",
+      "quell_sha256": "741b4d2e0059c45a1bf598ee2f9c9ce3b99f40a5fc5b2c708925e8d7339167e7",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "SERIAL_MODEL.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Experimente/SERIAL_MODEL.md",
+      "quell_sha256": "f7f2514c3ead8385cba090601740b73a7056957c8bd9e2fd6d7a822b2fd0f34b",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "Dokumentation/ARCHITECTURE.md",
+      "quelle_im_gesamtprojekt": "ARCHITECTURE.md",
+      "quell_sha256": "2886fbe51ef61ee01c9712219a4da073b53acdb9d2b680f342601d0bbe3e469d",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "Dokumentation/MODELL.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Modell/README.md",
+      "quell_sha256": "ef7a687cd4e1aa88de844d80030ae1def2775e8ca264390d759547ad97fb603b",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "Dokumentation/VISUAL_MODEL.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Modell/VISUAL_MODEL.md",
+      "quell_sha256": "af86ea50dd9f763bd77d9fdde34d9a7ee5d495678a5aaafc57a044521923413e",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "Dokumentation/KEYBOARD_LAYOUT.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Modell/KEYBOARD_LAYOUT.md",
+      "quell_sha256": "d5356244f46e1ffd9264c9fd7169a7653355a24a0c6ad80ab5a354b1d937388c",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "Dokumentation/M4_STATUS.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Modell/M4_STATUS.md",
+      "quell_sha256": "0a4aca263d14cb5756f6fcf95f3e9ae4c081ca41f7ecbd8af0cd22db6744fe3b",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "Dokumentation/M4_METHODIK.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Experimente/m4/README.md",
+      "quell_sha256": "0020a3439d2b796592e8e83c422b63854c7b4b5c4c3d65cfc8e20f4d85d9ba04",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "Dokumentation/M5_METHODIK.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Experimente/m5/README.md",
+      "quell_sha256": "89574ceb2d6fd2541c2f6abe9ef9381ebbc8bcdc0515ed70357489f4adac6411",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "Dokumentation/M6_METHODIK.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Experimente/m6/README.md",
+      "quell_sha256": "a29af79dbf7bf3b5692bcc6cea9d0d46a7391cf7b11dd468c59a9ed3303a82ce",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "Dokumentation/M7_METHODIK.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Experimente/m7/README.md",
+      "quell_sha256": "e64fe79a2d5f363c0522d3c1fe3f02812fe23c71013d8ea357e8cdc55ffeb5e0",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "Dokumentation/M8_METHODIK.md",
+      "quelle_im_gesamtprojekt": "NERVA_Modell/Experimente/m8/README.md",
+      "quell_sha256": "0f791d02f66cd60cc511686a2b05ce40ad1b25620c68b0fa1d5b63e25e915019",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "Dokumentation/HAUPTHYPOTHESE.md",
+      "quelle_im_gesamtprojekt": "NERVA/docs/forschung/Hypothese.md",
+      "quell_sha256": "470430555c9440f9b06fa59c9c59447e57f46cb02ded2711df40fa07d04a2dfb",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    },
+    {
+      "datei": "Dokumentation/TEILHYPOTHESE.md",
+      "quelle_im_gesamtprojekt": "NERVA/docs/forschung/Teilhypothese1.md",
+      "quell_sha256": "ba95f9dd7f914e679bb811400c6c727efb51e5f4689768fda6df60c009e0303d",
+      "anpassungen": "Hinweis zum Messpaket und interne Linkziele; fachlicher Inhalt übernommen"
+    }
+  ]
+}

@@ -1,0 +1,686 @@
+[
+  {
+    "arm": "aged_frozen",
+    "case": "diag_B",
+    "core_spikes_mean": 3,
+    "core_spikes_sum": 120,
+    "silent_windows": 0,
+    "stage": "checkpoint_probe",
+    "windows": 40
+  },
+  {
+    "arm": "aged_frozen",
+    "case": "diag_B",
+    "core_spikes_mean": 3,
+    "core_spikes_sum": 7680,
+    "silent_windows": 0,
+    "stage": "interference_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "aged_frozen",
+    "case": "diag_B",
+    "core_spikes_mean": 3,
+    "core_spikes_sum": 7680,
+    "silent_windows": 0,
+    "stage": "probe",
+    "windows": 2560
+  },
+  {
+    "arm": "aged_frozen",
+    "case": "diag_B",
+    "core_spikes_mean": 3,
+    "core_spikes_sum": 7680,
+    "silent_windows": 0,
+    "stage": "retained_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "aged_frozen",
+    "case": "diag_B",
+    "core_spikes_mean": 3,
+    "core_spikes_sum": 15360,
+    "silent_windows": 0,
+    "stage": "training",
+    "windows": 5120
+  },
+  {
+    "arm": "before",
+    "case": "diag_B",
+    "core_spikes_mean": 3,
+    "core_spikes_sum": 120,
+    "silent_windows": 0,
+    "stage": "checkpoint_probe",
+    "windows": 40
+  },
+  {
+    "arm": "before",
+    "case": "diag_B",
+    "core_spikes_mean": 3,
+    "core_spikes_sum": 7680,
+    "silent_windows": 0,
+    "stage": "interference_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "before",
+    "case": "diag_B",
+    "core_spikes_mean": 3,
+    "core_spikes_sum": 7680,
+    "silent_windows": 0,
+    "stage": "probe",
+    "windows": 2560
+  },
+  {
+    "arm": "before",
+    "case": "diag_B",
+    "core_spikes_mean": 3,
+    "core_spikes_sum": 7680,
+    "silent_windows": 0,
+    "stage": "retained_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "paired",
+    "case": "diag_B",
+    "core_spikes_mean": 0,
+    "core_spikes_sum": 0,
+    "silent_windows": 40,
+    "stage": "checkpoint_probe",
+    "windows": 40
+  },
+  {
+    "arm": "paired",
+    "case": "diag_B",
+    "core_spikes_mean": 0.000390625,
+    "core_spikes_sum": 1,
+    "silent_windows": 2559,
+    "stage": "interference_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "paired",
+    "case": "diag_B",
+    "core_spikes_mean": 0,
+    "core_spikes_sum": 0,
+    "silent_windows": 2560,
+    "stage": "probe",
+    "windows": 2560
+  },
+  {
+    "arm": "paired",
+    "case": "diag_B",
+    "core_spikes_mean": 0,
+    "core_spikes_sum": 0,
+    "silent_windows": 2560,
+    "stage": "retained_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "paired",
+    "case": "diag_B",
+    "core_spikes_mean": 0.165234375,
+    "core_spikes_sum": 846,
+    "silent_windows": 4725,
+    "stage": "training",
+    "windows": 5120
+  },
+  {
+    "arm": "scrambled",
+    "case": "diag_B",
+    "core_spikes_mean": 0,
+    "core_spikes_sum": 0,
+    "silent_windows": 40,
+    "stage": "checkpoint_probe",
+    "windows": 40
+  },
+  {
+    "arm": "scrambled",
+    "case": "diag_B",
+    "core_spikes_mean": 0,
+    "core_spikes_sum": 0,
+    "silent_windows": 2560,
+    "stage": "interference_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "scrambled",
+    "case": "diag_B",
+    "core_spikes_mean": 0,
+    "core_spikes_sum": 0,
+    "silent_windows": 2560,
+    "stage": "probe",
+    "windows": 2560
+  },
+  {
+    "arm": "scrambled",
+    "case": "diag_B",
+    "core_spikes_mean": 0,
+    "core_spikes_sum": 0,
+    "silent_windows": 2560,
+    "stage": "retained_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "scrambled",
+    "case": "diag_B",
+    "core_spikes_mean": 0.164453125,
+    "core_spikes_sum": 842,
+    "silent_windows": 4726,
+    "stage": "training",
+    "windows": 5120
+  },
+  {
+    "arm": "aged_frozen",
+    "case": "diag_D",
+    "core_spikes_mean": 3,
+    "core_spikes_sum": 120,
+    "silent_windows": 0,
+    "stage": "checkpoint_probe",
+    "windows": 40
+  },
+  {
+    "arm": "aged_frozen",
+    "case": "diag_D",
+    "core_spikes_mean": 3,
+    "core_spikes_sum": 7680,
+    "silent_windows": 0,
+    "stage": "interference_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "aged_frozen",
+    "case": "diag_D",
+    "core_spikes_mean": 3,
+    "core_spikes_sum": 7680,
+    "silent_windows": 0,
+    "stage": "probe",
+    "windows": 2560
+  },
+  {
+    "arm": "aged_frozen",
+    "case": "diag_D",
+    "core_spikes_mean": 3,
+    "core_spikes_sum": 7680,
+    "silent_windows": 0,
+    "stage": "retained_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "aged_frozen",
+    "case": "diag_D",
+    "core_spikes_mean": 3,
+    "core_spikes_sum": 15360,
+    "silent_windows": 0,
+    "stage": "training",
+    "windows": 5120
+  },
+  {
+    "arm": "before",
+    "case": "diag_D",
+    "core_spikes_mean": 3,
+    "core_spikes_sum": 120,
+    "silent_windows": 0,
+    "stage": "checkpoint_probe",
+    "windows": 40
+  },
+  {
+    "arm": "before",
+    "case": "diag_D",
+    "core_spikes_mean": 3,
+    "core_spikes_sum": 7680,
+    "silent_windows": 0,
+    "stage": "interference_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "before",
+    "case": "diag_D",
+    "core_spikes_mean": 3,
+    "core_spikes_sum": 7680,
+    "silent_windows": 0,
+    "stage": "probe",
+    "windows": 2560
+  },
+  {
+    "arm": "before",
+    "case": "diag_D",
+    "core_spikes_mean": 3,
+    "core_spikes_sum": 7680,
+    "silent_windows": 0,
+    "stage": "retained_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "paired",
+    "case": "diag_D",
+    "core_spikes_mean": 0,
+    "core_spikes_sum": 0,
+    "silent_windows": 40,
+    "stage": "checkpoint_probe",
+    "windows": 40
+  },
+  {
+    "arm": "paired",
+    "case": "diag_D",
+    "core_spikes_mean": 0.00078125,
+    "core_spikes_sum": 2,
+    "silent_windows": 2558,
+    "stage": "interference_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "paired",
+    "case": "diag_D",
+    "core_spikes_mean": 0,
+    "core_spikes_sum": 0,
+    "silent_windows": 2560,
+    "stage": "probe",
+    "windows": 2560
+  },
+  {
+    "arm": "paired",
+    "case": "diag_D",
+    "core_spikes_mean": 0,
+    "core_spikes_sum": 0,
+    "silent_windows": 2560,
+    "stage": "retained_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "paired",
+    "case": "diag_D",
+    "core_spikes_mean": 0.1646484375,
+    "core_spikes_sum": 843,
+    "silent_windows": 4729,
+    "stage": "training",
+    "windows": 5120
+  },
+  {
+    "arm": "scrambled",
+    "case": "diag_D",
+    "core_spikes_mean": 0,
+    "core_spikes_sum": 0,
+    "silent_windows": 40,
+    "stage": "checkpoint_probe",
+    "windows": 40
+  },
+  {
+    "arm": "scrambled",
+    "case": "diag_D",
+    "core_spikes_mean": 0.00078125,
+    "core_spikes_sum": 2,
+    "silent_windows": 2558,
+    "stage": "interference_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "scrambled",
+    "case": "diag_D",
+    "core_spikes_mean": 0,
+    "core_spikes_sum": 0,
+    "silent_windows": 2560,
+    "stage": "probe",
+    "windows": 2560
+  },
+  {
+    "arm": "scrambled",
+    "case": "diag_D",
+    "core_spikes_mean": 0,
+    "core_spikes_sum": 0,
+    "silent_windows": 2560,
+    "stage": "retained_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "scrambled",
+    "case": "diag_D",
+    "core_spikes_mean": 0.164453125,
+    "core_spikes_sum": 842,
+    "silent_windows": 4728,
+    "stage": "training",
+    "windows": 5120
+  },
+  {
+    "arm": "aged_frozen",
+    "case": "pixels_B",
+    "core_spikes_mean": 43.65,
+    "core_spikes_sum": 1746,
+    "silent_windows": 0,
+    "stage": "checkpoint_probe",
+    "windows": 40
+  },
+  {
+    "arm": "aged_frozen",
+    "case": "pixels_B",
+    "core_spikes_mean": 41.1078125,
+    "core_spikes_sum": 105236,
+    "silent_windows": 0,
+    "stage": "interference_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "aged_frozen",
+    "case": "pixels_B",
+    "core_spikes_mean": 41.1765625,
+    "core_spikes_sum": 105412,
+    "silent_windows": 0,
+    "stage": "probe",
+    "windows": 2560
+  },
+  {
+    "arm": "aged_frozen",
+    "case": "pixels_B",
+    "core_spikes_mean": 41.273828125,
+    "core_spikes_sum": 105661,
+    "silent_windows": 0,
+    "stage": "retained_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "aged_frozen",
+    "case": "pixels_B",
+    "core_spikes_mean": 41.3384765625,
+    "core_spikes_sum": 211653,
+    "silent_windows": 0,
+    "stage": "training",
+    "windows": 5120
+  },
+  {
+    "arm": "before",
+    "case": "pixels_B",
+    "core_spikes_mean": 46.6,
+    "core_spikes_sum": 1864,
+    "silent_windows": 0,
+    "stage": "checkpoint_probe",
+    "windows": 40
+  },
+  {
+    "arm": "before",
+    "case": "pixels_B",
+    "core_spikes_mean": 41.201953125,
+    "core_spikes_sum": 105477,
+    "silent_windows": 0,
+    "stage": "interference_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "before",
+    "case": "pixels_B",
+    "core_spikes_mean": 41.3484375,
+    "core_spikes_sum": 105852,
+    "silent_windows": 0,
+    "stage": "probe",
+    "windows": 2560
+  },
+  {
+    "arm": "before",
+    "case": "pixels_B",
+    "core_spikes_mean": 41.351171875,
+    "core_spikes_sum": 105859,
+    "silent_windows": 0,
+    "stage": "retained_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "paired",
+    "case": "pixels_B",
+    "core_spikes_mean": 16.025,
+    "core_spikes_sum": 641,
+    "silent_windows": 0,
+    "stage": "checkpoint_probe",
+    "windows": 40
+  },
+  {
+    "arm": "paired",
+    "case": "pixels_B",
+    "core_spikes_mean": 15.378125,
+    "core_spikes_sum": 39368,
+    "silent_windows": 0,
+    "stage": "interference_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "paired",
+    "case": "pixels_B",
+    "core_spikes_mean": 15.37578125,
+    "core_spikes_sum": 39362,
+    "silent_windows": 0,
+    "stage": "probe",
+    "windows": 2560
+  },
+  {
+    "arm": "paired",
+    "case": "pixels_B",
+    "core_spikes_mean": 15.357421875,
+    "core_spikes_sum": 39315,
+    "silent_windows": 0,
+    "stage": "retained_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "paired",
+    "case": "pixels_B",
+    "core_spikes_mean": 18.2369140625,
+    "core_spikes_sum": 93373,
+    "silent_windows": 0,
+    "stage": "training",
+    "windows": 5120
+  },
+  {
+    "arm": "scrambled",
+    "case": "pixels_B",
+    "core_spikes_mean": 16,
+    "core_spikes_sum": 640,
+    "silent_windows": 0,
+    "stage": "checkpoint_probe",
+    "windows": 40
+  },
+  {
+    "arm": "scrambled",
+    "case": "pixels_B",
+    "core_spikes_mean": 15.4453125,
+    "core_spikes_sum": 39540,
+    "silent_windows": 0,
+    "stage": "interference_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "scrambled",
+    "case": "pixels_B",
+    "core_spikes_mean": 15.43359375,
+    "core_spikes_sum": 39510,
+    "silent_windows": 0,
+    "stage": "probe",
+    "windows": 2560
+  },
+  {
+    "arm": "scrambled",
+    "case": "pixels_B",
+    "core_spikes_mean": 15.419140625,
+    "core_spikes_sum": 39473,
+    "silent_windows": 0,
+    "stage": "retained_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "scrambled",
+    "case": "pixels_B",
+    "core_spikes_mean": 18.24140625,
+    "core_spikes_sum": 93396,
+    "silent_windows": 0,
+    "stage": "training",
+    "windows": 5120
+  },
+  {
+    "arm": "aged_frozen",
+    "case": "pixels_D",
+    "core_spikes_mean": 43.65,
+    "core_spikes_sum": 1746,
+    "silent_windows": 0,
+    "stage": "checkpoint_probe",
+    "windows": 40
+  },
+  {
+    "arm": "aged_frozen",
+    "case": "pixels_D",
+    "core_spikes_mean": 41.1078125,
+    "core_spikes_sum": 105236,
+    "silent_windows": 0,
+    "stage": "interference_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "aged_frozen",
+    "case": "pixels_D",
+    "core_spikes_mean": 41.1765625,
+    "core_spikes_sum": 105412,
+    "silent_windows": 0,
+    "stage": "probe",
+    "windows": 2560
+  },
+  {
+    "arm": "aged_frozen",
+    "case": "pixels_D",
+    "core_spikes_mean": 41.273828125,
+    "core_spikes_sum": 105661,
+    "silent_windows": 0,
+    "stage": "retained_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "aged_frozen",
+    "case": "pixels_D",
+    "core_spikes_mean": 41.3384765625,
+    "core_spikes_sum": 211653,
+    "silent_windows": 0,
+    "stage": "training",
+    "windows": 5120
+  },
+  {
+    "arm": "before",
+    "case": "pixels_D",
+    "core_spikes_mean": 46.6,
+    "core_spikes_sum": 1864,
+    "silent_windows": 0,
+    "stage": "checkpoint_probe",
+    "windows": 40
+  },
+  {
+    "arm": "before",
+    "case": "pixels_D",
+    "core_spikes_mean": 41.201953125,
+    "core_spikes_sum": 105477,
+    "silent_windows": 0,
+    "stage": "interference_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "before",
+    "case": "pixels_D",
+    "core_spikes_mean": 41.3484375,
+    "core_spikes_sum": 105852,
+    "silent_windows": 0,
+    "stage": "probe",
+    "windows": 2560
+  },
+  {
+    "arm": "before",
+    "case": "pixels_D",
+    "core_spikes_mean": 41.351171875,
+    "core_spikes_sum": 105859,
+    "silent_windows": 0,
+    "stage": "retained_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "paired",
+    "case": "pixels_D",
+    "core_spikes_mean": 27.45,
+    "core_spikes_sum": 1098,
+    "silent_windows": 0,
+    "stage": "checkpoint_probe",
+    "windows": 40
+  },
+  {
+    "arm": "paired",
+    "case": "pixels_D",
+    "core_spikes_mean": 26.108984375,
+    "core_spikes_sum": 66839,
+    "silent_windows": 0,
+    "stage": "interference_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "paired",
+    "case": "pixels_D",
+    "core_spikes_mean": 26.033203125,
+    "core_spikes_sum": 66645,
+    "silent_windows": 0,
+    "stage": "probe",
+    "windows": 2560
+  },
+  {
+    "arm": "paired",
+    "case": "pixels_D",
+    "core_spikes_mean": 26.143359375,
+    "core_spikes_sum": 66927,
+    "silent_windows": 0,
+    "stage": "retained_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "paired",
+    "case": "pixels_D",
+    "core_spikes_mean": 30.236328125,
+    "core_spikes_sum": 154810,
+    "silent_windows": 0,
+    "stage": "training",
+    "windows": 5120
+  },
+  {
+    "arm": "scrambled",
+    "case": "pixels_D",
+    "core_spikes_mean": 27.6,
+    "core_spikes_sum": 1104,
+    "silent_windows": 0,
+    "stage": "checkpoint_probe",
+    "windows": 40
+  },
+  {
+    "arm": "scrambled",
+    "case": "pixels_D",
+    "core_spikes_mean": 26.15,
+    "core_spikes_sum": 66944,
+    "silent_windows": 0,
+    "stage": "interference_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "scrambled",
+    "case": "pixels_D",
+    "core_spikes_mean": 26.059765625,
+    "core_spikes_sum": 66713,
+    "silent_windows": 0,
+    "stage": "probe",
+    "windows": 2560
+  },
+  {
+    "arm": "scrambled",
+    "case": "pixels_D",
+    "core_spikes_mean": 26.18046875,
+    "core_spikes_sum": 67022,
+    "silent_windows": 0,
+    "stage": "retained_probe",
+    "windows": 2560
+  },
+  {
+    "arm": "scrambled",
+    "case": "pixels_D",
+    "core_spikes_mean": 30.23046875,
+    "core_spikes_sum": 154780,
+    "silent_windows": 0,
+    "stage": "training",
+    "windows": 5120
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "action_copy_weight": 0.9,
+  "base": {
+    "arms": [
+      "before",
+      "aged_frozen",
+      "paired",
+      "scrambled"
+    ],
+    "calibration_trials": 128,
+    "case_id": "b_core_sensor",
+    "params": {
+      "action_effect_delay_ms": 8,
+      "development": false,
+      "encoding": "deterministic",
+      "homeostasis": true,
+      "initial_drive": 0,
+      "motor_feedback": true,
+      "normalization": "equal_input_current",
+      "processing": 128,
+      "pruning_min_us": 5000000,
+      "resolution": 16,
+      "sensor": "pixels",
+      "stdp": true
+    },
+    "protocol": "NERVA-M4-v1",
+    "seed": 202,
+    "test_trials": 128,
+    "train_trials": 256
+  },
+  "core_membrane_tau_us": 20000,
+  "experiment": "sensor_homeostasis",
+  "homeostasis_scope": "core_sensor",
+  "protocol": "NERVA-M5-v1"
+}

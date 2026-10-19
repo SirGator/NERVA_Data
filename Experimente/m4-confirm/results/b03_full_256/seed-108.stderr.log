@@ -1,0 +1,2 @@
+    Finished `release` profile [optimized] target(s) in 0.02s
+     Running `Modell/target/release/nerva-m4 --config Experimente/runs/m4-confirm/configs/b03_full_256/seed-108.json --output Experimente/runs/m4-confirm/results/b03_full_256/seed-108.json`

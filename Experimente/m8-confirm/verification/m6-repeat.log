@@ -1,0 +1,4 @@
+    Blocking waiting for file lock on build directory
+    Finished `release` profile [optimized] target(s) in 0.06s
+     Running `Modell/target/release/nerva-m6 --config Experimente/runs/m6-confirm/configs/diag_D/seed-300.json --output /tmp/nerva-m8-m6-repeat300.json`
+M6_COMPLETED diag_D seed 300

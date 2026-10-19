@@ -1,0 +1,3 @@
+    Finished `release` profile [optimized] target(s) in 0.05s
+     Running `Modell/target/release/nerva-m4 --config Experimente/runs/m4-initial-gate/configs/a01_minimal_2ch/seed-00.json --output /tmp/nerva-m8-m4-repeat0.json`
+M4_COMPLETED a01_minimal_2ch seed 0

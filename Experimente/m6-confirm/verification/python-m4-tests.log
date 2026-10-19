@@ -1,0 +1,16 @@
+test_bootstrap (test_runner.TestRunner.test_bootstrap) ... ok
+test_confirmation_needs_both_mappings_and_retention (test_runner.TestRunner.test_confirmation_needs_both_mappings_and_retention) ... ok
+test_gate_has_only_simple_deterministic_sensors_and_two_delays (test_runner.TestRunner.test_gate_has_only_simple_deterministic_sensors_and_two_delays) ... ok
+test_immediate_aggregates_without_mapping_data_do_not_confirm_learning (test_runner.TestRunner.test_immediate_aggregates_without_mapping_data_do_not_confirm_learning) ... ok
+test_manifest (test_runner.TestRunner.test_manifest) ... ok
+test_report_rejects_empty_data_as_measurement (test_runner.TestRunner.test_report_rejects_empty_data_as_measurement) ... ok
+test_validation_prevents_missing_controls (test_runner.TestRunner.test_validation_prevents_missing_controls) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.294s
+
+OK
+Report: /tmp/tmp_j_0ynka/summary.csv /tmp/tmp_j_0ynka/summary.md
+Report: /tmp/tmp_j_0ynka/summary.csv /tmp/tmp_j_0ynka/summary.md
+Report: /tmp/tmp7arwban3/summary.csv /tmp/tmp7arwban3/summary.md
+No run data yet. No NERVA experiments were executed.

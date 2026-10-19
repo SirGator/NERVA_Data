@@ -1,0 +1,3 @@
+M8_COMPLETED c_tau50 seed 511
+    Finished `release` profile [optimized] target(s) in 0.01s
+     Running `Experimente/target/release/nerva-m8 --config Experimente/runs/m8-confirm/configs/c_tau50/seed-511.json --output Experimente/runs/m8-confirm/results/c_tau50/seed-511.json`

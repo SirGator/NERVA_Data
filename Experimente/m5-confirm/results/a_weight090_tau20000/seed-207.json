@@ -1,0 +1,943 @@
+{
+  "case_id": "a_weight090_tau20000",
+  "checks": {
+    "fixed_copy_pulse_count_and_timing": true,
+    "frozen_control_preserved": true,
+    "identical_neutral_images": true,
+    "same_initial_network": true
+  },
+  "experiment": "motor_threshold",
+  "initial_network_fingerprint": "73cef0d3fdd4a5aa",
+  "observations": [
+    {
+      "action": "none",
+      "copy_arrivals": 0,
+      "copy_spikes": 0,
+      "core_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "core_potentials_at_50ms": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "core_spike_count": 0,
+      "core_spikes": [],
+      "core_weight_update_count": 0,
+      "core_weight_updates": [],
+      "generated_and_emitted_visual_spikes": 0,
+      "learning": false,
+      "plastic_core_arrival_count": 0,
+      "plastic_core_arrivals": []
+    },
+    {
+      "action": "a",
+      "copy_arrivals": 9,
+      "copy_spikes": 3,
+      "core_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "core_potentials_at_50ms": [
+        0.050058044493198395,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.04440966621041298,
+        0.0,
+        -0.053939029574394226,
+        0.0,
+        0.0,
+        0.0,
+        -0.06533633917570114,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.04407575726509094,
+        0.046764880418777466,
+        0.0,
+        0.0,
+        0.06424408406019211,
+        0.061195507645606995,
+        0.0,
+        0.060377802699804306,
+        0.045352693647146225,
+        -0.06316403299570084
+      ],
+      "core_spike_count": 3,
+      "core_spikes": [
+        [
+          12,
+          21501
+        ],
+        [
+          16,
+          21501
+        ],
+        [
+          23,
+          21501
+        ]
+      ],
+      "core_weight_update_count": 0,
+      "core_weight_updates": [],
+      "generated_and_emitted_visual_spikes": 0,
+      "learning": false,
+      "plastic_core_arrival_count": 12,
+      "plastic_core_arrivals": [
+        {
+          "amplitude": 0.26041844487190247,
+          "source": 16,
+          "synapse_id": 64,
+          "target": 28,
+          "time_us": 22008
+        },
+        {
+          "amplitude": 0.183785542845726,
+          "source": 16,
+          "synapse_id": 67,
+          "target": 32,
+          "time_us": 22014
+        },
+        {
+          "amplitude": 0.24635504186153412,
+          "source": 16,
+          "synapse_id": 65,
+          "target": 29,
+          "time_us": 22146
+        },
+        {
+          "amplitude": 0.20066428184509277,
+          "source": 23,
+          "synapse_id": 94,
+          "target": 2,
+          "time_us": 22231
+        },
+        {
+          "amplitude": 0.2414642870426178,
+          "source": 16,
+          "synapse_id": 66,
+          "target": 31,
+          "time_us": 22278
+        },
+        {
+          "amplitude": 0.17522306740283966,
+          "source": 23,
+          "synapse_id": 92,
+          "target": 24,
+          "time_us": 22397
+        },
+        {
+          "amplitude": -0.2495938539505005,
+          "source": 12,
+          "synapse_id": 51,
+          "target": 33,
+          "time_us": 22518
+        },
+        {
+          "amplitude": -0.25744515657424927,
+          "source": 12,
+          "synapse_id": 49,
+          "target": 23,
+          "time_us": 22587
+        },
+        {
+          "amplitude": 0.18357667326927185,
+          "source": 23,
+          "synapse_id": 95,
+          "target": 25,
+          "time_us": 22650
+        },
+        {
+          "amplitude": 0.17266567051410675,
+          "source": 23,
+          "synapse_id": 93,
+          "target": 8,
+          "time_us": 22842
+        },
+        {
+          "amplitude": -0.25305286049842834,
+          "source": 12,
+          "synapse_id": 48,
+          "target": 14,
+          "time_us": 22919
+        },
+        {
+          "amplitude": -0.2058410495519638,
+          "source": 12,
+          "synapse_id": 50,
+          "target": 10,
+          "time_us": 23215
+        }
+      ]
+    },
+    {
+      "action": "d",
+      "copy_arrivals": 9,
+      "copy_spikes": 3,
+      "core_counts": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "core_potentials_at_50ms": [
+        0.0,
+        0.0,
+        0.0,
+        0.06199555844068527,
+        0.0,
+        0.06413635611534119,
+        -0.049770377576351166,
+        0.0,
+        0.0,
+        0.0,
+        0.05473016947507858,
+        0.0,
+        0.050450559705495834,
+        0.0,
+        0.0,
+        0.0,
+        0.05461599677801132,
+        0.047793786972761154,
+        0.0,
+        0.05935732275247574,
+        0.0,
+        0.06008635833859444,
+        -0.04814504459500313,
+        0.0,
+        0.0,
+        0.0,
+        -0.05246859788894653,
+        -0.044718921184539795,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "core_spike_count": 3,
+      "core_spikes": [
+        [
+          4,
+          21501
+        ],
+        [
+          6,
+          21501
+        ],
+        [
+          9,
+          21501
+        ]
+      ],
+      "core_weight_update_count": 0,
+      "core_weight_updates": [],
+      "generated_and_emitted_visual_spikes": 0,
+      "learning": false,
+      "plastic_core_arrival_count": 12,
+      "plastic_core_arrivals": [
+        {
+          "amplitude": 0.22171996533870697,
+          "source": 4,
+          "synapse_id": 18,
+          "target": 12,
+          "time_us": 22020
+        },
+        {
+          "amplitude": 0.24118946492671967,
+          "source": 6,
+          "synapse_id": 26,
+          "target": 23,
+          "time_us": 22204
+        },
+        {
+          "amplitude": -0.20985457301139832,
+          "source": 9,
+          "synapse_id": 39,
+          "target": 28,
+          "time_us": 22276
+        },
+        {
+          "amplitude": 0.24750050902366638,
+          "source": 4,
+          "synapse_id": 16,
+          "target": 5,
+          "time_us": 22313
+        },
+        {
+          "amplitude": 0.21570825576782227,
+          "source": 6,
+          "synapse_id": 24,
+          "target": 18,
+          "time_us": 22528
+        },
+        {
+          "amplitude": -0.19471170008182526,
+          "source": 9,
+          "synapse_id": 38,
+          "target": 8,
+          "time_us": 22718
+        },
+        {
+          "amplitude": -0.18762929737567902,
+          "source": 9,
+          "synapse_id": 37,
+          "target": 24,
+          "time_us": 22795
+        },
+        {
+          "amplitude": 0.18547973036766052,
+          "source": 4,
+          "synapse_id": 19,
+          "target": 19,
+          "time_us": 22879
+        },
+        {
+          "amplitude": 0.19518421590328217,
+          "source": 6,
+          "synapse_id": 25,
+          "target": 14,
+          "time_us": 22941
+        },
+        {
+          "amplitude": -0.17109975218772888,
+          "source": 9,
+          "synapse_id": 36,
+          "target": 29,
+          "time_us": 23163
+        },
+        {
+          "amplitude": 0.24482934176921844,
+          "source": 6,
+          "synapse_id": 27,
+          "target": 7,
+          "time_us": 23209
+        },
+        {
+          "amplitude": 0.22556886076927185,
+          "source": 4,
+          "synapse_id": 17,
+          "target": 21,
+          "time_us": 23299
+        }
+      ]
+    },
+    {
+      "action": "none",
+      "copy_arrivals": 0,
+      "copy_spikes": 0,
+      "core_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "core_potentials_at_50ms": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "core_spike_count": 0,
+      "core_spikes": [],
+      "core_weight_update_count": 0,
+      "core_weight_updates": [],
+      "generated_and_emitted_visual_spikes": 0,
+      "learning": true,
+      "plastic_core_arrival_count": 0,
+      "plastic_core_arrivals": []
+    },
+    {
+      "action": "a",
+      "copy_arrivals": 9,
+      "copy_spikes": 3,
+      "core_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "core_potentials_at_50ms": [
+        0.050058044493198395,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.04440966621041298,
+        0.0,
+        -0.053939029574394226,
+        0.0,
+        0.0,
+        0.0,
+        -0.06533633917570114,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.04407575726509094,
+        0.046764880418777466,
+        0.0,
+        0.0,
+        0.06424408406019211,
+        0.061195507645606995,
+        0.0,
+        0.060377802699804306,
+        0.045352693647146225,
+        -0.06316403299570084
+      ],
+      "core_spike_count": 3,
+      "core_spikes": [
+        [
+          12,
+          21501
+        ],
+        [
+          16,
+          21501
+        ],
+        [
+          23,
+          21501
+        ]
+      ],
+      "core_weight_update_count": 0,
+      "core_weight_updates": [],
+      "generated_and_emitted_visual_spikes": 0,
+      "learning": true,
+      "plastic_core_arrival_count": 12,
+      "plastic_core_arrivals": [
+        {
+          "amplitude": 0.26041844487190247,
+          "source": 16,
+          "synapse_id": 64,
+          "target": 28,
+          "time_us": 22008
+        },
+        {
+          "amplitude": 0.183785542845726,
+          "source": 16,
+          "synapse_id": 67,
+          "target": 32,
+          "time_us": 22014
+        },
+        {
+          "amplitude": 0.24635504186153412,
+          "source": 16,
+          "synapse_id": 65,
+          "target": 29,
+          "time_us": 22146
+        },
+        {
+          "amplitude": 0.20066428184509277,
+          "source": 23,
+          "synapse_id": 94,
+          "target": 2,
+          "time_us": 22231
+        },
+        {
+          "amplitude": 0.2414642870426178,
+          "source": 16,
+          "synapse_id": 66,
+          "target": 31,
+          "time_us": 22278
+        },
+        {
+          "amplitude": 0.17522306740283966,
+          "source": 23,
+          "synapse_id": 92,
+          "target": 24,
+          "time_us": 22397
+        },
+        {
+          "amplitude": -0.2495938539505005,
+          "source": 12,
+          "synapse_id": 51,
+          "target": 33,
+          "time_us": 22518
+        },
+        {
+          "amplitude": -0.25744515657424927,
+          "source": 12,
+          "synapse_id": 49,
+          "target": 23,
+          "time_us": 22587
+        },
+        {
+          "amplitude": 0.18357667326927185,
+          "source": 23,
+          "synapse_id": 95,
+          "target": 25,
+          "time_us": 22650
+        },
+        {
+          "amplitude": 0.17266567051410675,
+          "source": 23,
+          "synapse_id": 93,
+          "target": 8,
+          "time_us": 22842
+        },
+        {
+          "amplitude": -0.25305286049842834,
+          "source": 12,
+          "synapse_id": 48,
+          "target": 14,
+          "time_us": 22919
+        },
+        {
+          "amplitude": -0.2058410495519638,
+          "source": 12,
+          "synapse_id": 50,
+          "target": 10,
+          "time_us": 23215
+        }
+      ]
+    },
+    {
+      "action": "d",
+      "copy_arrivals": 9,
+      "copy_spikes": 3,
+      "core_counts": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "core_potentials_at_50ms": [
+        0.0,
+        0.0,
+        0.0,
+        0.06199555844068527,
+        0.0,
+        0.06413635611534119,
+        -0.049770377576351166,
+        0.0,
+        0.0,
+        0.0,
+        0.05473016947507858,
+        0.0,
+        0.050450559705495834,
+        0.0,
+        0.0,
+        0.0,
+        0.05461599677801132,
+        0.047793786972761154,
+        0.0,
+        0.05935732275247574,
+        0.0,
+        0.06008635833859444,
+        -0.04814504459500313,
+        0.0,
+        0.0,
+        0.0,
+        -0.05246859788894653,
+        -0.044718921184539795,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "core_spike_count": 3,
+      "core_spikes": [
+        [
+          4,
+          21501
+        ],
+        [
+          6,
+          21501
+        ],
+        [
+          9,
+          21501
+        ]
+      ],
+      "core_weight_update_count": 0,
+      "core_weight_updates": [],
+      "generated_and_emitted_visual_spikes": 0,
+      "learning": true,
+      "plastic_core_arrival_count": 12,
+      "plastic_core_arrivals": [
+        {
+          "amplitude": 0.22171996533870697,
+          "source": 4,
+          "synapse_id": 18,
+          "target": 12,
+          "time_us": 22020
+        },
+        {
+          "amplitude": 0.24118946492671967,
+          "source": 6,
+          "synapse_id": 26,
+          "target": 23,
+          "time_us": 22204
+        },
+        {
+          "amplitude": -0.20985457301139832,
+          "source": 9,
+          "synapse_id": 39,
+          "target": 28,
+          "time_us": 22276
+        },
+        {
+          "amplitude": 0.24750050902366638,
+          "source": 4,
+          "synapse_id": 16,
+          "target": 5,
+          "time_us": 22313
+        },
+        {
+          "amplitude": 0.21570825576782227,
+          "source": 6,
+          "synapse_id": 24,
+          "target": 18,
+          "time_us": 22528
+        },
+        {
+          "amplitude": -0.19471170008182526,
+          "source": 9,
+          "synapse_id": 38,
+          "target": 8,
+          "time_us": 22718
+        },
+        {
+          "amplitude": -0.18762929737567902,
+          "source": 9,
+          "synapse_id": 37,
+          "target": 24,
+          "time_us": 22795
+        },
+        {
+          "amplitude": 0.18547973036766052,
+          "source": 4,
+          "synapse_id": 19,
+          "target": 19,
+          "time_us": 22879
+        },
+        {
+          "amplitude": 0.19518421590328217,
+          "source": 6,
+          "synapse_id": 25,
+          "target": 14,
+          "time_us": 22941
+        },
+        {
+          "amplitude": -0.17109975218772888,
+          "source": 9,
+          "synapse_id": 36,
+          "target": 29,
+          "time_us": 23163
+        },
+        {
+          "amplitude": 0.24482934176921844,
+          "source": 6,
+          "synapse_id": 27,
+          "target": 7,
+          "time_us": 23209
+        },
+        {
+          "amplitude": 0.22556886076927185,
+          "source": 4,
+          "synapse_id": 17,
+          "target": 21,
+          "time_us": 23299
+        }
+      ]
+    }
+  ],
+  "protocol": "NERVA-M5-v1",
+  "protocol_details": {
+    "copy_times_us": [
+      1,
+      10001,
+      20001
+    ],
+    "horizon_us": 50000,
+    "interpretation": "Signal prerequisite only; distinct motor-induced activity and STDP changes are not learned action-effect prediction.",
+    "no_actions_executed_by_decoder": true
+  },
+  "requested_config": {
+    "action_copy_weight": 0.9,
+    "base": {
+      "arms": [
+        "before",
+        "aged_frozen",
+        "paired",
+        "scrambled"
+      ],
+      "calibration_trials": 128,
+      "case_id": "a_weight090_tau20000",
+      "params": {
+        "action_effect_delay_ms": 8,
+        "development": false,
+        "encoding": "deterministic",
+        "homeostasis": false,
+        "initial_drive": 0,
+        "motor_feedback": true,
+        "normalization": "equal_input_current",
+        "processing": 32,
+        "pruning_min_us": 5000000,
+        "resolution": 0,
+        "sensor": "effect_2ch",
+        "stdp": true
+      },
+      "protocol": "NERVA-M4-v1",
+      "seed": 207,
+      "test_trials": 128,
+      "train_trials": 256
+    },
+    "core_membrane_tau_us": 20000,
+    "experiment": "motor_threshold",
+    "homeostasis_scope": "none",
+    "protocol": "NERVA-M5-v1"
+  },
+  "seed": 207,
+  "signal_criteria": {
+    "action_count_patterns_distinct": true,
+    "both_actions_reach_plastic_core_paths": true,
+    "both_pass": true
+  }
+}

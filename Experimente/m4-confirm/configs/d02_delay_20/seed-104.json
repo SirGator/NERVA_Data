@@ -1,0 +1,28 @@
+{
+  "arms": [
+    "before",
+    "aged_frozen",
+    "paired",
+    "scrambled"
+  ],
+  "calibration_trials": 128,
+  "case_id": "d02_delay_20",
+  "params": {
+    "action_effect_delay_ms": 20,
+    "development": false,
+    "encoding": "deterministic",
+    "homeostasis": true,
+    "initial_drive": 0,
+    "motor_feedback": true,
+    "normalization": "equal_input_current",
+    "processing": 128,
+    "pruning_min_us": 5000000,
+    "resolution": 16,
+    "sensor": "pixels",
+    "stdp": true
+  },
+  "protocol": "NERVA-M4-v1",
+  "seed": 104,
+  "test_trials": 128,
+  "train_trials": 256
+}

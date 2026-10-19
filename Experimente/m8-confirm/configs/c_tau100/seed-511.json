@@ -1,0 +1,12 @@
+{
+  "calibration_trials": 128,
+  "case_id": "c_tau100",
+  "condition": {
+    "parameter": "stdp_tau_us",
+    "value": 100000
+  },
+  "protocol": "NERVA-M8-v1",
+  "seed": 511,
+  "test_trials": 128,
+  "train_trials": 256
+}

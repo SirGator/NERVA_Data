@@ -1,0 +1,2 @@
+    Finished `release` profile [optimized] target(s) in 0.01s
+     Running `Modell/target/release/nerva-m6 --config Experimente/runs/m6-pilot/configs/pixels_B/seed-002.json --output Experimente/runs/m6-pilot/results/pixels_B/seed-002.json`

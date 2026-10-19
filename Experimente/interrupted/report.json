@@ -1,0 +1,15 @@
+{
+  "encoding": "Brightness",
+  "frame_changes": 1,
+  "interrupted": true,
+  "key_frames": 1,
+  "learning_enabled": true,
+  "motor_spikes": 19,
+  "output": "/home/simon/projekte/DSVLM/Modell/runs/interrupted",
+  "requested_steps": 10000,
+  "seed": 42,
+  "sensory_spikes": 427,
+  "steps": 3,
+  "weight_changes": 1293,
+  "original_output": "/home/simon/projekte/DSVLM/nerva-qemu/runs/interrupted"
+}

@@ -1,0 +1,12 @@
+{
+  "calibration_trials": 128,
+  "case_id": "a_weight4",
+  "condition": {
+    "parameter": "core_weight_scale",
+    "value": 4
+  },
+  "protocol": "NERVA-M8-v1",
+  "seed": 516,
+  "test_trials": 128,
+  "train_trials": 256
+}

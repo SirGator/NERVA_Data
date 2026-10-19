@@ -1,0 +1,18 @@
+{
+  "encoding": "Brightness",
+  "frame_changes": 0,
+  "full_layout_verified": true,
+  "interrupted": false,
+  "key_frames": 21,
+  "keyboard_feedback_verified": true,
+  "keyboard_layout": "de-iso105",
+  "learning_enabled": true,
+  "motor_channels": 105,
+  "motor_spikes": 577,
+  "output": "/home/simon/projekte/DSVLM/Modell/runs/full-keyboard",
+  "requested_steps": 40,
+  "seed": 42,
+  "sensory_spikes": 5240,
+  "steps": 40,
+  "weight_changes": 6133
+}

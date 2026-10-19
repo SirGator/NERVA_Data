@@ -1,0 +1,4 @@
+M7_COMPLETED seed 401
+   Compiling nerva-experiments v0.1.0 (/home/simon/projekte/DSVLM/Experimente)
+    Finished `release` profile [optimized] target(s) in 2.99s
+     Running `Experimente/target/release/nerva-m7 --reference Experimente/runs/m6-core-control/results/core_D_off/seed-401.json --output Experimente/runs/m7-synapse-audit/results/seed-401`

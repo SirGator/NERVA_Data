@@ -1,0 +1,131 @@
+{
+  "repeated_files": [
+    {
+      "archive": "Experimente/runs/m6-confirm/results/diag_D/seed-300.json",
+      "repeat": "/tmp/nerva-m6-repeat300.json",
+      "byte_equal": true,
+      "sha256": "661fcde1e73cc44bade82128fdf0864b3e7368896d35baa202fa82851c489d6b"
+    },
+    {
+      "archive": "Experimente/runs/m6-confirm/results/diag_D/seed-300.json.audit.csv",
+      "repeat": "/tmp/nerva-m6-repeat300.json.audit.csv",
+      "byte_equal": true,
+      "sha256": "b629b729b1b93de882ffa48701be8cb0f74ed12e5af49fcb8e9993be9c5366bf"
+    },
+    {
+      "archive": "Experimente/runs/m6-confirm/results/diag_D/seed-300.json.details.csv",
+      "repeat": "/tmp/nerva-m6-repeat300.json.details.csv",
+      "byte_equal": true,
+      "sha256": "700acdd317e191cff33e4f94bc8bd5c4a0fe0e2263cd988ad4ea6c8725fb21c5"
+    },
+    {
+      "archive": "Experimente/runs/m6-confirm/results/diag_D/seed-300.json.sensor.csv",
+      "repeat": "/tmp/nerva-m6-repeat300.json.sensor.csv",
+      "byte_equal": true,
+      "sha256": "a7fcd4f51fab5e89382ebaee65d0902a478fb9111006d69169e07e464e70eb4a"
+    },
+    {
+      "archive": "Experimente/runs/m6-confirm/results/diag_D/seed-300.json.copies.csv",
+      "repeat": "/tmp/nerva-m6-repeat300.json.copies.csv",
+      "byte_equal": true,
+      "sha256": "172c71a6549ed19783922c3e770e80f0f92604627783f63880d14cb8befdeba2"
+    },
+    {
+      "archive": "Experimente/runs/m6-confirm/results/diag_D/seed-300.json.branches.csv",
+      "repeat": "/tmp/nerva-m6-repeat300.json.branches.csv",
+      "byte_equal": true,
+      "sha256": "2af191675159fcac2c55ab1307850e4177f85737dcc2388014aa03d66c9ea133"
+    },
+    {
+      "archive": "Experimente/runs/m4-initial-gate/results/a01_minimal_2ch/seed-00.json",
+      "repeat": "/tmp/nerva-m6-m4-repeat.json",
+      "byte_equal": true,
+      "sha256": "3e4b7e20b30e3ff72b6625717c4600870fb8766249b198b2209bbaebddf17211"
+    },
+    {
+      "archive": "Experimente/runs/m4-initial-gate/results/a01_minimal_2ch/seed-00.json.audit.csv",
+      "repeat": "/tmp/nerva-m6-m4-repeat.json.audit.csv",
+      "byte_equal": true,
+      "sha256": "07ada93836e7b8ce3ae3909071c444103c18125d7bbd63accdd76e926ecfcd77"
+    },
+    {
+      "archive": "Experimente/runs/m4-initial-gate/results/a01_minimal_2ch/seed-00.json.details.csv",
+      "repeat": "/tmp/nerva-m6-m4-repeat.json.details.csv",
+      "byte_equal": true,
+      "sha256": "94c7acb0f6e76c2682a57ee1a467745643653700e3dc86c941a1c72839f12d5b"
+    }
+  ],
+  "historical_sources_unchanged": [
+    {
+      "path": "Experimente/m4/.gitignore",
+      "sha256": "862263fa1f46c20f0d1e4dac5ffcc75abd55c08211b2c3864c5f8764b9d87793"
+    },
+    {
+      "path": "Experimente/m4/README.md",
+      "sha256": "d0fbdccf841e09c0e15e93529b98db74454ae3b2d31fa76a7da4bc288ce5467f"
+    },
+    {
+      "path": "Experimente/m4/diagnose.py",
+      "sha256": "fcd0b937d2f27c0611f69a785fce6eb946c18983a18925142acead33c3b36b97"
+    },
+    {
+      "path": "Experimente/m4/m4-confirm.json",
+      "sha256": "350e98c740c652f3fb744620524ecd9d7057409880595dd1e27c70f7c3208810"
+    },
+    {
+      "path": "Experimente/m4/m4-pilot.json",
+      "sha256": "86148018a82bfc4878c16375f5fdefe651833a7281d03238446447d886a29e8a"
+    },
+    {
+      "path": "Experimente/m4/runner.py",
+      "sha256": "ffae9850ddcd588c18eeac026ede493a7ae214c9d073321ffb050be7657d16cb"
+    },
+    {
+      "path": "Experimente/m4/tests/test_runner.py",
+      "sha256": "fed37b2c0f21c0f2f060f37f499909628d8e7cd8f959e6469c2f8a8e7f0b2dcf"
+    },
+    {
+      "path": "Experimente/m5/.gitignore",
+      "sha256": "32dae3052f331ee34d628ef535709b301259a45df7c7522c4d35dcf49873f00b"
+    },
+    {
+      "path": "Experimente/m5/README.md",
+      "sha256": "0c711d07b3439287180c0eb38323fe271d3899180a60250e80946d2819715129"
+    },
+    {
+      "path": "Experimente/m5/run.py",
+      "sha256": "f21b65cdd8a5902b9a0ec10c0d815b09427c9656cac504e13f8765e50f7ab73d"
+    },
+    {
+      "path": "Experimente/m5/tests/test_m5.py",
+      "sha256": "331ee39fd824a6500be7c116a38b6e418cc78075e780e9a6c8dac95d9b3a6854"
+    },
+    {
+      "path": "Modell/src/m5.rs",
+      "sha256": "30031d09b3e479244f117f89fcbbcc5a5ae45e65e7b02fcbc0ab101021664dd0"
+    },
+    {
+      "path": "Modell/src/m5_main.rs",
+      "sha256": "ff5599cef805547b74f807f43a954a48a3882431177db27eced7f26885997026"
+    }
+  ],
+  "intrinsic_diagnostic": {
+    "cells": 36,
+    "unchanged_without_spike": 36,
+    "zero_intrinsic_with_spike": 36,
+    "intrinsic_range": [
+      -10.0,
+      -5.468591213226318
+    ],
+    "unchanged_third_input_potential_range": [
+      0.9128811359405518,
+      0.9932395219802856
+    ],
+    "zero_intrinsic_third_input_potential_range": [
+      1.0417497158050537,
+      1.1052119731903076
+    ],
+    "matches_original_pilot_training_checkpoints": true,
+    "parent_parameters_preserved": true
+  }
+}

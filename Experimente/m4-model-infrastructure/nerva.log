@@ -1,0 +1,455 @@
+    Finished `release` profile [optimized] target(s) in 8.11s
+     Running unittests src/lib.rs (NERVA/target/release/deps/nerva-c2dd23dd87d64b7f)
+
+running 231 tests
+test config::learning::tests::disabled_homeostasis_still_has_reproducible_valid_parameters ... ok
+test config::learning::tests::rejects_a_zero_local_maintenance_interval ... ok
+test config::learning::tests::rejects_negative_learning_rate ... ok
+test config::learning::tests::rejects_zero_stdp_window ... ok
+test config::learning::tests::validates_finite_intrinsic_current_range ... ok
+test config::network::tests::rejects_empty_network ... ok
+test config::network::tests::rejects_invalid_probability_even_when_nan ... ok
+test config::network::tests::rejects_population_size_overflow ... ok
+test config::network::tests::rejects_reversed_weight_bounds ... ok
+test config::network::tests::rejects_zero_conduction_velocity ... ok
+test config::runtime::tests::refractory_period_may_be_zero ... ok
+test config::runtime::tests::rejects_non_positive_membrane_time_constant ... ok
+test config::runtime::tests::rejects_threshold_at_resting_potential ... ok
+test config::runtime::tests::validates_intrinsic_capabilities_even_when_the_gain_is_zero ... ok
+test config::tests::aggregate_rejects_learning_bounds_outside_hard_network_bounds ... ok
+test config::tests::default_configuration_is_valid ... ok
+test core::event::tests::duration_conversion_rejects_unrepresentable_microseconds ... ok
+test core::event::tests::saturating_addition_does_not_wrap_replay_time ... ok
+test core::event::tests::time_arithmetic_is_exact_and_checked ... ok
+test core::ids::tests::different_id_domains_do_not_compare_accidentally ... ok
+test core::ids::tests::ids_are_orderable_hashable_and_round_trip ... ok
+test core::network::tests::equal_positions_do_not_merge_distinct_neuron_identities ... ok
+test core::network::tests::maintains_sorted_incoming_and_outgoing_indices ... ok
+test core::network::tests::mutable_incoming_visit_is_deterministic ... ok
+test core::network::tests::rejects_missing_endpoints_without_partial_index_mutation ... ok
+test core::network::tests::removing_synapse_updates_both_indices ... ok
+test core::network::tests::signed_amplitude_comes_from_presynaptic_polarity_and_distance ... ok
+test core::neuron::tests::adaptation_can_cancel_a_burst_capability_continuously ... ok
+test core::neuron::tests::adaptation_suppresses_a_repeated_identical_input ... ok
+test core::neuron::tests::default_intrinsics_preserve_the_legacy_f32_lif_path_exactly ... ok
+test core::neuron::tests::inhibitory_component_creates_rebound_even_when_net_input_cancels ... ok
+test core::neuron::tests::input_is_ignored_during_refractory_interval ... ok
+test core::neuron::tests::intrinsic_current_depends_on_elapsed_time_not_update_count ... ok
+test core::neuron::tests::intrinsic_trajectory_is_independent_of_unrelated_update_count ... ok
+test core::neuron::tests::lif_potential_decays_analytically_between_events ... ok
+test core::neuron::tests::metadata_role_does_not_change_dynamics ... ok
+test core::neuron::tests::one_spike_updates_all_configured_intrinsic_capabilities ... ok
+test core::neuron::tests::polarity_is_the_only_source_of_synaptic_sign ... ok
+test core::neuron::tests::refractory_timestamp_overflow_is_rejected_before_spike_state_mutates ... ok
+test core::neuron::tests::rejects_backwards_time_without_mutating_timestamp ... ok
+test core::neuron::tests::threshold_adaptation_decays_back_towards_the_base_threshold ... ok
+test core::neuron::tests::threshold_crossing_emits_spike_and_resets ... ok
+test core::neuron::tests::threshold_homeostasis_is_clamped_locally ... ok
+test core::neuron::tests::transient_crossing_during_refractory_time_is_not_shifted_to_release ... ok
+test core::spike::tests::spike_preserves_identity_and_exact_time ... ok
+test core::synapse::tests::learning_cannot_cross_zero ... ok
+test core::synapse::tests::local_pre_trace_decays_before_increment ... ok
+test core::synapse::tests::public_accessors_cover_state_and_mutations_preserve_invariants ... ok
+test core::synapse::tests::rejects_negative_weight_to_protect_sender_polarity ... ok
+test core::synapse::tests::sender_polarity_determines_effect_sign ... ok
+test core::synapse::tests::update_utility_decays_then_smooths_on_existing_memory ... ok
+test core::synapse::tests::update_utility_first_call_seeds_utility_directly_without_decay ... ok
+test core::synapse::tests::update_utility_rejects_invalid_tau_and_sample_and_eta ... ok
+test core::synapse::tests::utility_at_decays_exponentially_without_mutation ... ok
+test core::synapse::tests::utility_at_rejects_non_positive_tau ... ok
+test core::synapse::tests::utility_at_rejects_time_going_backwards ... ok
+test core::synapse::tests::utility_at_returns_zero_for_never_updated_synapse ... ok
+test core::synapse::tests::utility_eligibility_at_returns_zero_for_never_updated_synapse ... ok
+test core::synapse::tests::utility_eligibility_decays_between_arrivals ... ok
+test core::synapse::tests::utility_eligibility_is_independent_of_pre_trace ... ok
+test core::synapse::tests::utility_eligibility_rejects_invalid_tau_and_backwards_time ... ok
+test core::synapse::tests::utility_eligibility_starts_at_zero_and_increments_on_arrival ... ok
+test core::synapse::tests::utility_memory_decays_to_near_zero_over_many_time_constants ... ok
+test core::synapse::tests::zero_delay_is_rejected_to_keep_batches_causal ... ok
+test debug::event_log::tests::clear_only_changes_the_diagnostic_copy ... ok
+test debug::event_log::tests::collection_helpers_preserve_stream_order ... ok
+test debug::event_log::tests::observer_copies_events_without_reordering_them ... ok
+test debug::snapshot::tests::capture_copies_current_network_state_in_stable_id_order ... ok
+test debug::snapshot::tests::capture_includes_continuous_intrinsic_state ... ok
+test debug::snapshot::tests::constructor_stabilizes_caller_supplied_order ... ok
+test development::candidate_search::tests::excludes_existing_incoming_sources ... ok
+test development::candidate_search::tests::finds_incoming_candidates_for_undersupplied_target ... ok
+test development::candidate_search::tests::min_candidate_score_filters_out_weak_candidates ... ok
+test development::candidate_search::tests::temporal_correlation_decays_with_age ... ok
+test development::plan::tests::empty_plan_commits_without_changes ... ok
+test development::plan::tests::plan_build_does_not_mutate_network ... ok
+test development::plan::tests::plan_commit_applies_all_formations ... ok
+test development::plan::tests::plan_commit_reduces_structural_drive ... ok
+test development::pruning::tests::below_threshold_crossing_clamps_to_now_when_observed_above ... ok
+test development::pruning::tests::below_threshold_crossing_computes_analytic_time ... ok
+test development::pruning::tests::below_threshold_crossing_returns_now_when_never_updated ... ok
+test development::pruning::tests::below_threshold_crossing_returns_t0_when_already_below ... ok
+test development::pruning::tests::cleanup_preserves_live_timers_and_starts_new_sparse_ids_at_the_current_time ... ok
+test development::pruning::tests::controller_cleans_up_removed_synapses ... ok
+test development::pruning::tests::controller_detects_silent_recovery_between_observations ... ok
+test development::pruning::tests::controller_does_not_prune_too_soon ... ok
+test development::pruning::tests::controller_does_not_reset_timer_when_memory_unchanged_between_observations ... ok
+test development::pruning::tests::controller_forgets_pruned_synapses ... ok
+test development::pruning::tests::controller_marks_continuously_low_utility_as_candidate ... ok
+test development::pruning::tests::controller_prunes_after_analytic_crossing_plus_min_duration ... ok
+test development::pruning::tests::controller_resets_timer_when_utility_recovers ... ok
+test development::pruning::tests::controller_restarts_timer_on_re_entry_below_threshold ... ok
+test development::pruning::tests::controller_skips_non_plastic_unless_allowed ... ok
+test development::pruning::tests::controller_uses_analytic_crossing_not_last_update_time ... ok
+test development::structural_drive::tests::finite_drive_is_extracted_correctly ... ok
+test development::structural_drive::tests::negative_drive_clamps_to_zero_not_pruning ... ok
+test development::structural_drive::tests::positive_drive_becomes_growth_demand ... ok
+test experiment::bit_world::tests::bit_world_round_trip_uses_every_boundary_slice ... ok
+test experiment::bit_world::tests::constructor_rejects_runtime_events_outside_its_causal_schedule ... ok
+test experiment::bit_world::tests::boundary_horizon_cannot_move_backwards ... ok
+test experiment::bit_world::tests::unmapped_encoder_channel_is_not_silently_dropped ... ok
+test experiment::bit_world::tests::large_horizon_interleaves_action_and_feedback_before_later_runtime_work ... ok
+test experiment::m0::bit_encoder::tests::bit_values_use_distinct_fixed_channels ... ok
+test experiment::m0::bit_encoder::tests::ignores_observations_from_another_transduction_domain ... ok
+test experiment::bit_world::tests::motor_mapping_rejects_an_undeclared_channel_before_closed_loop_execution ... ok
+test experiment::m0::bit_encoder::tests::validates_channels_and_amplitude ... ok
+test experiment::m0::bit_world::tests::adapter_clock_cannot_move_world_backwards ... ok
+test experiment::m0::bit_world::tests::changed_action_produces_a_timestamped_follow_up_observation ... ok
+test experiment::m0::environment::tests::sequence_source_releases_only_due_observations ... ok
+test experiment::m0::pattern_encoder::tests::one_hot_encoder_never_touches_a_neuron_directly ... ok
+test experiment::m0::pattern_encoder::tests::reports_burst_timestamp_overflow ... ok
+test experiment::rng::tests::shuffle_is_identical_for_an_identical_seed ... ok
+test experiment::sequence_m0::tests::exact_sign_test_discards_ties ... ok
+test experiment::sequence_m0::tests::pattern_transition_candidates_are_geometrically_symmetric ... ok
+test experiment::sequence_m0::tests::randomized_group_keeps_same_multiset_but_changes_order ... ok
+test experiment::sequence_m0::tests::study_requires_distinct_seeds ... ok
+test experiment::sequence_m0::tests::fixed_group_does_not_change_plastic_weights ... ok
+test learning::bounds::tests::clamps_potentiation_and_depression ... ok
+test learning::bounds::tests::extreme_deltas_saturate_instead_of_overflowing ... ok
+test learning::bounds::tests::rejects_invalid_magnitude_bounds ... ok
+test learning::excitatory_utility::tests::evidence_saturates_for_strong_eligibility ... ok
+test learning::excitatory_utility::tests::returns_none_for_inhibitory_synapse ... ok
+test experiment::sequence_m0::tests::identical_seed_replays_identically ... ok
+test learning::excitatory_utility::tests::returns_none_for_non_post_spike_triggers ... ok
+test learning::excitatory_utility::tests::returns_none_when_eligibility_is_zero ... ok
+test learning::excitatory_utility::tests::returns_positive_evidence_for_positive_eligibility ... ok
+test learning::homeostasis::tests::adequate_input_with_low_output_raises_intrinsic_current ... ok
+test learning::homeostasis::tests::disabled_homeostasis_does_not_advance_or_change_neuron ... ok
+test learning::homeostasis::tests::high_output_with_missing_input_strongly_lowers_intrinsic_current ... ok
+test learning::homeostasis::tests::missing_input_with_low_output_raises_structural_drive_not_current ... ok
+test learning::pair_stdp::tests::anti_causal_pair_depresses_by_exact_time_difference ... ok
+test learning::pair_stdp::tests::causal_pair_potentiates_by_exact_time_difference ... ok
+test learning::pair_stdp::tests::disabled_rule_freezes_weights_and_traces ... ok
+test learning::pair_stdp::tests::fixed_and_disabled_synapses_remain_completely_unchanged ... ok
+test learning::pair_stdp::tests::pairs_outside_the_finite_window_do_not_learn ... ok
+test learning::pair_stdp::tests::sparse_per_synapse_post_hooks_record_only_one_post_event ... ok
+test learning::pair_stdp::tests::weight_updates_are_clamped_to_magnitude_bounds ... ok
+test learning::traces::tests::time_reversal_is_rejected_without_mutation ... ok
+test learning::traces::tests::trace_decays_analytically ... ok
+test learning::utility::tests::custom_rule_can_distinguish_zero_evidence_from_no_statement ... ok
+test learning::utility::tests::custom_rule_can_return_positive_evidence ... ok
+test learning::utility::tests::no_utility_reports_none_for_every_trigger ... ok
+test learning::utility::tests::utility_context_carries_trigger_and_polarity ... ok
+test math::decay::tests::attenuation_is_one_at_zero_distance ... ok
+test math::decay::tests::checked_functions_reject_unphysical_inputs ... ok
+test math::decay::tests::lif_decay_moves_toward_resting_potential ... ok
+test math::decay::tests::no_elapsed_time_means_no_decay ... ok
+test math::decay::tests::one_time_constant_decays_by_e ... ok
+test math::position::tests::a_position_is_not_an_identity ... ok
+test math::position::tests::computes_three_dimensional_euclidean_distance ... ok
+test math::position::tests::conduction_delay_rejects_unphysical_inputs ... ok
+test math::position::tests::conduction_delay_uses_geometry_velocity_and_ceil_rounding ... ok
+test math::position::tests::rejects_non_finite_coordinates ... ok
+test metrics::collector::tests::collector_replaces_weight_and_sequence_samples ... ok
+test metrics::collector::tests::runtime_observer_collects_spikes_and_ignores_unrelated_events ... ok
+test metrics::firing::tests::empty_or_zero_duration_measurements_are_zero ... ok
+test metrics::firing::tests::rates_and_silent_fraction_use_unique_population_ids ... ok
+test metrics::firing::tests::stores_times_chronologically_and_iterates_by_neuron_id ... ok
+test metrics::sequence::tests::compatibility_scoring_orders_timestamped_input ... ok
+test metrics::sequence::tests::counts_only_hits_inside_their_pattern_specific_windows ... ok
+test metrics::sequence::tests::extreme_latency_returns_an_error_instead_of_panicking ... ok
+test metrics::sequence::tests::ignores_only_the_actual_cue_and_counts_recurrent_a_spikes ... ok
+test metrics::sequence::tests::simultaneous_late_and_duplicate_patterns_are_false ... ok
+test metrics::weights::tests::computes_mean_and_inclusive_bound_fractions ... ok
+test metrics::weights::tests::empty_sample_has_zero_metrics ... ok
+test metrics::weights::tests::result_does_not_depend_on_input_iteration_order ... ok
+test nerves::routing::tests::motor_routing_reports_timestamp_overflow ... ok
+test nerves::routing::tests::sensory_routing_applies_only_fixed_delay_and_gain ... ok
+test nerves::routing::tests::sensory_routing_rejects_non_finite_fixed_gain_product ... ok
+test nerves::routing::tests::sensory_routing_reports_timestamp_overflow ... ok
+test primitives::concentration::tests::concentration_round_trips_as_a_distinct_domain ... ok
+test primitives::ids::tests::every_identity_domain_preserves_its_value ... ok
+test primitives::ids::tests::identities_round_trip_and_remain_orderable ... ok
+test primitives::position::tests::computes_euclidean_distance_without_assigning_identity ... ok
+test primitives::position::tests::rejects_non_finite_coordinates ... ok
+test primitives::potential::tests::potential_and_threshold_remain_distinct_values ... ok
+test primitives::signal::tests::scalar_domains_preserve_their_values ... ok
+test primitives::signal::tests::signed_strength_saturates_on_both_sides ... ok
+test primitives::time::tests::microsecond_arithmetic_is_checked_and_monotonic ... ok
+test primitives::time::tests::saturating_addition_never_wraps_time ... ok
+test primitives::weight::tests::constructor_rejects_invalid_magnitudes ... ok
+test primitives::weight::tests::saturating_arithmetic_never_produces_non_finite_or_negative_values ... ok
+test runtime::profile::tests::histogram_ranges_are_disjoint_at_every_boundary ... ok
+test runtime::propagation::tests::applies_delay_distance_attenuation_and_sender_polarity ... ok
+test runtime::propagation::tests::arrival_time_overflow_is_rejected_instead_of_wrapping ... ok
+test runtime::propagation::tests::disabled_synapse_does_not_propagate ... ok
+test runtime::scheduler::tests::cancellation_eagerly_removes_a_superseded_event ... ok
+test runtime::scheduler::tests::orders_batches_by_time_and_events_by_insertion_sequence ... ok
+test runtime::scheduler::tests::oversized_batch_is_left_intact ... ok
+test runtime::scheduler::tests::predicate_cancellation_removes_only_matching_queued_events ... ok
+test runtime::scheduler::tests::rejects_events_before_current_time ... ok
+test runtime::scheduler::tests::rejects_late_addition_to_an_already_completed_timestamp ... ok
+test runtime::simulation::tests::a_failed_plan_never_enqueues_its_successful_prefix ... ok
+test runtime::simulation::tests::aggregate_configuration_starts_local_clocks_automatically ... ok
+test runtime::simulation::tests::aggregate_constructor_rejects_network_config_mismatch ... ok
+test runtime::simulation::tests::buffered_propagation_matches_public_plans_and_validated_scheduling ... ok
+test runtime::simulation::tests::constructors_reject_inconsistent_network_indices ... ok
+test runtime::simulation::tests::enabling_homeostasis_starts_and_disabling_stops_local_clocks ... ok
+test runtime::simulation::tests::failed_connected_removal_preserves_all_runtime_bookings ... ok
+test runtime::simulation::tests::failed_homeostasis_enable_rolls_back_controller_and_cell_anchors ... ok
+test runtime::simulation::tests::failed_live_synapse_addition_preserves_topology ... ok
+test runtime::simulation::tests::failed_live_synapse_removal_preserves_queue_and_topology ... ok
+test runtime::simulation::tests::excitatory_learning_hooks_run_and_freeze_prevents_all_weight_mutation ... ok
+test runtime::simulation::tests::failed_neuron_mutation_rolls_back_cell_and_booking_state ... ok
+test runtime::simulation::tests::inhibitory_presynaptic_cell_is_never_passed_to_stdp ... ok
+test runtime::simulation::tests::intrinsic_current_emits_a_predicted_deterministic_spike_without_input ... ok
+test runtime::simulation::tests::invalid_external_input_is_rejected_before_scheduling ... ok
+test runtime::simulation::tests::isolated_cell_accumulates_structural_drive_without_artificial_spikes_over_time ... ok
+test runtime::simulation::tests::live_synapse_pruning_cancels_in_flight_arrivals_and_unblocks_neuron_removal ... ok
+test runtime::simulation::tests::local_homeostasis_clock_maintains_a_silent_neuron_without_global_tick ... ok
+test runtime::simulation::tests::maintenance_uses_neuron_local_input_and_activity_after_same_time_spike ... ok
+test runtime::simulation::tests::max_events_per_batch_fails_before_batch_mutation ... ok
+test runtime::simulation::tests::poisoned_simulation_rejects_every_further_operation ... ok
+test runtime::simulation::tests::reenabled_homeostasis_does_not_integrate_the_disabled_interval ... ok
+test runtime::simulation::tests::remove_neuron_cancels_intrinsic_homeostasis_and_external_bookings ... ok
+test runtime::simulation::tests::same_inputs_produce_identical_observation_log ... ok
+test runtime::simulation::tests::simultaneous_inputs_are_summed_before_one_firing_check ... ok
+test runtime::simulation::tests::simultaneous_sum_is_independent_of_event_insertion_order ... ok
+test runtime::simulation::tests::spike_is_delayed_propagated_and_logged ... ok
+test runtime::simulation::tests::superseded_intrinsic_prediction_is_cancelled_eagerly ... ok
+test runtime::simulation::tests::sustained_input_raises_current_then_autonomous_spikes_apply_negative_feedback ... ok
+test visualization::export::tests::csv_tables_have_neutral_schemas_and_canonical_order ... ok
+test visualization::export::tests::empty_exports_retain_headers_and_json_shape ... ok
+test runtime::simulation::tests::post_learning_validates_all_staged_synapses_before_publishing_any ... ok
+test visualization::export::tests::spike_only_helper_accepts_owned_and_borrowed_records ... ok
+test visualization::export::tests::json_contains_all_datasets_in_canonical_order ... ok
+test runtime::simulation::tests::many_neuron_clocks_have_deterministic_spread_without_a_global_phase ... ok
+test runtime::simulation::tests::update_neuron_refreshes_the_autonomous_prediction ... ok
+test core::neuron::tests::bounded_predictor_matches_brute_force_integer_microseconds ... ok
+test runtime::simulation::tests::controlled_add_neuron_integrates_homeostasis_and_intrinsic_prediction ... ok
+test runtime::simulation::tests::multi_minute_local_homeostasis_stays_bounded_across_input_regimes ... ok
+
+test result: ok. 231 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.03s
+
+     Running tests/architecture_boundaries.rs (NERVA/target/release/deps/architecture_boundaries-ec26cf0f440d915f)
+
+running 10 tests
+test a_root_channel_cannot_be_mapped_in_both_transport_directions ... ok
+test experiment_m0_reexports_its_boundary_types ... ok
+test mapping_is_the_only_physical_channel_association_and_rejects_a_second_fiber ... ok
+test mapping_validates_declared_channels_and_root_directions_before_binding ... ok
+test io_boundary_modules_do_not_depend_on_experiment_or_environment_types ... ok
+test motor_channel_cannot_be_assigned_twice_even_across_different_neurons ... ok
+test retired_parallel_modules_do_not_return ... ok
+test runtime_commands_keep_their_payload_through_timestamping_and_batching ... ok
+test primitives_compile_without_any_higher_architectural_layer ... ok
+test roots_compile_without_neurons_or_nerves_and_channels_only_declare_identity ... ok
+
+test result: ok. 10 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.11s
+
+     Running tests/compute_backend.rs (NERVA/target/release/deps/compute_backend-e7f9c04e68336637)
+
+running 3 tests
+test numerical_overflow_keeps_the_existing_runtime_error_and_poison_contract ... ok
+test runtime_batches_compute_work_and_observes_live_neuron_edits ... ok
+test compute_compiles_without_runtime_learning_io_or_development ... ok
+
+test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.50s
+
+     Running tests/compute_regression.rs (NERVA/target/release/deps/compute_regression-20ce0d4f910a8393)
+
+running 1 test
+test cpu_compute_preserves_the_original_runtime_state_and_observations ... ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/cuda_compute.rs (NERVA/target/release/deps/cuda_compute-2853361c5f5eede1)
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/dense_compute.rs (NERVA/target/release/deps/dense_compute-5c330b41e1cdb6bd)
+
+running 7 tests
+test dense_failure_publishes_the_same_partial_cells_before_poisoning ... ok
+test compute_rejects_mismatched_input_ids_without_changing_dense_state ... ok
+test invalid_or_stale_dense_results_never_overwrite_authoritative_state ... ok
+test flat_inputs_validate_layout_and_preserve_empty_autonomous_rows ... ok
+test invalid_successful_backend_result_is_rejected_before_publication ... ok
+test numerical_round_trip_preserves_all_state_without_changing_metadata ... ok
+test optional_spikes_and_large_timestamps_round_trip_without_sentinels_or_rounding ... ok
+
+test result: ok. 7 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/deterministic_replay.rs (NERVA/target/release/deps/deterministic_replay-36e1101dfa777d71)
+
+running 1 test
+test same_seed_replays_identical_event_log_and_complete_end_state ... ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/io_contract.rs (NERVA/target/release/deps/io_contract-3013aff7d184696f)
+
+running 3 tests
+test receptor_reaches_effector_through_real_nerva_dynamics ... ok
+test seeded_poisson_rate_replays_through_real_neural_dynamics_to_the_effector ... ok
+test sustained_receptor_rate_reaches_effector_through_real_neural_spikes_and_stops_at_zero ... ok
+
+test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/m0_sequence.rs (NERVA/target/release/deps/m0_sequence-557c9a473627c578)
+
+running 4 tests
+test symmetric_topology_and_frozen_probe_leave_weights_unchanged ... ok
+test ordered_learning_beats_fixed_and_randomized_controls_without_runaway_activity ... ok
+test multi_seed_study_preserves_paired_seed_control_and_reports_aggregate_evidence ... ok
+test default_multi_seed_study_meets_the_declared_m0_success_criterion ... ok
+
+test result: ok. 4 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.06s
+
+     Running tests/m1_6a_utility_cycle.rs (NERVA/target/release/deps/m1_6a_utility_cycle-34726b6d9d336b36)
+
+running 7 tests
+test excitatory_synapse_without_activity_becomes_pruning_candidate ... ok
+test formation_then_activity_then_retention_full_cycle ... ok
+test inhibitory_synapse_is_exempt_from_utility_based_pruning ... ok
+test no_utility_rule_exempts_every_synapse_from_pruning ... ok
+test non_plastic_synapse_still_accumulates_structural_utility ... ok
+test silent_synapse_is_pruned_after_min_duration ... ok
+test useful_synapse_accumulates_utility_and_is_retained ... ok
+
+test result: ok. 7 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/m1_formation.rs (NERVA/target/release/deps/m1_formation-6ea0a66ff0edc59d)
+
+running 9 tests
+test m1_formation_atomicity_on_error_after_successful_mutation ... ok
+test m1_formation_creates_correlated_a_to_b_only ... ok
+test m1_formation_min_score_blocks_all_candidates ... ok
+test m1_formation_no_duplicate_synapse_on_second_step ... ok
+test m1_formation_old_correlation_loses_effect ... ok
+test m1_formation_plan_does_not_mutate_network ... ok
+test m1_formation_rejects_duplicate_plan ... ok
+test m1_formation_rejects_self_connection_in_plan ... ok
+test m1_formation_structural_drive_interpretation ... ok
+
+test result: ok. 9 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/m1_self_organisation.rs (NERVA/target/release/deps/m1_self_organisation-efb50fa4b97a8f7b)
+
+running 1 test
+test m1_self_organisation_forms_useful_prunes_useless ... ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/neuron_dynamics.rs (NERVA/target/release/deps/neuron_dynamics-98b395b83e155a36)
+
+running 5 tests
+test balanced_input_preserves_rebound_and_is_insertion_order_independent ... ok
+test burst_emits_an_autonomous_follow_up_spike ... ok
+test configured_intrinsic_drive_is_scheduled_at_runtime_construction ... ok
+test sparse_runtime_events_follow_the_analytical_lif_solution ... ok
+test simultaneous_excitation_and_inhibition_are_integrated_atomically ... ok
+
+test result: ok. 5 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/pair_stdp.rs (NERVA/target/release/deps/pair_stdp-f00f58dc652c9623)
+
+running 3 tests
+test runtime_freeze_keeps_weights_and_learning_traces_fixed_while_spikes_propagate ... ok
+test runtime_pair_order_selects_potentiation_or_depression ... ok
+test runtime_stdp_cannot_escape_configured_weight_bounds ... ok
+
+test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/poisson_transduction.rs (NERVA/target/release/deps/poisson_transduction-a62ffea61f025b22)
+
+running 9 tests
+test adding_other_channels_and_changing_their_creation_order_preserves_a_channel_stream ... ok
+test invalid_inputs_and_time_errors_preserve_pending_work_output_and_rng_state ... ok
+test large_timestamps_and_the_end_of_simulation_time_do_not_round_or_wrap ... ok
+test quantization_preserves_multiple_poisson_arrivals_in_a_single_microsecond ... ok
+test redundant_samples_do_not_resample_waits_or_change_the_random_stream ... ok
+test rate_changes_pauses_and_streamed_inputs_are_independent_of_advance_partition ... ok
+test zero_pauses_the_existing_waiting_hazard_without_consuming_random_draws ... ok
+test seeds_replay_the_same_spike_train_and_distinct_seeds_change_it ... ok
+test poisson_waits_have_exponential_mean_and_variance_for_a_fixed_seed ... ok
+
+test result: ok. 9 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/primitives.rs (NERVA/target/release/deps/primitives-e8c0a266cd8af246)
+
+running 2 tests
+test compatibility_paths_use_the_canonical_primitive_types ... ok
+test every_supported_primitive_is_publicly_available ... ok
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/propagation.rs (NERVA/target/release/deps/propagation-2af668ff2620342d)
+
+running 1 test
+test emitted_spike_arrives_only_after_delay_with_distance_attenuation ... ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/rate_transduction.rs (NERVA/target/release/deps/rate_transduction-6c8aeeb987eba827)
+
+running 10 tests
+test arbitrary_horizon_partitions_and_streamed_inputs_replay_exactly ... ok
+test absolute_timestamps_remain_exact_above_floating_point_integer_precision ... ok
+test channels_are_independent_and_simultaneous_spikes_have_a_stable_order ... ok
+test extremely_low_rates_do_not_saturate_future_crossings_into_the_time_domain ... ok
+test fractional_phase_from_a_non_integral_period_does_not_delay_an_exact_crossing ... ok
+test invalid_rates_and_time_errors_preserve_queued_input_phase_and_caller_output ... ok
+test non_integral_periods_are_rounded_up_without_accumulating_period_drift ... ok
+test stopping_at_a_crossing_keeps_the_spike_accumulated_before_the_change ... ok
+test repeating_the_same_value_does_not_restart_or_round_the_phase ... ok
+test zero_rate_pauses_and_resumption_preserves_fractional_phase ... ok
+
+test result: ok. 10 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/runtime_profile.rs (NERVA/target/release/deps/runtime_profile-7dcc0ffc5ffad1a0)
+
+running 4 tests
+test failed_attempts_remain_visible_without_completed_spike_samples ... ok
+test profiling_counts_real_work_and_does_not_change_replay ... ok
+test scheduler_limit_failure_is_measured_without_consuming_a_batch ... ok
+test profiled_m0_keeps_deterministic_results_and_includes_both_probes ... ok
+
+test result: ok. 4 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
+
+     Running tests/transduction_time.rs (NERVA/target/release/deps/transduction_time-8b80ba50d071ca8f)
+
+running 6 tests
+test completed_horizons_reject_late_input_and_backwards_time_without_losing_pending_work ... ok
+test direct_transducers_preserve_order_and_append_only_due_events_once ... ok
+test direct_transducers_reject_invalid_amplitudes_without_poisoning_the_queue ... ok
+test rate_changes_take_effect_at_their_event_time_even_with_a_large_horizon ... ok
+test motor_trait_decays_during_silence_and_agrees_at_shared_horizons ... ok
+test rate_trait_emits_during_receptor_silence_independently_of_horizon_partition ... ok
+
+test result: ok. 6 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+   Doc-tests nerva
+
+running 4 tests
+test src/lib.rs - transduction (line 84) ... ok
+test src/transduction/poisson.rs - transduction::poisson::PoissonSensoryTransducer (line 33) ... ok
+test src/transduction/rate.rs - transduction::rate::RateSensoryTransducer (line 34) ... ok
+test src/lib.rs - (line 16) ... ok
+
+test result: ok. 4 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+running 1 test
+test src/primitives/potential.rs - primitives::potential::Potential (line 8) - compile fail ... ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.07s
+
+all doctests ran in 0.58s; merged doctests compilation took 0.50s

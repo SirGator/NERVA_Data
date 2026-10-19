@@ -1,0 +1,10 @@
+test_immediate_evidence_is_not_hidden_by_later_forgetting (test_m6.M6RunnerTests.test_immediate_evidence_is_not_hidden_by_later_forgetting) ... ok
+test_one_mapping_or_motor_discrimination_alone_does_not_establish_learning (test_m6.M6RunnerTests.test_one_mapping_or_motor_discrimination_alone_does_not_establish_learning) ... ok
+test_preregistered_plan_is_resumable_and_uses_unseen_confirmation_seeds (test_m6.M6RunnerTests.test_preregistered_plan_is_resumable_and_uses_unseen_confirmation_seeds) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.643s
+
+OK
+Plan written: /tmp/tmpjr8hh9as/manifest.json
+Plan written: /tmp/tmpjr8hh9as/manifest.json

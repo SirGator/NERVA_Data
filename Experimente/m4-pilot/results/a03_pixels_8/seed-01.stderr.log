@@ -1,0 +1,3 @@
+    Blocking waiting for file lock on build directory
+    Finished `release` profile [optimized] target(s) in 0.08s
+     Running `Modell/target/release/nerva-m4 --config Experimente/runs/m4-pilot/configs/a03_pixels_8/seed-01.json --output Experimente/runs/m4-pilot/results/a03_pixels_8/seed-01.json`

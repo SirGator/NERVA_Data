@@ -1,0 +1,5 @@
+case,family,n_seeds,paired_balanced_accuracy,before_balanced_accuracy,aged_balanced_accuracy,scrambled_balanced_accuracy,paired_visual_decodability,paired_action_selection,delta_vs_before,before_ci_low,before_ci_high,delta_vs_aged,aged_ci_low,aged_ci_high,delta_vs_scrambled,scrambled_ci_low,scrambled_ci_high,replicated,preliminary_all_three_controls,m4_criteria_met
+a01_minimal_2ch,sensor,3,0.5,0.5,0.5,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,False,False
+a02_position_7ch,sensor,3,0.5091145833333334,0.5494791666666666,0.57421875,0.4895833333333333,0.5546875,0.3333333333333333,-0.040364583333333336,-0.171875,0.0390625,-0.06510416666666667,-0.2265625,0.0390625,0.01953125,0.0,0.05859375,True,False,False
+g01_minimal_2ch_delay20,initial_gate,3,0.5,0.5,0.5,0.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,False,False
+g02_position_7ch_delay20,initial_gate,3,0.5,0.53125,0.5,0.4986979166666667,0.8463541666666666,0.3333333333333333,-0.03125,-0.09375,0.0,0.0,0.0,0.0,0.0013020833333333333,0.0,0.00390625,True,False,False

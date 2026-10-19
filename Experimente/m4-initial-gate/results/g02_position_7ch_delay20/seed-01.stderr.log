@@ -1,0 +1,2 @@
+    Finished `release` profile [optimized] target(s) in 0.01s
+     Running `Modell/target/release/nerva-m4 --config Experimente/runs/m4-initial-gate/configs/g02_position_7ch_delay20/seed-01.json --output Experimente/runs/m4-initial-gate/results/g02_position_7ch_delay20/seed-01.json --raw-events`

@@ -1,0 +1,4 @@
+    Blocking waiting for file lock on build directory
+    Finished `release` profile [optimized] target(s) in 2.55s
+     Running `Experimente/target/release/nerva-m7 --reference Experimente/runs/m6-core-control/results/core_D_off/seed-400.json --output /tmp/nerva-m7-repeat400`
+M7_COMPLETED seed 400

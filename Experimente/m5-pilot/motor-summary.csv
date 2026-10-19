@@ -1,0 +1,13 @@
+case,n_seeds,weight,tau_us,both_signal_criteria_seeds,mean_core_spikes,mean_plastic_core_arrivals,mean_core_weight_updates
+a_weight045_tau5000,3,0.45,5000,0,0,0,0
+a_weight045_tau20000,3,0.45,20000,0,0,0,0
+a_weight045_tau50000,3,0.45,50000,0,0,0,0
+a_weight090_tau5000,3,0.9,5000,0,0,0,0
+a_weight090_tau20000,3,0.9,20000,3,3,12,0.5
+a_weight090_tau50000,3,0.9,50000,3,3,12,0.5
+a_weight180_tau5000,3,1.8,5000,3,9,36,2.5
+a_weight180_tau20000,3,1.8,20000,3,9,36,2.5
+a_weight180_tau50000,3,1.8,50000,3,9.5,38,3.5
+a_weight360_tau5000,3,3.6,5000,3,9,36,2.5
+a_weight360_tau20000,3,3.6,20000,3,9,36,2.5
+a_weight360_tau50000,3,3.6,50000,3,9.5,38,3.5

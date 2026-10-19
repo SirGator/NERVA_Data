@@ -1,0 +1,11 @@
+   Compiling nerva-experiments v0.1.0 (/home/simon/projekte/DSVLM/Experimente)
+    Finished `release` profile [optimized] target(s) in 2.55s
+     Running tests/m7.rs (Experimente/target/release/deps/m7-61aeff2e0df3e01d)
+
+running 1 test
+M7_COMPLETED seed 7
+M7_COMPLETED seed 7
+test synaptic_audit_reproduces_m6_and_parallel_counterfactuals_are_byte_equal ... ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 2.03s
+

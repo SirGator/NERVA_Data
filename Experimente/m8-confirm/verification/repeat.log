@@ -1,0 +1,3 @@
+    Finished `release` profile [optimized] target(s) in 0.01s
+     Running `Experimente/target/release/nerva-m8 --config Experimente/runs/m8-confirm/configs/a_weight4/seed-510.json --output /tmp/nerva-m8-repeat-weight4-510.json`
+M8_COMPLETED a_weight4 seed 510

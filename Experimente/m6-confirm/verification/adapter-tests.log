@@ -1,0 +1,52 @@
+   Compiling nerva-qemu v0.1.0 (/home/simon/projekte/DSVLM/nerva-qemu)
+    Finished `release` profile [optimized] target(s) in 1.24s
+     Running unittests src/lib.rs (nerva-qemu/target/release/deps/nerva_qemu-3c22f45fd6b51aa2)
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/adapters.rs (nerva-qemu/target/release/deps/adapters-dc7c555e56430940)
+
+running 15 tests
+test brightness_encoding_emits_rates_without_a_neural_backend ... ok
+test full_iso_keyboard_has_unique_channels_codes_and_german_positions ... ok
+test grayscale_averages_visible_area_instead_of_discarding_small_features ... ok
+test change_encoding_uses_separate_on_off_channels_and_a_silent_baseline ... ok
+test invalid_motor_batch_is_rejected_before_mutating_decoder_state ... ok
+test motor_chords_keep_modifiers_independent_of_regular_key_ties ... ok
+test motor_decoder_abstains_on_silence_ties_and_expired_spikes ... ok
+test motor_decoder_can_select_every_key_including_navigation_and_numpad ... ok
+test ppm_preserves_whitespace_pixels_and_checks_comments_sizes_and_truncation ... ok
+test timing_decoder_uses_first_spike_for_full_layout_ties_and_keeps_modifiers ... ok
+test qmp_rejects_truncated_responses ... ok
+test qmp_handles_fragmented_json_events_escaping_and_remote_errors ... ok
+test qmp_rejects_wrong_ids_and_does_not_reuse_a_broken_stream ... ok
+test keyboard_releases_before_switching_deduplicates_and_releases_on_drop ... ok
+test keyboard_orders_modifier_chords_and_releases_all_105_keys ... ok
+
+test result: ok. 15 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
+
+     Running tests/motor_timing.rs (nerva-qemu/target/release/deps/motor_timing-52dfc48b38d79b23)
+
+running 3 tests
+test goal_free_world_allows_indefinite_motion_and_reversal_has_only_visual_effects ... ok
+test random_tie_control_is_balanced_and_never_creates_activity_from_silence ... ok
+test timing_breaks_only_nonempty_count_ties_without_channel_order_bias ... ok
+
+test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/test_world.rs (nerva-qemu/target/release/deps/test_world-b54605d1c331c336)
+
+running 2 tests
+test seven_cells_bound_actions_and_reversal_changes_the_visible_effect ... ok
+test goal_is_visible_in_grayscale_and_invalid_or_already_solved_tasks_are_rejected ... ok
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+   Doc-tests nerva_qemu
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+

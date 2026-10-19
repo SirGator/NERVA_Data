@@ -1,0 +1,15 @@
+{
+  "encoding": "Brightness",
+  "frame_changes": 7,
+  "interrupted": false,
+  "key_frames": 12,
+  "learning_enabled": false,
+  "motor_spikes": 245,
+  "output": "/home/simon/projekte/DSVLM/Modell/runs/frozen",
+  "requested_steps": 40,
+  "seed": 42,
+  "sensory_spikes": 5311,
+  "steps": 40,
+  "weight_changes": 0,
+  "original_output": "/home/simon/projekte/DSVLM/nerva-qemu/runs/frozen"
+}

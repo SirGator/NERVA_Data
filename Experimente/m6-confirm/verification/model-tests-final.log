@@ -1,0 +1,109 @@
+   Compiling nerva-vm v0.1.0 (/home/simon/projekte/DSVLM/Modell)
+    Finished `release` profile [optimized] target(s) in 1.57s
+     Running unittests src/lib.rs (Modell/target/release/deps/nerva_vm-1b18f5dbed9e5c0c)
+
+running 2 tests
+test m6::mechanisms::tests::isolated_intrinsic_intervention_can_restore_three_pulse_integration_without_changing_the_original ... ok
+test readout::tests::fit_and_test_are_separate_and_scores_do_not_reward_majority_imbalance ... ok
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running unittests src/m4_main.rs (Modell/target/release/deps/nerva_m4-014ea6539c48c965)
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running unittests src/m5_main.rs (Modell/target/release/deps/nerva_m5-186d1cde22c68c1e)
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running unittests src/m6_main.rs (Modell/target/release/deps/nerva_m6-ed053e1a29a70351)
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running unittests src/main.rs (Modell/target/release/deps/nerva_vm-7c42fc31c32b69cc)
+
+running 2 tests
+test tests::black_pixels_produce_no_teacher_or_motor_drive ... ok
+test tests::pixel_driven_network_replays_and_frozen_control_has_no_weight_changes ... ok
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 3.61s
+
+     Running tests/m4.rs (Modell/target/release/deps/m4-ddcff27ea452b74b)
+
+running 4 tests
+test config_contract_is_strict_and_unknown_inputs_never_fall_back ... ok
+test world_moves_only_at_the_real_scheduled_time_in_both_mappings ... ok
+test isolated_stdp_signal_and_feedback_benches_verify_the_existing_rules ... ok
+test serial_and_parallel_m4_runs_are_identical_and_csv_audits_verify_causality_and_ablations ... ok
+
+test result: ok. 4 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 1.64s
+
+     Running tests/m5.rs (Modell/target/release/deps/m5-330b484568a950ef)
+
+running 3 tests
+test strict_m5_config_rejects_unknown_modes_scopes_and_invalid_signal_parameters ... ok
+test motor_signals_reach_real_plastic_paths_and_frozen_replays_are_identical ... ok
+test homeostasis_scopes_preserve_initial_network_and_legacy_m4_behavior ... ok
+
+test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 5.52s
+
+     Running tests/m6.rs (Modell/target/release/deps/m6-e650b30ea89104f0)
+
+running 3 tests
+test m6_contract_rejects_unsupported_variants_timing_and_future_fields ... ok
+test replay_comparison_detects_queued_inputs_even_when_networks_are_identical ... ok
+M6_COMPLETED m6_test seed 9
+M6_COMPLETED m6_test seed 9
+M6_COMPLETED m6_test seed 9
+test immediate_calibration_forks_and_parallel_cli_runs_preserve_exact_replay_and_causality ... ok
+
+test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 1.80s
+
+     Running tests/recurrent.rs (Modell/target/release/deps/recurrent-00570ba44d33cb6d)
+
+running 4 tests
+test direct_control_retains_original_wasd_behavior ... ok
+test feedback_copies_are_self_action_observations_and_can_be_disabled ... ok
+test default_core_is_sparse_spatial_and_has_no_sensor_to_motor_shortcut ... ok
+test development_changes_only_core_edges_and_preserves_a_paired_fixed_control ... ok
+
+test result: ok. 4 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 3.51s
+
+     Running tests/sensory.rs (Modell/target/release/deps/sensory-1a8b4ca9d720a4c5)
+
+running 6 tests
+test deterministic_and_poisson_have_identical_rate_integrals_and_on_off_logs_its_actual_silent_baseline ... ok
+test diagnostic_sensors_are_current_frame_anchors_and_area_sampling_preserves_all_seven_positions ... ok
+test existing_rule_ablations_and_freeze_work_with_small_sensors ... ok
+test audit_is_read_only_deterministic_and_exactly_matches_input_feedback_and_weight_counters ... ok
+test diagnostic_and_pixel_populations_use_correct_ids_without_overriding_zero_start_drive ... ok
+test legacy_pixel_rates_and_initial_network_are_preserved_and_unknown_resolutions_are_rejected ... ok
+
+test result: ok. 6 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.15s
+
+     Running tests/vision.rs (Modell/target/release/deps/vision-9c749f7cc2991691)
+
+running 1 test
+test adapter_rates_and_nerva_poisson_replay_across_frame_horizons ... ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running tests/visual_qemu.rs (Modell/target/release/deps/visual_qemu-49672a4df8f66a22)
+
+running 1 test
+test real_vga_guest_responds_to_keys_and_neural_pixel_feedback ... ignored, requires QEMU, binutils and local Unix sockets; run explicitly
+
+test result: ok. 0 passed; 0 failed; 1 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+   Doc-tests nerva_vm
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+

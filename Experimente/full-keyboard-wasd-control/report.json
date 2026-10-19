@@ -1,0 +1,18 @@
+{
+  "encoding": "Brightness",
+  "frame_changes": 9,
+  "full_layout_verified": true,
+  "interrupted": false,
+  "key_frames": 11,
+  "keyboard_feedback_verified": true,
+  "keyboard_layout": "wasd",
+  "learning_enabled": true,
+  "motor_channels": 5,
+  "motor_spikes": 234,
+  "output": "/home/simon/projekte/DSVLM/Modell/runs/full-keyboard-wasd-control",
+  "requested_steps": 40,
+  "seed": 42,
+  "sensory_spikes": 5337,
+  "steps": 40,
+  "weight_changes": 17806
+}

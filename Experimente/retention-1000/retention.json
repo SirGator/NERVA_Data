@@ -1,0 +1,1095 @@
+{
+  "all_parameters_retained": true,
+  "encoding": "Brightness",
+  "initial_structural_drive": 2.5,
+  "limits": [
+    "Offline teacher-forced replay, no autonomous task-performance measurement",
+    "Action controls alter copies only; raw neural motor feedback remains active",
+    "Before/after differences include neural state and input-history effects; aged_frozen is an age-matched control",
+    "Readout calibration is chronological within the frozen probe, not training of NERVA",
+    "Constant-image A/D differences can already come from fixed feedback wiring",
+    "Prediction is next pixel change, not proof of understanding or causal action prediction"
+  ],
+  "novel_probe_four_action_windows": 51,
+  "probe_frames": 64,
+  "probe_recording": {
+    "actions": [
+      "a",
+      "d",
+      "a",
+      "a",
+      "d",
+      "d",
+      "d",
+      "a",
+      "a",
+      "a",
+      "a",
+      "d",
+      "a",
+      "d",
+      "a",
+      "d",
+      "d",
+      "a",
+      "d",
+      "d",
+      "d",
+      "d",
+      "d",
+      "a",
+      "d",
+      "a",
+      "d",
+      "d",
+      "d",
+      "a",
+      "d",
+      "a",
+      "d",
+      "d",
+      "d",
+      "d",
+      "a",
+      "d",
+      "d",
+      "a",
+      "d",
+      "d",
+      "d",
+      "d",
+      "d",
+      "d",
+      "a",
+      "a",
+      "a",
+      "a",
+      "a",
+      "d",
+      "d",
+      "a",
+      "d",
+      "a",
+      "a",
+      "d",
+      "d",
+      "d",
+      "d",
+      "d",
+      "d",
+      "d"
+    ],
+    "frame_fingerprints_fnv1a64": [
+      "a7a81889c1efefa4",
+      "77be642137ecefa4",
+      "a7a81889c1efefa4",
+      "0179db48bf32efa4",
+      "a7a81889c1efefa4",
+      "77be642137ecefa4",
+      "47e3f86cf129efa4",
+      "77be642137ecefa4",
+      "a7a81889c1efefa4",
+      "0179db48bf32efa4",
+      "0179db48bf32efa4",
+      "a7a81889c1efefa4",
+      "0179db48bf32efa4",
+      "a7a81889c1efefa4",
+      "0179db48bf32efa4",
+      "a7a81889c1efefa4",
+      "77be642137ecefa4",
+      "a7a81889c1efefa4",
+      "77be642137ecefa4",
+      "47e3f86cf129efa4",
+      "c4e1eb7ebda6efa4",
+      "6f802c1c6d63efa4",
+      "6f802c1c6d63efa4",
+      "c4e1eb7ebda6efa4",
+      "6f802c1c6d63efa4",
+      "c4e1eb7ebda6efa4",
+      "6f802c1c6d63efa4",
+      "6f802c1c6d63efa4",
+      "6f802c1c6d63efa4",
+      "c4e1eb7ebda6efa4",
+      "6f802c1c6d63efa4",
+      "c4e1eb7ebda6efa4",
+      "6f802c1c6d63efa4",
+      "6f802c1c6d63efa4",
+      "6f802c1c6d63efa4",
+      "6f802c1c6d63efa4",
+      "c4e1eb7ebda6efa4",
+      "6f802c1c6d63efa4",
+      "6f802c1c6d63efa4",
+      "c4e1eb7ebda6efa4",
+      "6f802c1c6d63efa4",
+      "6f802c1c6d63efa4",
+      "6f802c1c6d63efa4",
+      "6f802c1c6d63efa4",
+      "6f802c1c6d63efa4",
+      "6f802c1c6d63efa4",
+      "c4e1eb7ebda6efa4",
+      "47e3f86cf129efa4",
+      "77be642137ecefa4",
+      "a7a81889c1efefa4",
+      "0179db48bf32efa4",
+      "a7a81889c1efefa4",
+      "77be642137ecefa4",
+      "a7a81889c1efefa4",
+      "77be642137ecefa4",
+      "a7a81889c1efefa4",
+      "0179db48bf32efa4",
+      "a7a81889c1efefa4",
+      "77be642137ecefa4",
+      "47e3f86cf129efa4",
+      "c4e1eb7ebda6efa4",
+      "6f802c1c6d63efa4",
+      "6f802c1c6d63efa4",
+      "6f802c1c6d63efa4"
+    ]
+  },
+  "processing_neurons": 256,
+  "pruning_min_below_us": 300000,
+  "results": [
+    {
+      "condition": "before_training",
+      "constant_image_a_vs_d": {
+        "changed_neuron_frame_bins": 0,
+        "spike_count_l1": 0
+      },
+      "controls": [
+        {
+          "action_copy_arrivals": 192,
+          "control": "aligned",
+          "core_spikes": 7484,
+          "difference_from_aligned": null,
+          "parameters_retained": true,
+          "readout": {
+            "calibration_frames": 31,
+            "current_recorded_action_from_core": {
+              "accuracy": 0.71875,
+              "calibration_classes": 2,
+              "correct": 23,
+              "majority_accuracy": 0.6875,
+              "majority_correct": 22,
+              "tested": 32,
+              "unseen_test_labels": 0
+            },
+            "features": "current frame Core spike counts; no next action or frame index",
+            "next_change_from_core": {
+              "accuracy": 0.46875,
+              "calibration_classes": 10,
+              "correct": 15,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "next_change_from_current_pixels": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "target": "next grayscale image difference, 16x16, quantized to 1/255",
+            "test_frames": 32
+          }
+        },
+        {
+          "action_copy_arrivals": 192,
+          "control": "swapped",
+          "core_spikes": 7484,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 0,
+            "spike_count_l1": 0
+          },
+          "parameters_retained": true,
+          "readout": {
+            "calibration_frames": 31,
+            "current_recorded_action_from_core": {
+              "accuracy": 0.71875,
+              "calibration_classes": 2,
+              "correct": 23,
+              "majority_accuracy": 0.6875,
+              "majority_correct": 22,
+              "tested": 32,
+              "unseen_test_labels": 0
+            },
+            "features": "current frame Core spike counts; no next action or frame index",
+            "next_change_from_core": {
+              "accuracy": 0.46875,
+              "calibration_classes": 10,
+              "correct": 15,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "next_change_from_current_pixels": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "target": "next grayscale image difference, 16x16, quantized to 1/255",
+            "test_frames": 32
+          }
+        },
+        {
+          "action_copy_arrivals": 189,
+          "control": "delayed_one_frame",
+          "core_spikes": 7484,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 0,
+            "spike_count_l1": 0
+          },
+          "parameters_retained": true,
+          "readout": {
+            "calibration_frames": 31,
+            "current_recorded_action_from_core": {
+              "accuracy": 0.71875,
+              "calibration_classes": 2,
+              "correct": 23,
+              "majority_accuracy": 0.6875,
+              "majority_correct": 22,
+              "tested": 32,
+              "unseen_test_labels": 0
+            },
+            "features": "current frame Core spike counts; no next action or frame index",
+            "next_change_from_core": {
+              "accuracy": 0.46875,
+              "calibration_classes": 10,
+              "correct": 15,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "next_change_from_current_pixels": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "target": "next grayscale image difference, 16x16, quantized to 1/255",
+            "test_frames": 32
+          }
+        },
+        {
+          "action_copy_arrivals": 0,
+          "control": "absent",
+          "core_spikes": 7484,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 0,
+            "spike_count_l1": 0
+          },
+          "parameters_retained": true,
+          "readout": {
+            "calibration_frames": 31,
+            "current_recorded_action_from_core": {
+              "accuracy": 0.71875,
+              "calibration_classes": 2,
+              "correct": 23,
+              "majority_accuracy": 0.6875,
+              "majority_correct": 22,
+              "tested": 32,
+              "unseen_test_labels": 0
+            },
+            "features": "current frame Core spike counts; no next action or frame index",
+            "next_change_from_core": {
+              "accuracy": 0.46875,
+              "calibration_classes": 10,
+              "correct": 15,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "next_change_from_current_pixels": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "target": "next grayscale image difference, 16x16, quantized to 1/255",
+            "test_frames": 32
+          }
+        },
+        {
+          "action_copy_arrivals": 192,
+          "control": "constant_image_a",
+          "core_spikes": 7651,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 2346,
+            "spike_count_l1": 5143
+          },
+          "parameters_retained": true,
+          "readout": null
+        },
+        {
+          "action_copy_arrivals": 192,
+          "control": "constant_image_d",
+          "core_spikes": 7651,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 2346,
+            "spike_count_l1": 5143
+          },
+          "parameters_retained": true,
+          "readout": null
+        }
+      ],
+      "freeze_preserved_full_network": true,
+      "identical_prefix_checkpoints": true,
+      "same_initial_network": true,
+      "seed": 42,
+      "training": {
+        "formed": 0,
+        "frames": 0,
+        "frozen_core_synapses": 1024,
+        "initial_core_synapses": 1024,
+        "parameters_changed_since_initial": false,
+        "pruned": 0,
+        "weight_changes": 0
+      }
+    },
+    {
+      "condition": "aged_frozen",
+      "constant_image_a_vs_d": {
+        "changed_neuron_frame_bins": 0,
+        "spike_count_l1": 0
+      },
+      "controls": [
+        {
+          "action_copy_arrivals": 192,
+          "control": "aligned",
+          "core_spikes": 7546,
+          "difference_from_aligned": null,
+          "parameters_retained": true,
+          "readout": {
+            "calibration_frames": 31,
+            "current_recorded_action_from_core": {
+              "accuracy": 0.71875,
+              "calibration_classes": 2,
+              "correct": 23,
+              "majority_accuracy": 0.6875,
+              "majority_correct": 22,
+              "tested": 32,
+              "unseen_test_labels": 0
+            },
+            "features": "current frame Core spike counts; no next action or frame index",
+            "next_change_from_core": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "next_change_from_current_pixels": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "target": "next grayscale image difference, 16x16, quantized to 1/255",
+            "test_frames": 32
+          }
+        },
+        {
+          "action_copy_arrivals": 192,
+          "control": "swapped",
+          "core_spikes": 7545,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 1,
+            "spike_count_l1": 1
+          },
+          "parameters_retained": true,
+          "readout": {
+            "calibration_frames": 31,
+            "current_recorded_action_from_core": {
+              "accuracy": 0.71875,
+              "calibration_classes": 2,
+              "correct": 23,
+              "majority_accuracy": 0.6875,
+              "majority_correct": 22,
+              "tested": 32,
+              "unseen_test_labels": 0
+            },
+            "features": "current frame Core spike counts; no next action or frame index",
+            "next_change_from_core": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "next_change_from_current_pixels": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "target": "next grayscale image difference, 16x16, quantized to 1/255",
+            "test_frames": 32
+          }
+        },
+        {
+          "action_copy_arrivals": 189,
+          "control": "delayed_one_frame",
+          "core_spikes": 7545,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 1,
+            "spike_count_l1": 1
+          },
+          "parameters_retained": true,
+          "readout": {
+            "calibration_frames": 31,
+            "current_recorded_action_from_core": {
+              "accuracy": 0.71875,
+              "calibration_classes": 2,
+              "correct": 23,
+              "majority_accuracy": 0.6875,
+              "majority_correct": 22,
+              "tested": 32,
+              "unseen_test_labels": 0
+            },
+            "features": "current frame Core spike counts; no next action or frame index",
+            "next_change_from_core": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "next_change_from_current_pixels": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "target": "next grayscale image difference, 16x16, quantized to 1/255",
+            "test_frames": 32
+          }
+        },
+        {
+          "action_copy_arrivals": 0,
+          "control": "absent",
+          "core_spikes": 7545,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 1,
+            "spike_count_l1": 1
+          },
+          "parameters_retained": true,
+          "readout": {
+            "calibration_frames": 31,
+            "current_recorded_action_from_core": {
+              "accuracy": 0.71875,
+              "calibration_classes": 2,
+              "correct": 23,
+              "majority_accuracy": 0.6875,
+              "majority_correct": 22,
+              "tested": 32,
+              "unseen_test_labels": 0
+            },
+            "features": "current frame Core spike counts; no next action or frame index",
+            "next_change_from_core": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "next_change_from_current_pixels": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "target": "next grayscale image difference, 16x16, quantized to 1/255",
+            "test_frames": 32
+          }
+        },
+        {
+          "action_copy_arrivals": 192,
+          "control": "constant_image_a",
+          "core_spikes": 7709,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 2296,
+            "spike_count_l1": 5019
+          },
+          "parameters_retained": true,
+          "readout": null
+        },
+        {
+          "action_copy_arrivals": 192,
+          "control": "constant_image_d",
+          "core_spikes": 7709,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 2296,
+            "spike_count_l1": 5019
+          },
+          "parameters_retained": true,
+          "readout": null
+        }
+      ],
+      "freeze_preserved_full_network": true,
+      "identical_prefix_checkpoints": true,
+      "same_initial_network": true,
+      "seed": 42,
+      "training": {
+        "formed": 0,
+        "frames": 1000,
+        "frozen_core_synapses": 1024,
+        "initial_core_synapses": 1024,
+        "parameters_changed_since_initial": false,
+        "pruned": 0,
+        "weight_changes": 0
+      }
+    },
+    {
+      "condition": "trained_fixed",
+      "constant_image_a_vs_d": {
+        "changed_neuron_frame_bins": 0,
+        "spike_count_l1": 0
+      },
+      "controls": [
+        {
+          "action_copy_arrivals": 192,
+          "control": "aligned",
+          "core_spikes": 4223,
+          "difference_from_aligned": null,
+          "parameters_retained": true,
+          "readout": {
+            "calibration_frames": 31,
+            "current_recorded_action_from_core": {
+              "accuracy": 0.71875,
+              "calibration_classes": 2,
+              "correct": 23,
+              "majority_accuracy": 0.6875,
+              "majority_correct": 22,
+              "tested": 32,
+              "unseen_test_labels": 0
+            },
+            "features": "current frame Core spike counts; no next action or frame index",
+            "next_change_from_core": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "next_change_from_current_pixels": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "target": "next grayscale image difference, 16x16, quantized to 1/255",
+            "test_frames": 32
+          }
+        },
+        {
+          "action_copy_arrivals": 192,
+          "control": "swapped",
+          "core_spikes": 4223,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 0,
+            "spike_count_l1": 0
+          },
+          "parameters_retained": true,
+          "readout": {
+            "calibration_frames": 31,
+            "current_recorded_action_from_core": {
+              "accuracy": 0.71875,
+              "calibration_classes": 2,
+              "correct": 23,
+              "majority_accuracy": 0.6875,
+              "majority_correct": 22,
+              "tested": 32,
+              "unseen_test_labels": 0
+            },
+            "features": "current frame Core spike counts; no next action or frame index",
+            "next_change_from_core": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "next_change_from_current_pixels": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "target": "next grayscale image difference, 16x16, quantized to 1/255",
+            "test_frames": 32
+          }
+        },
+        {
+          "action_copy_arrivals": 189,
+          "control": "delayed_one_frame",
+          "core_spikes": 4223,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 0,
+            "spike_count_l1": 0
+          },
+          "parameters_retained": true,
+          "readout": {
+            "calibration_frames": 31,
+            "current_recorded_action_from_core": {
+              "accuracy": 0.71875,
+              "calibration_classes": 2,
+              "correct": 23,
+              "majority_accuracy": 0.6875,
+              "majority_correct": 22,
+              "tested": 32,
+              "unseen_test_labels": 0
+            },
+            "features": "current frame Core spike counts; no next action or frame index",
+            "next_change_from_core": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "next_change_from_current_pixels": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "target": "next grayscale image difference, 16x16, quantized to 1/255",
+            "test_frames": 32
+          }
+        },
+        {
+          "action_copy_arrivals": 0,
+          "control": "absent",
+          "core_spikes": 4223,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 0,
+            "spike_count_l1": 0
+          },
+          "parameters_retained": true,
+          "readout": {
+            "calibration_frames": 31,
+            "current_recorded_action_from_core": {
+              "accuracy": 0.71875,
+              "calibration_classes": 2,
+              "correct": 23,
+              "majority_accuracy": 0.6875,
+              "majority_correct": 22,
+              "tested": 32,
+              "unseen_test_labels": 0
+            },
+            "features": "current frame Core spike counts; no next action or frame index",
+            "next_change_from_core": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "next_change_from_current_pixels": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "target": "next grayscale image difference, 16x16, quantized to 1/255",
+            "test_frames": 32
+          }
+        },
+        {
+          "action_copy_arrivals": 192,
+          "control": "constant_image_a",
+          "core_spikes": 3175,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 1845,
+            "spike_count_l1": 4250
+          },
+          "parameters_retained": true,
+          "readout": null
+        },
+        {
+          "action_copy_arrivals": 192,
+          "control": "constant_image_d",
+          "core_spikes": 3175,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 1845,
+            "spike_count_l1": 4250
+          },
+          "parameters_retained": true,
+          "readout": null
+        }
+      ],
+      "freeze_preserved_full_network": true,
+      "identical_prefix_checkpoints": true,
+      "same_initial_network": true,
+      "seed": 42,
+      "training": {
+        "formed": 0,
+        "frames": 1000,
+        "frozen_core_synapses": 1024,
+        "initial_core_synapses": 1024,
+        "parameters_changed_since_initial": true,
+        "pruned": 0,
+        "weight_changes": 833632
+      }
+    },
+    {
+      "condition": "trained_development",
+      "constant_image_a_vs_d": {
+        "changed_neuron_frame_bins": 0,
+        "spike_count_l1": 0
+      },
+      "controls": [
+        {
+          "action_copy_arrivals": 192,
+          "control": "aligned",
+          "core_spikes": 5161,
+          "difference_from_aligned": null,
+          "parameters_retained": true,
+          "readout": {
+            "calibration_frames": 31,
+            "current_recorded_action_from_core": {
+              "accuracy": 0.71875,
+              "calibration_classes": 2,
+              "correct": 23,
+              "majority_accuracy": 0.6875,
+              "majority_correct": 22,
+              "tested": 32,
+              "unseen_test_labels": 0
+            },
+            "features": "current frame Core spike counts; no next action or frame index",
+            "next_change_from_core": {
+              "accuracy": 0.46875,
+              "calibration_classes": 10,
+              "correct": 15,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "next_change_from_current_pixels": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "target": "next grayscale image difference, 16x16, quantized to 1/255",
+            "test_frames": 32
+          }
+        },
+        {
+          "action_copy_arrivals": 192,
+          "control": "swapped",
+          "core_spikes": 5161,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 0,
+            "spike_count_l1": 0
+          },
+          "parameters_retained": true,
+          "readout": {
+            "calibration_frames": 31,
+            "current_recorded_action_from_core": {
+              "accuracy": 0.71875,
+              "calibration_classes": 2,
+              "correct": 23,
+              "majority_accuracy": 0.6875,
+              "majority_correct": 22,
+              "tested": 32,
+              "unseen_test_labels": 0
+            },
+            "features": "current frame Core spike counts; no next action or frame index",
+            "next_change_from_core": {
+              "accuracy": 0.46875,
+              "calibration_classes": 10,
+              "correct": 15,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "next_change_from_current_pixels": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "target": "next grayscale image difference, 16x16, quantized to 1/255",
+            "test_frames": 32
+          }
+        },
+        {
+          "action_copy_arrivals": 189,
+          "control": "delayed_one_frame",
+          "core_spikes": 5161,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 0,
+            "spike_count_l1": 0
+          },
+          "parameters_retained": true,
+          "readout": {
+            "calibration_frames": 31,
+            "current_recorded_action_from_core": {
+              "accuracy": 0.71875,
+              "calibration_classes": 2,
+              "correct": 23,
+              "majority_accuracy": 0.6875,
+              "majority_correct": 22,
+              "tested": 32,
+              "unseen_test_labels": 0
+            },
+            "features": "current frame Core spike counts; no next action or frame index",
+            "next_change_from_core": {
+              "accuracy": 0.46875,
+              "calibration_classes": 10,
+              "correct": 15,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "next_change_from_current_pixels": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "target": "next grayscale image difference, 16x16, quantized to 1/255",
+            "test_frames": 32
+          }
+        },
+        {
+          "action_copy_arrivals": 0,
+          "control": "absent",
+          "core_spikes": 5161,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 0,
+            "spike_count_l1": 0
+          },
+          "parameters_retained": true,
+          "readout": {
+            "calibration_frames": 31,
+            "current_recorded_action_from_core": {
+              "accuracy": 0.71875,
+              "calibration_classes": 2,
+              "correct": 23,
+              "majority_accuracy": 0.6875,
+              "majority_correct": 22,
+              "tested": 32,
+              "unseen_test_labels": 0
+            },
+            "features": "current frame Core spike counts; no next action or frame index",
+            "next_change_from_core": {
+              "accuracy": 0.46875,
+              "calibration_classes": 10,
+              "correct": 15,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "next_change_from_current_pixels": {
+              "accuracy": 0.4375,
+              "calibration_classes": 10,
+              "correct": 14,
+              "majority_accuracy": 0.0625,
+              "majority_correct": 2,
+              "tested": 32,
+              "unseen_test_labels": 1
+            },
+            "target": "next grayscale image difference, 16x16, quantized to 1/255",
+            "test_frames": 32
+          }
+        },
+        {
+          "action_copy_arrivals": 192,
+          "control": "constant_image_a",
+          "core_spikes": 4608,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 2251,
+            "spike_count_l1": 4903
+          },
+          "parameters_retained": true,
+          "readout": null
+        },
+        {
+          "action_copy_arrivals": 192,
+          "control": "constant_image_d",
+          "core_spikes": 4608,
+          "difference_from_aligned": {
+            "changed_neuron_frame_bins": 2251,
+            "spike_count_l1": 4903
+          },
+          "parameters_retained": true,
+          "readout": null
+        }
+      ],
+      "freeze_preserved_full_network": true,
+      "identical_prefix_checkpoints": true,
+      "same_initial_network": true,
+      "seed": 42,
+      "training": {
+        "formed": 256,
+        "frames": 1000,
+        "frozen_core_synapses": 476,
+        "initial_core_synapses": 1024,
+        "parameters_changed_since_initial": true,
+        "pruned": 804,
+        "weight_changes": 1634789
+      }
+    }
+  ],
+  "training_frames": 1000,
+  "training_recording": {
+    "actions": [
+      "a",
+      "a",
+      "d",
+      "d",
+      "a",
+      "a",
+      "d",
+      "d",
+      "a",
+      "a",
+      "d",
+      "d",
+      "a",
+      "a",
+      "d",
+      "d",
+      "a",
+      "a",
+      "d",
+      "d",
+      "a",
+      "a",
+      "d",
+      "d",
+      "a",
+      "a",
+      "d",
+      "d",
+      "a",
+      "a",
+      "d",
+      "d",
+      "a",
+      "a",
+      "d",
+      "d",
+      "a",
+      "a",
+      "d",
+      "d"
+    ],
+    "frame_fingerprints_fnv1a64": [
+      "a7a81889c1efefa4",
+      "0179db48bf32efa4",
+      "a7a81889c1efefa4",
+      "77be642137ecefa4",
+      "a7a81889c1efefa4",
+      "0179db48bf32efa4",
+      "a7a81889c1efefa4",
+      "77be642137ecefa4",
+      "a7a81889c1efefa4",
+      "0179db48bf32efa4",
+      "a7a81889c1efefa4",
+      "77be642137ecefa4",
+      "a7a81889c1efefa4",
+      "0179db48bf32efa4",
+      "a7a81889c1efefa4",
+      "77be642137ecefa4",
+      "a7a81889c1efefa4",
+      "0179db48bf32efa4",
+      "a7a81889c1efefa4",
+      "77be642137ecefa4",
+      "a7a81889c1efefa4",
+      "0179db48bf32efa4",
+      "a7a81889c1efefa4",
+      "77be642137ecefa4",
+      "a7a81889c1efefa4",
+      "0179db48bf32efa4",
+      "a7a81889c1efefa4",
+      "77be642137ecefa4",
+      "a7a81889c1efefa4",
+      "0179db48bf32efa4",
+      "a7a81889c1efefa4",
+      "77be642137ecefa4",
+      "a7a81889c1efefa4",
+      "0179db48bf32efa4",
+      "a7a81889c1efefa4",
+      "77be642137ecefa4",
+      "a7a81889c1efefa4",
+      "0179db48bf32efa4",
+      "a7a81889c1efefa4",
+      "77be642137ecefa4"
+    ]
+  },
+  "training_stream": "recording cycled, never counted as new captured experience",
+  "unique_training_frames": 40,
+  "version": 1
+}

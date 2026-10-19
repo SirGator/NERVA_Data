@@ -1,0 +1,15 @@
+{
+  "encoding": "Change",
+  "frame_changes": 0,
+  "interrupted": false,
+  "key_frames": 0,
+  "learning_enabled": true,
+  "motor_spikes": 0,
+  "output": "/home/simon/projekte/DSVLM/Modell/runs/change",
+  "requested_steps": 10,
+  "seed": 42,
+  "sensory_spikes": 0,
+  "steps": 10,
+  "weight_changes": 0,
+  "original_output": "/home/simon/projekte/DSVLM/nerva-qemu/runs/change"
+}

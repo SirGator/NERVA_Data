@@ -1,0 +1,8 @@
+test_no_copy_control_cannot_include_unknown_neuron (test_m8.M8DataAuditTests.test_no_copy_control_cannot_include_unknown_neuron) ... ok
+test_valid_runtime_and_fabricated_extra_spike_count_rejected (test_m8.M8DataAuditTests.test_valid_runtime_and_fabricated_extra_spike_count_rejected) ... ok
+test_new_seeds_all_conditions_and_exact_sign_family_gate (test_m8.M8PlanTests.test_new_seeds_all_conditions_and_exact_sign_family_gate) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 1.380s
+
+OK
