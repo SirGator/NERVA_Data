@@ -12,6 +12,15 @@ gespeicherten Ergebnisse zusammen. Sie ergänzen keine ungemessenen
 Leistungsbehauptungen. Insbesondere bleiben Pilot, Bestätigung, Ursachenanalyse
 und reine Softwareprüfungen unterscheidbar.
 
+## Ergänzung vom 22.10.2026
+
+Das Paket enthält jetzt eine eigenständige lokale Archiv-GUI unter
+[GUI/](GUI/README.md), startbar mit `./gui.sh`. Sie liest die vorhandenen Daten,
+Berichte und Bilder ohne Modellcode und verändert die historischen Messdateien
+nicht. Die wissenschaftlichen Abschlussdaten und Ergebnisse bleiben erhalten.
+Die Paketprüfsummen wurden um die GUI und die aktualisierten Einstiegstexte ergänzt.
+Python-Cachedateien und interne Git-Metadaten sind ausgenommen.
+
 ## Enthaltene Unterlagen
 
 - Projektüberblick, Ergebnisübersicht, Methodikerklärung und Datenhandbuch.

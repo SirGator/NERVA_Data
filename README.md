@@ -19,6 +19,18 @@ untersuchten Bedingungen weiterhin. Die Forschungsfrage bleibt offen.
 Das Repository heißt `NERVA_Data`. Hinweise zum vollständigen Download mit den
 zwei großen Git-LFS-Dateien stehen unter [Herunterladen](HERUNTERLADEN.md).
 
+## Grafisch ansehen
+
+Die Messdaten lassen sich mit dem enthaltenen lokalen Dashboard durchsuchen:
+
+```bash
+./gui.sh
+```
+
+Benötigt wird nur Python 3.10 oder neuer. Der Browser öffnet
+`http://127.0.0.1:8766`. [Anleitung für die Archiv-GUI](GUI/README.md).
+Die GUI funktioniert auch dann, wenn nur dieses Messpaket heruntergeladen wurde.
+
 ## Hier anfangen
 
 | Interesse | Einstieg |
