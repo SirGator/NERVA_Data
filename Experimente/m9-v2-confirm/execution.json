@@ -1,0 +1,5 @@
+{
+  "command": "python3 NERVA_Modell/Experimente/m9/run.py run --stage confirm --jobs 8 --output Messungen/Experimente/m9-v2-confirm",
+  "jobs": 8,
+  "note": "Concurrency increased from initially recorded command (4) to 8 on 24 available processors; preregistered scientific parameters, seeds, trial counts and code unchanged."
+}

@@ -20,11 +20,33 @@ Stufen der Forschungsfrage und werden getrennt bewertet.
 | M6 | Kombination der Eingriffe ohne bestätigten Vorhersagevorteil. Ohne Core-Homöostase entstehen in der separaten Kontrolle Aktionsspikes. | Hauptreihe und explorative Folgekontrolle getrennt. [Bericht](M6_EXPERIMENT.md) |
 | M7 | STDP erzeugt belegungsabhängige Gewichtsänderungen. Gewichtseingriffe ändern Potenziale, aber keine zusätzlichen Core-Spikes in den untersuchten Aktionsproben. | Erneute Ausführung vorhandener Seeds 400–409; Ursachenanalyse. [Bericht](M7_EXPERIMENT.md) |
 | M8 | Vierfache Core-Gewichte ermöglichen zusätzliche rekurrente Spikes; längere STDP-Zeitskalen verstärken separat Gewichtsspuren. Kein bestätigter funktionaler Vorhersagevorteil. | 13 Bedingungen, Bestätigung auf zehn weiteren Seeds 510–519. [Bericht](M8_EXPERIMENT.md) |
+| M9-v2 | Kombination erreicht sofort 51,25 % und nach Ruhe 50,00 %; weder funktionaler Lernnachweis noch abgesicherter beidseitiger Verlust nach Gewichtsrücksetzung. | Vier Bedingungen, 20 neue Bestätigungsseeds 610–629. [Bericht](M9_EXPERIMENT.md) |
 
 Die serielle Demo mit Lehrneuronen ist als [früher technischer Demonstrator](SERIAL_MODEL.md)
 dokumentiert. Ihr Erfolg wird nicht als Erfolg der späteren Wirkungslerntests gezählt.
 
-## M8 als jüngster dokumentierter Parameterscan
+## M9: Kombination auf 20 neuen Seeds
+
+Der feste 2×2-Vergleich bestätigt keinen funktionalen Lernnachweis. Mittelwerte
+des gekoppelten Arms über 20 Seeds und beide Belegungen:
+
+| Bedingung | Sofort | Nach unabhängigen 2 s Ruhe | Extra-Spikes sofort |
+|---|---:|---:|---:|
+| Referenz | 48,75 % | 48,75 % | 0,00 |
+| Core-Gewichte ×4 | 50,00 % | 51,25 % | 21,65 |
+| STDP-Tau 100 ms | 48,75 % | 48,75 % | 0,00 |
+| Kombination | 51,25 % | 50,00 % | 13,43 |
+
+Keine Bedingung besteht die vollständigen Verhaltenskriterien, auch schon ohne
+die zusätzliche exakte Familienkorrektur. Die kontrollierte Rücksetzung aller
+plastischen Gewichte erzeugt ebenfalls keinen abgesicherten Genauigkeitsverlust
+in beiden Belegungen. Die visuelle Auslesbarkeit bleibt im Mittel 99,73–100 %.
+
+[Kompakte Tabelle](Darstellung/M9_UEBERBLICK.md) ·
+[Vollständiger Bericht](M9_EXPERIMENT.md) ·
+[Daten und Audits](Experimente/m9-v2-confirm/summary.md).
+
+## M8: getrennte Parameterscans als Ausgangspunkt
 
 Die folgenden Zahlen stammen aus der Bestätigungsreihe. Angegeben sind die
 Mittelwerte des gekoppelt trainierten Arms über zehn Seeds und beide Belegungen.
@@ -58,7 +80,10 @@ Motorzählungen, geringe Wirksamkeit mancher Aktionssignale, Abschwächung senso
 Signale und begrenzte Weiterleitung von Aktionsaktivität. M7 zeigt, dass Erfahrung
 in Gewichten Spuren hinterlassen kann. M8 zeigt, dass zusätzliche Weiterleitung
 durch Parameteränderungen erreichbar ist. Die Verbindung dieser Spuren mit einem
-robusten funktionalen Lernvorteil bleibt in den geprüften Bedingungen offen.
+robusten funktionalen Lernvorteil bleibt auch nach dem gezielten M9-Kombinationstest
+auf 20 neuen Seeds offen. Als nächster vorgeschlagener Schritt soll M10 den
+Signalweg und die Auslesung lokalisieren, bevor neue biologische Regeln ergänzt
+werden.
 
 Das negative Ergebnis betrifft die dokumentierten Aufgaben, Konfigurationen,
 Prüfzeitpunkte und Auswerter. Es ist kein Nachweis, dass lokale Plastizität

@@ -1,0 +1,791 @@
+{
+  "audits": [
+    {
+      "branch_rows": 56,
+      "case": "reference",
+      "phase_rows": 2432,
+      "propagation_rows": 272,
+      "seed": 690,
+      "sensor_rows": 2432,
+      "trial_rows": 272
+    },
+    {
+      "branch_rows": 56,
+      "case": "weight4",
+      "phase_rows": 2432,
+      "propagation_rows": 272,
+      "seed": 690,
+      "sensor_rows": 2432,
+      "trial_rows": 272
+    },
+    {
+      "branch_rows": 56,
+      "case": "tau100",
+      "phase_rows": 2432,
+      "propagation_rows": 272,
+      "seed": 690,
+      "sensor_rows": 2432,
+      "trial_rows": 272
+    },
+    {
+      "branch_rows": 56,
+      "case": "weight4_tau100",
+      "phase_rows": 2432,
+      "propagation_rows": 272,
+      "seed": 690,
+      "sensor_rows": 2432,
+      "trial_rows": 272
+    }
+  ],
+  "descriptive_alignment_contrasts": [
+    {
+      "case": "weight4",
+      "ci95": [
+        0.00012370944023132324,
+        0.00012370944023132324
+      ],
+      "mean_difference": 0.00012370944023132324,
+      "metric": "paired_topological_weight_alignment",
+      "reference": "reference"
+    },
+    {
+      "case": "tau100",
+      "ci95": [
+        5.535036325454712e-05,
+        5.535036325454712e-05
+      ],
+      "mean_difference": 5.535036325454712e-05,
+      "metric": "paired_topological_weight_alignment",
+      "reference": "reference"
+    },
+    {
+      "case": "weight4_tau100",
+      "ci95": [
+        -3.93986701965332e-05,
+        -3.93986701965332e-05
+      ],
+      "mean_difference": -3.93986701965332e-05,
+      "metric": "paired_topological_weight_alignment",
+      "reference": "reference"
+    }
+  ],
+  "exact_sign_family_alpha": 0.00625,
+  "factorial_contrasts": [
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_reference",
+      "control": "raw",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_weight4",
+      "control": "raw",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_tau100",
+      "control": "raw",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "interaction",
+      "control": "raw",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_reference",
+      "control": "before",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_weight4",
+      "control": "before",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_tau100",
+      "control": "before",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "interaction",
+      "control": "before",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_reference",
+      "control": "aged_frozen",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_weight4",
+      "control": "aged_frozen",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_tau100",
+      "control": "aged_frozen",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "interaction",
+      "control": "aged_frozen",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_reference",
+      "control": "scrambled",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_weight4",
+      "control": "scrambled",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_tau100",
+      "control": "scrambled",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "interaction",
+      "control": "scrambled",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_reference",
+      "control": "raw",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_weight4",
+      "control": "raw",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_tau100",
+      "control": "raw",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "interaction",
+      "control": "raw",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_reference",
+      "control": "before",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_weight4",
+      "control": "before",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_tau100",
+      "control": "before",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "interaction",
+      "control": "before",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_reference",
+      "control": "aged_frozen",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_weight4",
+      "control": "aged_frozen",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_tau100",
+      "control": "aged_frozen",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "interaction",
+      "control": "aged_frozen",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_reference",
+      "control": "scrambled",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_weight4",
+      "control": "scrambled",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_tau100",
+      "control": "scrambled",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "interaction",
+      "control": "scrambled",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_reference",
+      "control": "raw",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_weight4",
+      "control": "raw",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_tau100",
+      "control": "raw",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "interaction",
+      "control": "raw",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_reference",
+      "control": "before",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_weight4",
+      "control": "before",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_tau100",
+      "control": "before",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "interaction",
+      "control": "before",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_reference",
+      "control": "aged_frozen",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_weight4",
+      "control": "aged_frozen",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_tau100",
+      "control": "aged_frozen",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "interaction",
+      "control": "aged_frozen",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_reference",
+      "control": "scrambled",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_weight4",
+      "control": "scrambled",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_tau100",
+      "control": "scrambled",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "interaction",
+      "control": "scrambled",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "normal_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_reference",
+      "control": "raw",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_weight4",
+      "control": "raw",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_tau100",
+      "control": "raw",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "interaction",
+      "control": "raw",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_reference",
+      "control": "before",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_weight4",
+      "control": "before",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_tau100",
+      "control": "before",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "interaction",
+      "control": "before",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_reference",
+      "control": "aged_frozen",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_weight4",
+      "control": "aged_frozen",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_tau100",
+      "control": "aged_frozen",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "interaction",
+      "control": "aged_frozen",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_reference",
+      "control": "scrambled",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_weight4",
+      "control": "scrambled",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "combination_minus_tau100",
+      "control": "scrambled",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    },
+    {
+      "ci_high": 0.0,
+      "ci_low": 0.0,
+      "contrast": "interaction",
+      "control": "scrambled",
+      "inference": "descriptive; not a learning or synergy gate",
+      "mapping": "reversed_mapping",
+      "mean_difference": 0.0,
+      "seeds": 1,
+      "stage": "rest_checkpoint_probe"
+    }
+  ],
+  "matched_visual_generation": true,
+  "original_scaffold_preserved": true,
+  "reference_normalization_matched": true,
+  "scientific_run": false,
+  "stage": "smoke",
+  "total": {
+    "branch_rows": 224,
+    "phase_rows": 9728,
+    "propagation_rows": 1088,
+    "sensor_rows": 9728,
+    "trial_rows": 1088
+  }
+}

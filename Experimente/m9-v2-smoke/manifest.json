@@ -1,0 +1,106 @@
+{
+  "conditions": [
+    {
+      "calibration_trials": 8,
+      "case_id": "reference",
+      "condition": {
+        "core_weight_scale": 1,
+        "stdp_tau_us": 20000
+      },
+      "protocol": "NERVA-M9-v2",
+      "seed": 0,
+      "test_trials": 8,
+      "train_trials": 8
+    },
+    {
+      "calibration_trials": 8,
+      "case_id": "weight4",
+      "condition": {
+        "core_weight_scale": 4,
+        "stdp_tau_us": 20000
+      },
+      "protocol": "NERVA-M9-v2",
+      "seed": 0,
+      "test_trials": 8,
+      "train_trials": 8
+    },
+    {
+      "calibration_trials": 8,
+      "case_id": "tau100",
+      "condition": {
+        "core_weight_scale": 1,
+        "stdp_tau_us": 100000
+      },
+      "protocol": "NERVA-M9-v2",
+      "seed": 0,
+      "test_trials": 8,
+      "train_trials": 8
+    },
+    {
+      "calibration_trials": 8,
+      "case_id": "weight4_tau100",
+      "condition": {
+        "core_weight_scale": 4,
+        "stdp_tau_us": 100000
+      },
+      "protocol": "NERVA-M9-v2",
+      "seed": 0,
+      "test_trials": 8,
+      "train_trials": 8
+    }
+  ],
+  "preregistration": {
+    "causal_limits": "State and pending arrivals retained; establishes contribution under fixed decoder, not sufficiency or exclusive storage in weights",
+    "causal_success": "Behavioral criteria AND sham exceeds restore_all_plastic in each mapping, positive paired bootstrap95 lower bound and exact sign p<=0.00625, at least twenty seeds; restore_core localizes contribution descriptively",
+    "checkpoint": "Two separate exact A/D replays per mapping/seed; independent 2s neutral rest; no parent calibration",
+    "controls": [
+      "before",
+      "aged_frozen",
+      "paired",
+      "scrambled"
+    ],
+    "date": "2026-10-27",
+    "design": "Fixed 2x2; all four conditions carried unchanged from pilot to fresh confirmation",
+    "factorial": "Descriptive seed-paired combination-minus-reference/singles and interaction Y11-Y10-Y01+Y00, separately per mapping and primary endpoint; raw paired accuracy and learning advantages over each control",
+    "fixed": "effect_2ch/32, deterministic encoding, three copies at weight0.9, Core tau20ms, action/effect50ms; homeostasis/development off",
+    "hypothesis": "Combined recurrent propagation and longer timing sensitivity may enable learned action-effect prediction",
+    "limits": "Extra spikes, weight alignment, or descriptive interaction alone are not learning; smoke/pilot cannot confirm; no parameter tuning or condition selection",
+    "mappings": [
+      "normal_mapping",
+      "reversed_mapping"
+    ],
+    "multiplicity": {
+      "alpha": 0.00625,
+      "family_size": 8,
+      "rule": "Every required one-sided exact paired sign test must pass; ties omitted; Bonferroni over four conditions x two endpoints"
+    },
+    "no_copy": "Independent neutral-frame replay without action copies at both primary checkpoints",
+    "primary": [
+      "checkpoint_probe",
+      "rest_checkpoint_probe"
+    ],
+    "rate_gain": "Same baseline reference gain per seed; no renormalization per condition",
+    "recurrence": "Scale all initial Core->Core weights, excitatory and inhibitory, by 1 or 4; endpoints and delays fixed",
+    "revision": "v2 supersedes unexecuted v1 scientific plans; v1 files retained",
+    "secondary": [
+      "128 online trials and first16",
+      "sequential retention/interference",
+      "time-bin readout"
+    ],
+    "stdp": "Existing nearest-pair rule: both plus/minus tau20 or100ms, a_plus0.0001/a_minus0.00012, pair window100ms, weights0..2",
+    "success": "At least twenty seeds; visual >=80% in each mapping; count prediction above chance and all controls in both mappings; flip/dual-correct above all controls; all lower paired bootstrap95 bounds positive",
+    "weight_resets": "Sham, restore Core only, restore all plastic to condition-specific initial weights; identical replay state; intervention after rest, before 50ms baseline; unchanged checkpoint count decoder; neutral images only",
+    "weights": "Initial and trained visual weight sums and retained fraction, per seed/arm; monitor possible LTD cost"
+  },
+  "protocol": "NERVA-M9-v2",
+  "scientific_run": false,
+  "seeds": [
+    692
+  ],
+  "stage": "smoke",
+  "trial_counts": [
+    8,
+    8,
+    8
+  ]
+}

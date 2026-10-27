@@ -1,0 +1,5 @@
+case,seeds,visual,initial_sensor_current,checkpoint_probe,checkpoint_probe_screen,checkpoint_probe_confirmed,rest_checkpoint_probe,rest_checkpoint_probe_screen,rest_checkpoint_probe_confirmed,probe,probe_screen,probe_confirmed,retained_probe,retained_probe_screen,retained_probe_confirmed,interference_probe,interference_probe_screen,interference_probe_confirmed,checkpoint_probe_behavior_confirmed,checkpoint_probe_weight_causality_confirmed,rest_checkpoint_probe_behavior_confirmed,rest_checkpoint_probe_weight_causality_confirmed
+reference,3,1.0,9.999999931583533,0.5,False,False,0.5,False,False,0.5,False,False,0.5,False,False,0.5,False,False,False,False,False,False
+weight4,3,1.0,9.999999931583533,0.5,False,False,0.5,False,False,0.4856770833333333,False,False,0.48046875,False,False,0.4856770833333333,False,False,False,False,False,False
+tau100,3,1.0,9.999999931583533,0.5,False,False,0.5,False,False,0.5,False,False,0.5,False,False,0.5,False,False,False,False,False,False
+weight4_tau100,3,1.0,9.999999931583533,0.5,False,False,0.5,False,False,0.5,False,False,0.5,False,False,0.5,False,False,False,False,False,False

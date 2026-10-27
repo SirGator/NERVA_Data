@@ -1,0 +1,4 @@
+M9_COMPLETED reference seed 690
+    Blocking waiting for file lock on build directory
+    Finished `release` profile [optimized] target(s) in 0.01s
+     Running `NERVA_Modell/Experimente/target/release/nerva-m9 --config Messungen/Experimente/m9-smoke/configs/reference/seed-690.json --output Messungen/Experimente/m9-smoke/results/reference/seed-690.json`

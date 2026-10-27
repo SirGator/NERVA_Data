@@ -9,7 +9,7 @@ der Dokumentation und Analysieren der vorhandenen Ergebnisse nicht benötigt.
 Die [Startseite](README.md), der [Projektüberblick](PROJEKT.md) und die
 [Ergebnisse](ERGEBNISSE.md) sind direkt auf GitHub lesbar. Von dort führen lokale
 Links zu Berichten und kleinen Ergebnistabellen. Die vollständigen Rohdaten
-umfassen ungefähr 8,5 GB.
+umfassen einschließlich M9 ungefähr 9,8 GB (Stand 27.10.2026).
 
 ## Vollständige Daten mit Git LFS
 

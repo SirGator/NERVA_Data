@@ -11,10 +11,16 @@ lernen kann. Das neuronale Modell erhält Bilder und die Kopie seiner ausgeführ
 Tasten; die kontrollierten Wirkungsversuche verwenden keine globale Belohnung und
 keine richtigen Antworten als neuronale Trainingsvorgabe.
 
-**Stand der Versuche bis M8:** Lokale Gewichtsänderungen, Einflüsse der
+**Stand der Versuche bis M9:** Lokale Gewichtsänderungen, Einflüsse der
 Strukturentwicklung und zusätzliche rekurrente Aktivität sind gemessen.
 Ein belastbarer funktionaler Nachweis gelernter Handlungswirkungen fehlt in den
 untersuchten Bedingungen weiterhin. Die Forschungsfrage bleibt offen.
+
+**Forschungsplanung vom 27.10.2026:** Der
+[Fahrplan M9–M13](Dokumentation/FORSCHUNGSPLAN.md) priorisiert den kontrollierten
+Nachweis funktionalen Lernens. [M9-v2](M9_EXPERIMENT.md) ist mit
+20 Bestätigungsseeds und Gewichtsrücksetzungen abgeschlossen und liefert keinen
+funktionalen Lernnachweis. Technische Kurzläufe bleiben gesondert markiert.
 
 Das Repository heißt `NERVA_Data`. Hinweise zum vollständigen Download mit den
 zwei großen Git-LFS-Dateien stehen unter [Herunterladen](HERUNTERLADEN.md).
@@ -64,6 +70,7 @@ Ihre Datenlinks führen innerhalb dieses Ordners zu den jeweiligen Messläufen.
 | M6: Kombinierter Wirkungslerntest | [M6](M6_EXPERIMENT.md) |
 | M7: Gewichts- und Synapsendiagnose | [M7](M7_EXPERIMENT.md) |
 | M8: Weiterleitung und Zeitskalen | [M8](M8_EXPERIMENT.md) |
+| M9: Kombination und Gewichtskausalität auf 20 neuen Seeds | [M9](M9_EXPERIMENT.md) |
 | Frühere serielle Zuordnungsdemo mit Lehrsignalen | [Serielle Demo](SERIAL_MODEL.md) |
 
 ## Was wo liegt
@@ -79,6 +86,7 @@ Neue Simulationen auszuführen erfordert den vollständigen Projektcode. Die
 Startbefehle in den technischen Dokumentationskopien beschreiben diesen Weg;
 sie sind keine Voraussetzung zum Lesen und Prüfen der hier enthaltenen Ergebnisse.
 
-Dokumentationspaket: 19.10.2026. Die enthaltenen Abschlussberichte stammen aus
-den darin angegebenen Messreihen; für dieses Paket wurden keine neuen
-wissenschaftlichen Messläufe durchgeführt.
+Ursprüngliches Dokumentationspaket: 19.10.2026; für dessen Zusammenstellung
+wurden damals keine neuen wissenschaftlichen Messläufe durchgeführt.
+Ergänzung vom 27.10.2026: M9-Pilot und Bestätigung mit vollständigen Rohdaten,
+Audits und Ergebnisbericht.

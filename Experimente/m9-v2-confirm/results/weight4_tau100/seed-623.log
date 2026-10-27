@@ -1,0 +1,3 @@
+M9_COMPLETED weight4_tau100 seed 623
+    Finished `release` profile [optimized] target(s) in 0.02s
+     Running `NERVA_Modell/Experimente/target/release/nerva-m9 --config Messungen/Experimente/m9-v2-confirm/configs/weight4_tau100/seed-623.json --output Messungen/Experimente/m9-v2-confirm/results/weight4_tau100/seed-623.json`

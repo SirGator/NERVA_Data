@@ -13,12 +13,22 @@ historischer Abbruchlauf geführt. Diese Ordner sind keine zusätzlichen Bestät
 
 ## Schneller Einstieg
 
-- [M8: jüngster dokumentierter Parameterscan](m8-confirm/summary.md)
+- [M9: Kombination und Gewichtskausalität auf 20 neuen Seeds](m9-v2-confirm/summary.md)
+- [M8: getrennter Parameterscan](m8-confirm/summary.md)
 - [M7: Gewichte und Weiterleitung](m7-synapse-audit/summary.md)
 - [M6: separate Core-Kontrolle](m6-core-control/summary.md)
 - [M4: 20 Bedingungen auf zehn neuen Seeds](m4-confirm/summary.md)
 
 ## Vollständiger Bestand
+
+**Ergänzung vom 27.10.2026:** M9-v2 ist vollständig ausgeführt und auditiert:
+[Pilot](m9-v2-pilot/summary.md), zwölf Fälle auf drei Seeds;
+[Bestätigung](m9-v2-confirm/summary.md), 80 Fälle auf 20 neuen Seeds mit
+Gewichtsrücksetzungen. [Ergebnis: kein funktionaler Lernnachweis](../M9_EXPERIMENT.md). Der technische
+[M9-v2-Kurzlauf](m9-v2-smoke/summary.md) ist eine Softwareprüfung mit kleinen
+Trialzahlen. Die frühere v1-Planung ([Pilot](m9-pilot/README.md),
+[Bestätigung](m9-confirm/README.md)) und ihr technischer
+[Kurzlauf](m9-smoke/summary.md) bleiben als ältere Revision erhalten.
 
 Dateizahlen und Größen beschreiben die vorhandenen Laufdateien bei der
 Zusammenstellung am 19.10.2026. Größen sind Dezimal-MB, gerundet. Die Einordnung

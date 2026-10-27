@@ -23,6 +23,14 @@ Python-Cachedateien und interne Git-Metadaten sind ausgenommen.
 
 ## Enthaltene Unterlagen
 
+Ergänzung vom **27.10.2026**: M9-v2 ist mit zwölf Pilotfällen und 80 Fällen auf
+20 neuen Bestätigungsseeds vollständig ausgeführt und auditiert. Der
+[Abschlussbericht](M9_EXPERIMENT.md), Rohdaten, Gewichtsinterventionen,
+Prüfnachweise und der [Forschungsfahrplan](Dokumentation/FORSCHUNGSPLAN.md) sind
+enthalten. Frühere v1-Pläne und technische Kurzläufe bleiben getrennt erhalten.
+Die Paketprüfsummen umfassen auch diese Ergänzungen; Python-Caches bleiben
+ausgeschlossen. Keine M9-Bedingung erfüllt die primären Lernkriterien.
+
 - Projektüberblick, Ergebnisübersicht, Methodikerklärung und Datenhandbuch.
 - Elf ausführliche Berichte: rekurrenter Core, Retention, Agency, Sensorimotorik,
   M3 bis M8 sowie die frühere serielle Demo.

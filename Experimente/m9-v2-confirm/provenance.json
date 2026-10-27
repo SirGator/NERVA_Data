@@ -1,0 +1,28 @@
+{
+  "protocol": "NERVA-M9-v2",
+  "date": "2026-10-27",
+  "stage": "confirm",
+  "capture_phase": "pilot running; confirmation not yet started",
+  "command": "python3 NERVA_Modell/Experimente/m9/run.py run --stage confirm --jobs 4 --output Messungen/Experimente/m9-v2-confirm",
+  "manifest_sha256": "4d45b29c4dac556c0d3baacd45e9ac9d950dfa8800719ff59517c08dff4a4b36",
+  "source_sha256": {
+    "NERVA_Modell/Experimente/m9/run.py": "ecdb2171dc7af6a410f9b85948dde558ebe5502b9425f126be8eede380e93a80",
+    "NERVA_Modell/Experimente/m9/weight_resets.py": "2afb6bf9559d26902f0f88ad56059d39a20546c434878fb9e963eb1c415cabc4",
+    "NERVA_Modell/Experimente/m8/run.py": "b49c9e9aa424785060faf34bf65eecf400ef59c4d7b9bb7af27896a6755f31ec",
+    "NERVA_Modell/Experimente/m6/run.py": "e836a59413c9722dbcf567b38d7d28b986a558352d7c431ba0d5369bb0b19bd8",
+    "NERVA_Modell/Experimente/src/m9.rs": "efaa88a225110c3dec703c8d338ee1de419c7ae655d5efe2e7c0a85e6b87fd23",
+    "NERVA_Modell/Experimente/src/m9_main.rs": "9b9cc822bce91a42a947b56bb67fb800d48f4b08b00a4e319e72cae2b6ed25ce",
+    "NERVA_Modell/Experimente/src/m8.rs": "a3caf0de4693dbbf385b605f4cd835147db4dee41e8d993b5f86fc4a53f38366",
+    "NERVA_Modell/Modell/src/m6.rs": "73957561a5e0a15bf2b51d7c3806004c1bc793def2176364d7ff58847b4b0970",
+    "NERVA_Modell/Modell/src/m6/weight_resets.rs": "044c066d96f3c082cc50f9feaeda9306d9a319c3d6179ad1dbdf3cbcc7fc98cc",
+    "NERVA_Modell/Modell/src/readout.rs": "0dea78843482b04701c15d60fc14d2254e084dd1e9c3d11478b0df563cc8fa18",
+    "NERVA_Modell/Modell/src/model.rs": "7652413dcde764ff1ec6a8ad19ac0ef43e5a6548071373be5ada4670aec127f4",
+    "NERVA_Modell/Modell/src/model/config.rs": "5b374056572711ba7dddfb9f8fb7caa050180c78505239b264c7f06e8359e0d5",
+    "NERVA_Modell/Modell/src/model/topology.rs": "ef5c4e348aba8fffa1b9c453cf17a82d9f852a5f8021450883f29fad75136aef",
+    "NERVA/src/learning/pair_stdp.rs": "478a43ed8716cc8bb35ccbf5dda02656eea11ca3b6fe7d2e90f99673c677bfa5",
+    "NERVA_Modell/Experimente/Cargo.lock": "27dc1d0b158bbd1e997994899166af207fafb4922cfb5f59a6c39c537e868db0"
+  },
+  "binary_sha256": "2130071f830f3328c05298beda2b95ca96ccd4e542ebb76afc988044bec3dd03",
+  "rustc": "rustc 1.98.1 (48a229cea 2026-09-01)",
+  "python": "Python 3.12.3"
+}

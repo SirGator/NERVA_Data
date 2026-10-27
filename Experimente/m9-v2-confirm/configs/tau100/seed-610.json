@@ -1,0 +1,12 @@
+{
+  "calibration_trials": 128,
+  "case_id": "tau100",
+  "condition": {
+    "core_weight_scale": 1,
+    "stdp_tau_us": 100000
+  },
+  "protocol": "NERVA-M9-v2",
+  "seed": 610,
+  "test_trials": 128,
+  "train_trials": 256
+}

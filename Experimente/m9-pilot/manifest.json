@@ -1,0 +1,104 @@
+{
+  "conditions": [
+    {
+      "calibration_trials": 128,
+      "case_id": "reference",
+      "condition": {
+        "core_weight_scale": 1,
+        "stdp_tau_us": 20000
+      },
+      "protocol": "NERVA-M9-v1",
+      "seed": 0,
+      "test_trials": 128,
+      "train_trials": 256
+    },
+    {
+      "calibration_trials": 128,
+      "case_id": "weight4",
+      "condition": {
+        "core_weight_scale": 4,
+        "stdp_tau_us": 20000
+      },
+      "protocol": "NERVA-M9-v1",
+      "seed": 0,
+      "test_trials": 128,
+      "train_trials": 256
+    },
+    {
+      "calibration_trials": 128,
+      "case_id": "tau100",
+      "condition": {
+        "core_weight_scale": 1,
+        "stdp_tau_us": 100000
+      },
+      "protocol": "NERVA-M9-v1",
+      "seed": 0,
+      "test_trials": 128,
+      "train_trials": 256
+    },
+    {
+      "calibration_trials": 128,
+      "case_id": "weight4_tau100",
+      "condition": {
+        "core_weight_scale": 4,
+        "stdp_tau_us": 100000
+      },
+      "protocol": "NERVA-M9-v1",
+      "seed": 0,
+      "test_trials": 128,
+      "train_trials": 256
+    }
+  ],
+  "preregistration": {
+    "checkpoint": "Two separate exact A/D replays per mapping/seed; independent 2s neutral rest; no parent calibration",
+    "controls": [
+      "before",
+      "aged_frozen",
+      "paired",
+      "scrambled"
+    ],
+    "date": "2026-10-27",
+    "design": "Fixed 2x2; all four conditions carried unchanged from pilot to fresh confirmation",
+    "factorial": "Descriptive seed-paired combination-minus-reference/singles and interaction Y11-Y10-Y01+Y00, separately per mapping and primary endpoint; raw paired accuracy and learning advantages over each control",
+    "fixed": "effect_2ch/32, deterministic encoding, three copies at weight0.9, Core tau20ms, action/effect50ms; homeostasis/development off",
+    "hypothesis": "Combined recurrent propagation and longer timing sensitivity may enable learned action-effect prediction",
+    "limits": "Extra spikes, weight alignment, or descriptive interaction alone are not learning; smoke/pilot cannot confirm; no parameter tuning or condition selection",
+    "mappings": [
+      "normal_mapping",
+      "reversed_mapping"
+    ],
+    "multiplicity": {
+      "alpha": 0.00625,
+      "family_size": 8,
+      "rule": "Every required one-sided exact paired sign test must pass; ties omitted; Bonferroni over four conditions x two endpoints"
+    },
+    "no_copy": "Independent neutral-frame replay without action copies at both primary checkpoints",
+    "primary": [
+      "checkpoint_probe",
+      "rest_checkpoint_probe"
+    ],
+    "rate_gain": "Same baseline reference gain per seed; no renormalization per condition",
+    "recurrence": "Scale all initial Core->Core weights, excitatory and inhibitory, by 1 or 4; endpoints and delays fixed",
+    "secondary": [
+      "128 online trials and first16",
+      "sequential retention/interference",
+      "time-bin readout"
+    ],
+    "stdp": "Existing nearest-pair rule: both plus/minus tau20 or100ms, a_plus0.0001/a_minus0.00012, pair window100ms, weights0..2",
+    "success": "At least ten seeds; visual >=80% in each mapping; count prediction above chance and all controls in both mappings; flip/dual-correct above all controls; all lower paired bootstrap95 bounds positive",
+    "weights": "Initial and trained visual weight sums and retained fraction, per seed/arm; monitor possible LTD cost"
+  },
+  "protocol": "NERVA-M9-v1",
+  "scientific_run": true,
+  "seeds": [
+    600,
+    601,
+    602
+  ],
+  "stage": "pilot",
+  "trial_counts": [
+    256,
+    128,
+    128
+  ]
+}
