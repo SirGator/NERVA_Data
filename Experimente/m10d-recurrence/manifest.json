@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-27",
+  "definition": {
+    "arms": [
+      "before",
+      "aged_frozen",
+      "paired",
+      "scrambled"
+    ],
+    "case": "weight4_tau100",
+    "gate": "Disable selected Core-to-Core edges and cancel their in-flight arrivals immediately after identical baseline, before action; dispose branch after forecast",
+    "inference": "All variants and controls; seed-paired per mapping/checkpoint descriptive bootstrap, 4000 resamples seed1234, no learning/significance gate",
+    "limits": "Pair rank is not an independent single-action forecast; motor and non-Core feedback remain; no inference that a permanent block improves learning",
+    "mappings": [
+      "normal_mapping",
+      "reversed_mapping"
+    ],
+    "metrics": [
+      "raw_accuracy",
+      "pair_rank_accuracy",
+      "signed_effect_contrast",
+      "mean_spikes",
+      "mean_active_cells",
+      "max_spikes_one_cell",
+      "changed_count_windows",
+      "changed_predictions"
+    ],
+    "preserved": "Frozen weights, cellular state and clock at intervention; same visual count decoder, nine action-copy arrivals; all other pathways intact",
+    "stages": [
+      "checkpoint_probe",
+      "rest_checkpoint_probe"
+    ],
+    "status": "Diagnostic intervention on known M9 checkpoints, not fresh confirmation",
+    "variants": [
+      "sham",
+      "block_exc",
+      "block_inh",
+      "block_both"
+    ],
+    "voltage_tolerance": 2e-05
+  },
+  "inputs": {
+    "results/weight4_tau100/seed-610.json": "66c4e05a05a8f872ef9ea9f57f0dc13db15b0d5aefda8ce224a7e7d95582cc07",
+    "results/weight4_tau100/seed-611.json": "8f76f71377eb75e9b0d4d40a50cf6d7f162b619e88ef54105587c22a1b2abe9c",
+    "results/weight4_tau100/seed-612.json": "73ecb22af48e9c0e25c239b409c1017c0155fc1ee5d095911589917634acc63c",
+    "results/weight4_tau100/seed-613.json": "c225977255e1a3df07b078e605077bf3ed48989615bc60a6bb597f601c78a640",
+    "results/weight4_tau100/seed-614.json": "d28679fb0f95daaab52fb19b7e8f009aeefe9b2b99349e1ed27833e5a6377360",
+    "results/weight4_tau100/seed-615.json": "560a062ad61ceb08e8251feadecaad5970c7fb6cf9348c0e8927642e7ef54c61",
+    "results/weight4_tau100/seed-616.json": "6667d646b10718d638f4a0de838ae95c20b3b496e3edbf3e1a904941147288ef",
+    "results/weight4_tau100/seed-617.json": "5e1454843ef8a85be96bf2daa92d1195e89fc0823350902fdbb9255fabab3407",
+    "results/weight4_tau100/seed-618.json": "49be8283d6769efba56d95ad940566a1a5231279649f70c51cd31873df6b7653",
+    "results/weight4_tau100/seed-619.json": "4cbff02c5586f6dd4347f158472d2d3ada9ee911eb9b79b534ae4d471575d27e",
+    "results/weight4_tau100/seed-620.json": "88586dce7cb3bd067bc99d8f0bc36dd400365196bbcea53ed50b3a59f252f76a",
+    "results/weight4_tau100/seed-621.json": "bacc63741e3fdb5f49ef2f860912d2202aeb66bfb20494b6ca65d7884ae899bb",
+    "results/weight4_tau100/seed-622.json": "101507730f9b3890a4bd9263b24cce23903bff011e0f4ff5cc0ab2b764af8d1a",
+    "results/weight4_tau100/seed-623.json": "cffefeb5d5731ee413f1058799d8cc7efe442dc92a124369b2da1906b72e57ca",
+    "results/weight4_tau100/seed-624.json": "97b7f83ac79bed446e3cb229ceb1d57b0cff4462c951f4b66e4bf4d8466a8f4c",
+    "results/weight4_tau100/seed-625.json": "5fec31b9cfd6d464fee7e9119d139a11dc6459872508ec28a8d2300f7903e898",
+    "results/weight4_tau100/seed-626.json": "008157b2adda94f48b7ea137d23a2bd7d3d3e0191d8d15e1089fc7cebe5d4c30",
+    "results/weight4_tau100/seed-627.json": "da864a8ff49725d19a95396122cad59abb6a7d0af7639c09e2ddd8a534437155",
+    "results/weight4_tau100/seed-628.json": "205a0d05c207609b9b60379469e8936e70bfe194161e1788ceb65bc10fb2c97d",
+    "results/weight4_tau100/seed-629.json": "d64b05a7240c931af45b8985cd6aba7dd80e87a6c115c4aa5e7654185a9c964f"
+  },
+  "protocol": "NERVA-M10D-v1",
+  "seeds": [
+    610,
+    611,
+    612,
+    613,
+    614,
+    615,
+    616,
+    617,
+    618,
+    619,
+    620,
+    621,
+    622,
+    623,
+    624,
+    625,
+    626,
+    627,
+    628,
+    629
+  ],
+  "source": "../m9-v2-confirm",
+  "source_manifest_sha256": "4d45b29c4dac556c0d3baacd45e9ac9d950dfa8800719ff59517c08dff4a4b36",
+  "stage": "diagnostic",
+  "trial_counts": [
+    256,
+    128,
+    128
+  ]
+}

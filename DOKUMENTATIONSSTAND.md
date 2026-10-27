@@ -12,6 +12,42 @@ gespeicherten Ergebnisse zusammen. Sie ergänzen keine ungemessenen
 Leistungsbehauptungen. Insbesondere bleiben Pilot, Bestätigung, Ursachenanalyse
 und reine Softwareprüfungen unterscheidbar.
 
+## Planung vom 28.10.2026
+
+Die Diagnosephase M10 ist mit M10-E abgeschlossen. Weitere M10-Zusatzversuche
+sind vorerst zurückgestellt. M11 ist als begrenzter Vergleich mit synaptischer
+Konkurrenz vorgeschlagen, noch ohne Implementierung oder Messlauf. Diese
+Planungsaktualisierung ändert keine historischen Ergebnisse.
+
+## Ergänzung vom 27.10.2026: M10
+
+[M10-E](M10E_EXPERIMENT.md) kombiniert Core-Gewichtsrücksetzung und vier
+Rekurrenzsperren auf den bekannten 20 Seeds. Die Rücksetzung erfolgt diesmal
+nach der Baseline, damit alle Aktionsproben mit gleichem Zellzustand beginnen.
+Neue Probeäste, alte Originalergebnisse und ein getrennter technischer Pilot
+sind enthalten; die Diagnose ist keine unabhängige Bestätigung.
+
+[M10-D](M10D_EXPERIMENT.md) ergänzt neue kontrollierte Übertragungsproben auf
+den bekannten 20 M9-Kombinationsseeds. Erregung und Hemmung werden einzeln oder
+gemeinsam erst nach der Baseline blockiert; Aktionskopien und feste Ausleser
+bleiben erhalten. Der technische Pilot ist getrennt archiviert. Die neuen
+Proben sind keine unabhängige Bestätigung und verändern die Originaldaten nicht.
+
+[M10-C](M10C_EXPERIMENT.md) zerlegt vorhandene Eingangsbeiträge nach Quelle,
+Refraktärfilter, Leck und Resetverlust. 1.920 Aktionsfenster sind rekonstruiert;
+Gruppen- und Einzelkantensummen sowie die M10-B-Spikeprojektion werden geprüft.
+Es gab keine neue neuronale Simulation und keinen Ausleserfit.
+
+Die weitere [M10-B-Zusatzdiagnose](M10B_EXPERIMENT.md) trennt gemeinsamen
+Projektionsbias und Wirkungsausrichtung anhand der vorhandenen visuellen
+Kalibrierparameter. Sie umfasst alle 80 M9-Quellfälle, keine neue Simulation
+und keinen neuen Ausleserfit. Quelldaten bleiben unverändert.
+
+Die [M10-Signalwegdiagnose](M10_EXPERIMENT.md) ergänzt die retrospektive
+Auswertung der 80 M9-Fälle und passive Replays der Kombination auf denselben
+20 Seeds. Neue Phasentraces und unabhängige Ereignis-/Spannungsprüfungen sind
+enthalten; die ursprünglichen Messdaten bleiben unverändert.
+
 ## Ergänzung vom 22.10.2026
 
 Das Paket enthält jetzt eine eigenständige lokale Archiv-GUI unter

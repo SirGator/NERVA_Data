@@ -1,0 +1,13 @@
+{
+  "action_label_fits": 0,
+  "degenerate_axes": 0,
+  "epsilon": 1e-12,
+  "neural_runs": 0,
+  "original_accuracy_reproduced": true,
+  "original_predictions_reconstructed": true,
+  "pairs": 3840,
+  "protocol": "NERVA-M10B-v1",
+  "retrospective": true,
+  "source_files": 80,
+  "source_hashes_preserved": true
+}

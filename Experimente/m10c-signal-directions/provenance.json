@@ -1,0 +1,13 @@
+{
+  "protocol": "NERVA-M10C-v1",
+  "date": "2026-10-27",
+  "method": "Retrospective analysis, source and analysis hashes recorded before full evaluation",
+  "new_neural_runs": 0,
+  "new_decoder_fits": 0,
+  "files": {
+    "NERVA_Modell/Experimente/m10c/core.py": "07228fd72a34a7583b6dc67c48e2871270109aae95bbaa812be1f7279e2c0116",
+    "NERVA_Modell/Experimente/m10c/run.py": "bf371aa6c7aa061531443968b04f33e1d60cf6c6b1359f47059a1de853aa2b81",
+    "NERVA_Modell/Experimente/m10c/tests/test_m10c.py": "391707f19bba834d6d2a6348756353a77216d0935f22e80a59b3b83aac8b4874",
+    "Messungen/Experimente/m10c-signal-directions/manifest.json": "055ef35da030fd9d1ca69352fc242fea6de1607b423f7a2dbeafb7e9a54bc6b4"
+  }
+}

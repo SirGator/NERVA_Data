@@ -1,0 +1,12 @@
+{
+  "protocol": "NERVA-M10B-v1",
+  "date": "2026-10-27",
+  "manifest_sha256": "50406794d26d7954e4fff4bb0f9f714675995338d7d4e2f794d924c349848da0",
+  "sources": {
+    "NERVA_Modell/Experimente/m10b/core.py": "fa44633c7b7d21a61b93dadc2c0b6aa0f92da89d5c68de88140e2e429857a595",
+    "NERVA_Modell/Experimente/m10b/run.py": "049debeec27e277b4ff0323c846b33e6430f2a0419e4387c14a824fa5e0798f2"
+  },
+  "command": "python3 NERVA_Modell/Experimente/m10b/run.py run --source Messungen/Experimente/m9-v2-confirm --output Messungen/Experimente/m10b-alignment",
+  "neural_runs": 0,
+  "action_label_fits": 0
+}

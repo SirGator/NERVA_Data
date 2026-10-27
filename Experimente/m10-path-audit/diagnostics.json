@@ -1,0 +1,153 @@
+{
+  "action_pairs": 1280,
+  "comparisons": 5120,
+  "events": 275520,
+  "mapping_weights": 320,
+  "phases": 7680,
+  "protocol": "NERVA-M10-v1",
+  "replay_audits": [
+    {
+      "events": 29256,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 610
+    },
+    {
+      "events": 6798,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 611
+    },
+    {
+      "events": 12579,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 612
+    },
+    {
+      "events": 14645,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 613
+    },
+    {
+      "events": 6561,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 614
+    },
+    {
+      "events": 17454,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 615
+    },
+    {
+      "events": 10549,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 616
+    },
+    {
+      "events": 4962,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 617
+    },
+    {
+      "events": 42678,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 618
+    },
+    {
+      "events": 8692,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 619
+    },
+    {
+      "events": 18744,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 620
+    },
+    {
+      "events": 5418,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 621
+    },
+    {
+      "events": 16476,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 622
+    },
+    {
+      "events": 5295,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 623
+    },
+    {
+      "events": 3420,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 624
+    },
+    {
+      "events": 9042,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 625
+    },
+    {
+      "events": 24943,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 626
+    },
+    {
+      "events": 17478,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 627
+    },
+    {
+      "events": 10494,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 628
+    },
+    {
+      "events": 10036,
+      "historical_csv_byte_equal": true,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 629
+    }
+  ],
+  "retrospective": true,
+  "source_files": 80,
+  "source_hashes_preserved": true
+}

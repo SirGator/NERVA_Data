@@ -1,0 +1,31 @@
+{
+  "all_trained_branches_reproduce_m10d": true,
+  "events": 24576,
+  "independent_confirmation": false,
+  "known_seed_replays": 1,
+  "maximum_voltage_error": 1.592883678291912e-07,
+  "negative_control_windows": 96,
+  "new_decoder_fits": 0,
+  "new_training_rules": 0,
+  "original_parent_reproduced": true,
+  "pairs": 128,
+  "phases": 1024,
+  "protocol": "NERVA-M10E-v1",
+  "replay_audits": [
+    {
+      "all_trained_branches_reproduce_m10d": true,
+      "cancelled_arrivals": 0,
+      "events": 24576,
+      "historical_csv_byte_equal": true,
+      "maximum_voltage_error": 1.592883678291912e-07,
+      "negative_control_windows": 96,
+      "original_parent_reproduced": true,
+      "phases": 1024,
+      "seed": 692,
+      "windows": 256
+    }
+  ],
+  "source_hashes_preserved": true,
+  "stage": "smoke",
+  "windows": 256
+}

@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-27",
+  "definition": {
+    "arms": [
+      "before",
+      "aged_frozen",
+      "paired",
+      "scrambled"
+    ],
+    "difference_from_m10": "Earlier reset was before baseline; these reset branches are not direct replicas of earlier reset branches",
+    "gates": [
+      "sham",
+      "block_exc",
+      "block_inh",
+      "block_both"
+    ],
+    "inference": "Descriptive seed-paired bootstrap, 4000 resamples seed1234, per mapping/stage; no learning/significance gate",
+    "interaction": "weight effect under a gate minus weight effect under sham; paired/control weight-effect contrasts",
+    "intervention": "Core weights restored after identical neutral baseline, then gates applied immediately before action",
+    "mappings": [
+      "normal_mapping",
+      "reversed_mapping"
+    ],
+    "metrics": [
+      "raw_accuracy",
+      "pair_rank_accuracy",
+      "signed_effect_contrast",
+      "mean_spikes",
+      "correct_margin",
+      "count_l1",
+      "events_changed",
+      "prediction_changed",
+      "voltage_linf"
+    ],
+    "negative_control": "If every changed edge is blocked, action traces must be identical between weight states",
+    "stages": [
+      "checkpoint_probe",
+      "rest_checkpoint_probe"
+    ],
+    "state": "Same cellular/refractory state and fixed visual count decoder; unblocked pending inputs retain emission amplitude; other pathways remain",
+    "status": "Exploratory crossed intervention on known M9 seeds; not fresh confirmation",
+    "validation": "Original M9 result and CSVs unchanged; all four trained branches reproduce archived M10-D; neutral LIF tolerance2e-5",
+    "weight_effect": "trained minus reset_core, same gate/seed/arm/mapping/stage",
+    "weights": [
+      "trained",
+      "reset_core"
+    ]
+  },
+  "inputs": {
+    "results/weight4_tau100/seed-692.json": "10af9c260f95fb988656b58dbab1444d05b48e527d53a932a9a8fc73563b08ef"
+  },
+  "protocol": "NERVA-M10E-v1",
+  "recurrence_manifest_sha256": "ce25dbe7c7d86acc61b933e26268191a24eea9c319b7c9a73ed797382f0ee6ec",
+  "recurrence_source": "../m10d-smoke",
+  "recurrence_traces": {
+    "traces/seed-692.json": "d98cd156817aaee2295c426b99d9302e688b84368ce2e9ff7f573b8fcedb26bf"
+  },
+  "seeds": [
+    692
+  ],
+  "source": "../m9-v2-smoke",
+  "source_manifest_sha256": "dd501b7f6df15c87bcaf0fc159e2a934c54db85039176c3c1980089aa6cc466a",
+  "stage": "smoke",
+  "trial_counts": [
+    8,
+    8,
+    8
+  ]
+}

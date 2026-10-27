@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-27",
+  "definition": {
+    "arms": [
+      "before",
+      "aged_frozen",
+      "paired",
+      "scrambled"
+    ],
+    "case": "weight4_tau100",
+    "gate": "Disable selected Core-to-Core edges and cancel their in-flight arrivals immediately after identical baseline, before action; dispose branch after forecast",
+    "inference": "All variants and controls; seed-paired per mapping/checkpoint descriptive bootstrap, 4000 resamples seed1234, no learning/significance gate",
+    "limits": "Pair rank is not an independent single-action forecast; motor and non-Core feedback remain; no inference that a permanent block improves learning",
+    "mappings": [
+      "normal_mapping",
+      "reversed_mapping"
+    ],
+    "metrics": [
+      "raw_accuracy",
+      "pair_rank_accuracy",
+      "signed_effect_contrast",
+      "mean_spikes",
+      "mean_active_cells",
+      "max_spikes_one_cell",
+      "changed_count_windows",
+      "changed_predictions"
+    ],
+    "preserved": "Frozen weights, cellular state and clock at intervention; same visual count decoder, nine action-copy arrivals; all other pathways intact",
+    "stages": [
+      "checkpoint_probe",
+      "rest_checkpoint_probe"
+    ],
+    "status": "Diagnostic intervention on known M9 checkpoints, not fresh confirmation",
+    "variants": [
+      "sham",
+      "block_exc",
+      "block_inh",
+      "block_both"
+    ],
+    "voltage_tolerance": 2e-05
+  },
+  "inputs": {
+    "results/weight4_tau100/seed-692.json": "10af9c260f95fb988656b58dbab1444d05b48e527d53a932a9a8fc73563b08ef"
+  },
+  "protocol": "NERVA-M10D-v1",
+  "seeds": [
+    692
+  ],
+  "source": "../m9-v2-smoke",
+  "source_manifest_sha256": "dd501b7f6df15c87bcaf0fc159e2a934c54db85039176c3c1980089aa6cc466a",
+  "stage": "smoke",
+  "trial_counts": [
+    8,
+    8,
+    8
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-27",
+  "definition": {
+    "arms": [
+      "before",
+      "aged_frozen",
+      "paired",
+      "scrambled"
+    ],
+    "difference_from_m10": "Earlier reset was before baseline; these reset branches are not direct replicas of earlier reset branches",
+    "gates": [
+      "sham",
+      "block_exc",
+      "block_inh",
+      "block_both"
+    ],
+    "inference": "Descriptive seed-paired bootstrap, 4000 resamples seed1234, per mapping/stage; no learning/significance gate",
+    "interaction": "weight effect under a gate minus weight effect under sham; paired/control weight-effect contrasts",
+    "intervention": "Core weights restored after identical neutral baseline, then gates applied immediately before action",
+    "mappings": [
+      "normal_mapping",
+      "reversed_mapping"
+    ],
+    "metrics": [
+      "raw_accuracy",
+      "pair_rank_accuracy",
+      "signed_effect_contrast",
+      "mean_spikes",
+      "correct_margin",
+      "count_l1",
+      "events_changed",
+      "prediction_changed",
+      "voltage_linf"
+    ],
+    "negative_control": "If every changed edge is blocked, action traces must be identical between weight states",
+    "stages": [
+      "checkpoint_probe",
+      "rest_checkpoint_probe"
+    ],
+    "state": "Same cellular/refractory state and fixed visual count decoder; unblocked pending inputs retain emission amplitude; other pathways remain",
+    "status": "Exploratory crossed intervention on known M9 seeds; not fresh confirmation",
+    "validation": "Original M9 result and CSVs unchanged; all four trained branches reproduce archived M10-D; neutral LIF tolerance2e-5",
+    "weight_effect": "trained minus reset_core, same gate/seed/arm/mapping/stage",
+    "weights": [
+      "trained",
+      "reset_core"
+    ]
+  },
+  "inputs": {
+    "results/weight4_tau100/seed-610.json": "66c4e05a05a8f872ef9ea9f57f0dc13db15b0d5aefda8ce224a7e7d95582cc07",
+    "results/weight4_tau100/seed-611.json": "8f76f71377eb75e9b0d4d40a50cf6d7f162b619e88ef54105587c22a1b2abe9c",
+    "results/weight4_tau100/seed-612.json": "73ecb22af48e9c0e25c239b409c1017c0155fc1ee5d095911589917634acc63c",
+    "results/weight4_tau100/seed-613.json": "c225977255e1a3df07b078e605077bf3ed48989615bc60a6bb597f601c78a640",
+    "results/weight4_tau100/seed-614.json": "d28679fb0f95daaab52fb19b7e8f009aeefe9b2b99349e1ed27833e5a6377360",
+    "results/weight4_tau100/seed-615.json": "560a062ad61ceb08e8251feadecaad5970c7fb6cf9348c0e8927642e7ef54c61",
+    "results/weight4_tau100/seed-616.json": "6667d646b10718d638f4a0de838ae95c20b3b496e3edbf3e1a904941147288ef",
+    "results/weight4_tau100/seed-617.json": "5e1454843ef8a85be96bf2daa92d1195e89fc0823350902fdbb9255fabab3407",
+    "results/weight4_tau100/seed-618.json": "49be8283d6769efba56d95ad940566a1a5231279649f70c51cd31873df6b7653",
+    "results/weight4_tau100/seed-619.json": "4cbff02c5586f6dd4347f158472d2d3ada9ee911eb9b79b534ae4d471575d27e",
+    "results/weight4_tau100/seed-620.json": "88586dce7cb3bd067bc99d8f0bc36dd400365196bbcea53ed50b3a59f252f76a",
+    "results/weight4_tau100/seed-621.json": "bacc63741e3fdb5f49ef2f860912d2202aeb66bfb20494b6ca65d7884ae899bb",
+    "results/weight4_tau100/seed-622.json": "101507730f9b3890a4bd9263b24cce23903bff011e0f4ff5cc0ab2b764af8d1a",
+    "results/weight4_tau100/seed-623.json": "cffefeb5d5731ee413f1058799d8cc7efe442dc92a124369b2da1906b72e57ca",
+    "results/weight4_tau100/seed-624.json": "97b7f83ac79bed446e3cb229ceb1d57b0cff4462c951f4b66e4bf4d8466a8f4c",
+    "results/weight4_tau100/seed-625.json": "5fec31b9cfd6d464fee7e9119d139a11dc6459872508ec28a8d2300f7903e898",
+    "results/weight4_tau100/seed-626.json": "008157b2adda94f48b7ea137d23a2bd7d3d3e0191d8d15e1089fc7cebe5d4c30",
+    "results/weight4_tau100/seed-627.json": "da864a8ff49725d19a95396122cad59abb6a7d0af7639c09e2ddd8a534437155",
+    "results/weight4_tau100/seed-628.json": "205a0d05c207609b9b60379469e8936e70bfe194161e1788ceb65bc10fb2c97d",
+    "results/weight4_tau100/seed-629.json": "d64b05a7240c931af45b8985cd6aba7dd80e87a6c115c4aa5e7654185a9c964f"
+  },
+  "protocol": "NERVA-M10E-v1",
+  "recurrence_manifest_sha256": "065b4a3e54e128e97a49ceacbad708919f2e286f32ddf4b5167c8b2e8485236c",
+  "recurrence_source": "../m10d-recurrence",
+  "recurrence_traces": {
+    "traces/seed-610.json": "131417b43750729c7fb81d47a304ae57ba5cbd74a99d16fffbb1866bd297fdbc",
+    "traces/seed-611.json": "06864d130ea458c4686c816f7faf42893b6d9e7b768f22830860512fd5a5fefb",
+    "traces/seed-612.json": "05323830a931e563e17c43c2626bf8d5255df4769dd777498d84501493f7066d",
+    "traces/seed-613.json": "45678ab4c5a6661349ad69f3fe8b172ccdd211855ba952904b9672f95200860b",
+    "traces/seed-614.json": "0ad44e2e41a4f0925339426929e52dcc51b09571e89ad79cfb3637d3a81aa5f3",
+    "traces/seed-615.json": "b03e0b4085a38a77fc4592d3fbd7c8025850472909abe5c76a511089a51dd1a4",
+    "traces/seed-616.json": "dd23eb5e84f7808e59e658ad7e8b302e3b57ef00d6ab0b4c54686a4bc6fd6e83",
+    "traces/seed-617.json": "bf5d5c3535fd418a99a0233b0f6d4d8215823a7faeedb8137704c8861bfe877a",
+    "traces/seed-618.json": "71cfbe96c87bd68db5352b474bf33d822e22b1b596518a7b3b412c46091d8611",
+    "traces/seed-619.json": "4f2c0ba2108d2540613050ff9c8d8f12688f302cbc1822f89803b3ae69cd8ef7",
+    "traces/seed-620.json": "67c9dcba102e53a2a882e5e4985070ef1952c78dc302415aa93fe79e12440bcd",
+    "traces/seed-621.json": "20b3d7bd2d943b7c1fbc1adace1517f16f3d8a500632b5388e0c1651a70f9419",
+    "traces/seed-622.json": "0869ae3f929dbc274e3c3a48c51ffd871530f809bb16cdee846c7504b8e6b5ee",
+    "traces/seed-623.json": "eae97ec30846024d5e0d77bc655ec0f9d4ffd9496bb71bd4fe579d6a6d297e4e",
+    "traces/seed-624.json": "25c67bb5f817c8f864965e4a941ba82b4e8a074b1f6ac40e2dc5b2f1165642db",
+    "traces/seed-625.json": "75507783d3b69e74b79ff74ce1104dfb3b3960b26b8a47125e9d7bcbdf24d2e0",
+    "traces/seed-626.json": "0aea582ee4da688c3ed481ddeb14bf72cfff86762c33b37b7833b7773fbdc356",
+    "traces/seed-627.json": "2021d4d0692dbd1f0c95679804bcdd5f80922270873407e6a80e3da4dbeafdb7",
+    "traces/seed-628.json": "6cc72c5ade7f6e1d82d95d5e269ae113691d5d6de8c0ab39858f7a7cb81d727d",
+    "traces/seed-629.json": "bdbe58e398e089b52c15b6374201cddceb540590e86f38876b6b2574eca0c38e"
+  },
+  "seeds": [
+    610,
+    611,
+    612,
+    613,
+    614,
+    615,
+    616,
+    617,
+    618,
+    619,
+    620,
+    621,
+    622,
+    623,
+    624,
+    625,
+    626,
+    627,
+    628,
+    629
+  ],
+  "source": "../m9-v2-confirm",
+  "source_manifest_sha256": "4d45b29c4dac556c0d3baacd45e9ac9d950dfa8800719ff59517c08dff4a4b36",
+  "stage": "diagnostic",
+  "trial_counts": [
+    256,
+    128,
+    128
+  ]
+}

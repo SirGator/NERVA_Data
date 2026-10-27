@@ -1,0 +1,30 @@
+{
+  "cancelled_arrivals": 0,
+  "events": 12288,
+  "independent_confirmation": false,
+  "maximum_voltage_error": 1.592883678291912e-07,
+  "new_decoder_fits": 0,
+  "new_seed_replays": 1,
+  "new_training_rules": 0,
+  "original_parent_reproduced": true,
+  "original_sham_reproduced": true,
+  "pairs": 64,
+  "phases": 512,
+  "protocol": "NERVA-M10D-v1",
+  "replay_audits": [
+    {
+      "cancelled_arrivals": 0,
+      "events": 12288,
+      "historical_csv_byte_equal": true,
+      "maximum_voltage_error": 1.592883678291912e-07,
+      "phases": 512,
+      "reference_reproduced": true,
+      "seed": 692,
+      "sham_reproduced": true,
+      "windows": 128
+    }
+  ],
+  "source_hashes_preserved": true,
+  "stage": "smoke",
+  "windows": 128
+}

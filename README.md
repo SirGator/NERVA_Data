@@ -16,11 +16,37 @@ Strukturentwicklung und zusätzliche rekurrente Aktivität sind gemessen.
 Ein belastbarer funktionaler Nachweis gelernter Handlungswirkungen fehlt in den
 untersuchten Bedingungen weiterhin. Die Forschungsfrage bleibt offen.
 
-**Forschungsplanung vom 27.10.2026:** Der
+**Forschungsplanung vom 28.10.2026:** Der
 [Fahrplan M9–M13](Dokumentation/FORSCHUNGSPLAN.md) priorisiert den kontrollierten
 Nachweis funktionalen Lernens. [M9-v2](M9_EXPERIMENT.md) ist mit
 20 Bestätigungsseeds und Gewichtsrücksetzungen abgeschlossen und liefert keinen
 funktionalen Lernnachweis. Technische Kurzläufe bleiben gesondert markiert.
+M10 ist einschließlich M10-E abgeschlossen. Als nächster begrenzter Lernversuch
+ist M11 mit synaptischer Konkurrenz vorgeschlagen; dafür gibt es noch keinen Lauf.
+
+[M10](M10_EXPERIMENT.md) lokalisiert anschließend auf denselben M9-Seeds den
+Gewichtsbeitrag zu Eingängen, Potenzialen, Spikezählmustern und festen
+Ausleserentscheidungen. Diese retrospektive Diagnose liefert keinen neuen
+unabhängigen Lernnachweis.
+
+[M10-B](M10B_EXPERIMENT.md) prüft die Wirkungsausrichtung auf der vorhandenen
+visuellen Achse. Ein gemeinsamer Projektionsoffset erklärt die schwache
+Vorhersage nicht vollständig; die Paar-Rangfolge bleibt eine reine Diagnose.
+
+[M10-C](M10C_EXPERIMENT.md) rekonstruiert anschließend Eingangsimpulse,
+Refraktärfilter, Leck und Resets. Die unpassende Ausrichtung ist auf der festen
+neuronalen Gewichtung bereits in der Eingangsbilanz sichtbar; die ursprüngliche
+Ursache innerhalb der Rückkopplung bleibt durch gezielte Eingriffe zu prüfen.
+
+[M10-D](M10D_EXPERIMENT.md) blockiert rekurrente Erregung und Hemmung getrennt
+aus identischen eingefrorenen Checkpoints. Weniger Hemmung erhöht die Aktivität,
+liefert aber keinen beidseitigen Vorhersagevorteil. Auch das Entfernen rekurrenter
+Erregung löst den Engpass nicht; die Diagnose nutzt dieselben bekannten Seeds.
+
+[M10-E](M10E_EXPERIMENT.md) kreuzt Core-Gewichtsrücksetzung und vier
+Rekurrenzsperren nach gemeinsamer Baseline. Der Gewichtseinfluss benötigt hier
+rekurrente Erregung; eine stärkere Wirkung ohne Hemmung erzeugt keinen
+zuverlässigen beidseitigen Vorhersagevorteil.
 
 Das Repository heißt `NERVA_Data`. Hinweise zum vollständigen Download mit den
 zwei großen Git-LFS-Dateien stehen unter [Herunterladen](HERUNTERLADEN.md).
@@ -71,6 +97,11 @@ Ihre Datenlinks führen innerhalb dieses Ordners zu den jeweiligen Messläufen.
 | M7: Gewichts- und Synapsendiagnose | [M7](M7_EXPERIMENT.md) |
 | M8: Weiterleitung und Zeitskalen | [M8](M8_EXPERIMENT.md) |
 | M9: Kombination und Gewichtskausalität auf 20 neuen Seeds | [M9](M9_EXPERIMENT.md) |
+| M10: Retrospektive Signalweg- und Ausleserdiagnose | [M10](M10_EXPERIMENT.md) |
+| M10-B: Wirkungsausrichtung und gemeinsamer Decoderbias | [M10-B](M10B_EXPERIMENT.md) |
+| M10-C: Eingangsbilanz, Leck, Refraktärfilter und Resets | [M10-C](M10C_EXPERIMENT.md) |
+| M10-D: Eingriffe in rekurrente Erregung und Hemmung | [M10-D](M10D_EXPERIMENT.md) |
+| M10-E: Core-Gewichtsreset mit Rekurrenzsperren gekreuzt | [M10-E](M10E_EXPERIMENT.md) |
 | Frühere serielle Zuordnungsdemo mit Lehrsignalen | [Serielle Demo](SERIAL_MODEL.md) |
 
 ## Was wo liegt

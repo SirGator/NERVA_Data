@@ -21,6 +21,14 @@ Stufen der Forschungsfrage und werden getrennt bewertet.
 | M7 | STDP erzeugt belegungsabhängige Gewichtsänderungen. Gewichtseingriffe ändern Potenziale, aber keine zusätzlichen Core-Spikes in den untersuchten Aktionsproben. | Erneute Ausführung vorhandener Seeds 400–409; Ursachenanalyse. [Bericht](M7_EXPERIMENT.md) |
 | M8 | Vierfache Core-Gewichte ermöglichen zusätzliche rekurrente Spikes; längere STDP-Zeitskalen verstärken separat Gewichtsspuren. Kein bestätigter funktionaler Vorhersagevorteil. | 13 Bedingungen, Bestätigung auf zehn weiteren Seeds 510–519. [Bericht](M8_EXPERIMENT.md) |
 | M9-v2 | Kombination erreicht sofort 51,25 % und nach Ruhe 50,00 %; weder funktionaler Lernnachweis noch abgesicherter beidseitiger Verlust nach Gewichtsrücksetzung. | Vier Bedingungen, 20 neue Bestätigungsseeds 610–629. [Bericht](M9_EXPERIMENT.md) |
+| M10 | Core-Gewichte beeinflussen in 160/160 gekoppelten Kombinationsproben Eingänge/Potenziale, in 61/160 Spikezählmuster und in 5/160 die feste Entscheidung. | Retrospektive Diagnose und passive Replays auf denselben M9-Seeds; kein neuer Lernnachweis. [Bericht](M10_EXPERIMENT.md) |
+| M10-B | Nach diagnostischer Entfernung des gemeinsamen Projektionsoffsets erreicht die Kombination nur 42,5/45,0 % richtige Paar-Rangfolgen. | Retrospektiv auf derselben visuellen Achse; keine neue Einzelvorhersage oder Bestätigung. [Bericht](M10B_EXPERIMENT.md) |
+
+| M10-C | Bereits die Eingangsprojektion zeigt in 23/40 Paaren je Zeitpunkt in die unpassende Richtung auf der festen Auslesergewichtung; spätere Vorzeichenwechsel sind selten. | Retrospektive Bilanz von 1.920 Aktionsfenstern, konditional auf beobachtete Rückkopplung. [Bericht](M10C_EXPERIMENT.md) |
+
+| M10-D | Ohne Hemmung ungefähr doppelte Aktivität, ohne beidseitigen Vorhersagevorteil; ohne Erregung drei Spikes/Aktion, ebenfalls kein Vorhersagegewinn. | Vier kontrollierte Übertragungsvarianten, identische eingefrorene Zustände, 20 bekannte Seeds; keine neue Bestätigung. [Bericht](M10D_EXPERIMENT.md) |
+
+| M10-E | Core-Reset ändert bei aktiver Rekurrenz 61/160 gekoppelte Spikezählmuster und 5/160 Vorhersagen; ohne Erregung kein Gewichtseinfluss, weiterhin kein zuverlässiger Vorhersagevorteil. | Zwei Gewichtszustände × vier Sperren nach identischer Baseline; 20 bekannte Seeds, keine neue Bestätigung. [Bericht](M10E_EXPERIMENT.md) |
 
 Die serielle Demo mit Lehrneuronen ist als [früher technischer Demonstrator](SERIAL_MODEL.md)
 dokumentiert. Ihr Erfolg wird nicht als Erfolg der späteren Wirkungslerntests gezählt.
@@ -81,9 +89,10 @@ Signale und begrenzte Weiterleitung von Aktionsaktivität. M7 zeigt, dass Erfahr
 in Gewichten Spuren hinterlassen kann. M8 zeigt, dass zusätzliche Weiterleitung
 durch Parameteränderungen erreichbar ist. Die Verbindung dieser Spuren mit einem
 robusten funktionalen Lernvorteil bleibt auch nach dem gezielten M9-Kombinationstest
-auf 20 neuen Seeds offen. Als nächster vorgeschlagener Schritt soll M10 den
-Signalweg und die Auslesung lokalisieren, bevor neue biologische Regeln ergänzt
-werden.
+auf 20 neuen Seeds offen. M10 zeigt inzwischen, dass Gewichtseffekte die Aktivität
+erreichen, aber selten die feste Entscheidung verändern. Wirkungsspezifität und
+Passung zu visuellen Zielmustern bleiben gezielt zu untersuchen, bevor neue
+biologische Regeln ergänzt werden.
 
 Das negative Ergebnis betrifft die dokumentierten Aufgaben, Konfigurationen,
 Prüfzeitpunkte und Auswerter. Es ist kein Nachweis, dass lokale Plastizität

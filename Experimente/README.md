@@ -13,6 +13,18 @@ historischer Abbruchlauf geführt. Diese Ordner sind keine zusätzlichen Bestät
 
 ## Schneller Einstieg
 
+- [M10-E: Core-Gewichte und Rekurrenz gekreuzt](m10e-crossed-weights/summary.md)
+- [M10-E: technischer Pilot](m10e-smoke/README.md)
+
+- [M10-D: Rekurrente Erregung und Hemmung kontrolliert blockieren](m10d-recurrence/summary.md)
+- [M10-D: technischer Pilot](m10d-smoke/README.md)
+
+- [M10-C: Eingangsbilanz, Filterung und Resets](m10c-signal-directions/summary.md)
+
+- [M10-B: Wirkungsausrichtung und gemeinsamer Decoderbias](m10b-alignment/summary.md)
+
+- [M10: retrospektive Signalwegdiagnose auf vorhandenen M9-Seeds](m10-path-audit/summary.md)
+
 - [M9: Kombination und Gewichtskausalität auf 20 neuen Seeds](m9-v2-confirm/summary.md)
 - [M8: getrennter Parameterscan](m8-confirm/summary.md)
 - [M7: Gewichte und Weiterleitung](m7-synapse-audit/summary.md)
@@ -20,6 +32,31 @@ historischer Abbruchlauf geführt. Diese Ordner sind keine zusätzlichen Bestät
 - [M4: 20 Bedingungen auf zehn neuen Seeds](m4-confirm/summary.md)
 
 ## Vollständiger Bestand
+
+[M10-E](m10e-crossed-weights/summary.md) kreuzt Core-Gewichte auf Trainings-
+beziehungsweise Anfangswerten mit vier Rekurrenzsperren auf den bekannten
+20 Seeds. Beide Eingriffe erfolgen nach derselben Baseline vor der Aktion.
+Die trainierten Zweige reproduzieren M10-D; [Pilotdaten](m10e-smoke/README.md)
+bleiben getrennt. Keine neue unabhängige Bestätigung.
+
+[M10-D](m10d-recurrence/summary.md) prüft vier Übertragungsvarianten aus gleichen
+eingefrorenen Checkpoints auf den 20 bekannten Kombinationsseeds. Referenz,
+Erregung blockiert, Hemmung blockiert und beide blockiert werden bei festem
+Ausleser und unveränderten Gewichten verglichen. Der [Pilot](m10d-smoke/README.md)
+ist ein separater technischer Kurzlauf. Keine unabhängige Bestätigung.
+
+[M10-C](m10c-signal-directions/summary.md) ergänzt eine algebraisch und physikalisch
+geprüfte Bilanz von 1.920 Aktionsfenstern der vorhandenen 20 M10-Traces.
+Keine neue Simulation; feste neuronale Auslesergewichte statt neuer Eingangs-
+oder Potenzialklassifikatoren.
+
+[M10-B](m10b-alignment/summary.md) ergänzt die reine retrospektive Auswertung
+der visuellen Wirkungsausrichtung auf allen 80 M9-Quellfällen. Es gibt keine
+neuronalen Läufe und keinen neuen Fit an Aktionslabels.
+
+Die anschließende [M10-Diagnose](m10-path-audit/summary.md) analysiert sämtliche
+80 M9-Quellfälle und ergänzt passive Kombinations-Replays auf denselben 20 Seeds.
+Sie ist vollständig auditiert und keine neue Bestätigungsreihe.
 
 **Ergänzung vom 27.10.2026:** M9-v2 ist vollständig ausgeführt und auditiert:
 [Pilot](m9-v2-pilot/summary.md), zwölf Fälle auf drei Seeds;

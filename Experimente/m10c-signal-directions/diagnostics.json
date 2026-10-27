@@ -1,0 +1,138 @@
+{
+  "edge_rows": 84327,
+  "group_edge_sums_verified": true,
+  "max_voltage_reconstruction_error": 3.2843973041263297e-07,
+  "new_decoder_fits": 0,
+  "new_neural_runs": 0,
+  "original_count_axis_reproduced": true,
+  "pairs": 960,
+  "protocol": "NERVA-M10C-v1",
+  "retrospective": true,
+  "signals": 7680,
+  "source_hashes_preserved": true,
+  "source_rows": 4800,
+  "trace_files": 20,
+  "trajectory_audits": [
+    {
+      "events": 29256,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 610
+    },
+    {
+      "events": 6798,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 611
+    },
+    {
+      "events": 12579,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 612
+    },
+    {
+      "events": 14645,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 613
+    },
+    {
+      "events": 6561,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 614
+    },
+    {
+      "events": 17454,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 615
+    },
+    {
+      "events": 10549,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 616
+    },
+    {
+      "events": 4962,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 617
+    },
+    {
+      "events": 42678,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 618
+    },
+    {
+      "events": 8692,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 619
+    },
+    {
+      "events": 18744,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 620
+    },
+    {
+      "events": 5418,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 621
+    },
+    {
+      "events": 16476,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 622
+    },
+    {
+      "events": 5295,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 623
+    },
+    {
+      "events": 3420,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 624
+    },
+    {
+      "events": 9042,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 625
+    },
+    {
+      "events": 24943,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 626
+    },
+    {
+      "events": 17478,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 627
+    },
+    {
+      "events": 10494,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 628
+    },
+    {
+      "events": 10036,
+      "phases": 384,
+      "reference_reproduced": true,
+      "seed": 629
+    }
+  ],
+  "windows": 1920
+}
